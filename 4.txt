@@ -12,14 +12,131 @@
 38.10.69.109:9090
 38.180.112.116:80
 188.132.221.163:8080
-188.125.169.8:8080	HTTP (Mikrotik)	NOA	TR !!!	188.125.169.8 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	5.842	
-9% (4) -	25-mar-2024 07:27 (2 days ago)
-78.170.135.164:8080	HTTP (Mikrotik)	NOA	TR	78.170.135.164.dynamic.ttnet.com.tr (Turk Telekom)	1.803	
-21% (9) +	25-mar-2024 06:48 (2 days ago)
-82.222.11.212:8080	HTTP (Mikrotik)	NOA	TR Gaziantep	host-82-222-11-212.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	18.263	
-14% (31) -	25-mar-2024 06:15 (2 days ago)
-212.174.242.114:8080	HTTP (Mikrotik)	NOA	TR Altindag (Ankara)	212.174.242.114.static.ttnet.com.tr (Turk Telekom)	4.238	
-13% (503) -	25-mar-2024 05:17 (2 days ago)
+188.125.169.8:8080
+78.170.135.164:8080
+82.222.11.212:8080
+213.14.32.76:4153
+78.135.87.95:80
+195.175.22.194:5678
+213.14.32.74:4153
+213.14.32.67:4153
+38.180.112.116:80
+176.236.37.132:1080
+78.189.191.184:48425
+212.174.17.57:1080
+88.255.217.44:10820
+104.247.163.246:1280
+173.213.71.6:80
+188.132.222.168:10820
+88.255.102.13:10820
+213.74.223.76:4153
+173.213.71.7:80
+78.186.18.142:3629
+88.245.138.87:1080
+85.102.10.94:4153
+38.156.74.88:8080
+31.145.154.138:9093
+188.132.221.189:8080
+176.235.139.35:10001
+88.247.209.143:8080
+95.0.168.62:1981
+188.132.222.36:8080
+176.88.166.190:5678
+38.156.75.203:8080
+38.156.73.151:8080
+176.235.182.99:8080
+176.88.15.70:8080
+38.156.72.179:8080
+212.156.217.147:4153
+194.31.79.75:21384
+38.156.73.60:8080
+212.174.242.114:8080
+213.14.31.123:35314
+78.186.18.142:3629
+173.213.71.6:80
+78.189.191.184:48425
+188.132.222.34:8080
+160.20.109.73:3128
+188.132.221.163:8080
+88.255.168.4:8080
+176.236.232.67:9090
+88.255.217.57:8080
+78.135.87.95:80
+185.208.102.155:8080
+194.31.79.75:21384
+213.74.223.72:4153
+188.132.222.35:8080
+185.123.101.160:80
+95.130.173.195:3128
+173.213.71.6:80	21 mins ago	
+1337 ms	77% (842)	tr Turkey - Istanbul	Elite
+173.213.71.7:80	21 mins ago	
+1279 ms	60% (700)	tr Turkey - Istanbul	Elite
+38.180.112.116:80	21 mins ago	
+706 ms	43% (322)	tr Turkey - Istanbul	Transparent
+212.174.242.114:8080	21 mins ago	
+4899 ms	2% (429)	tr Turkey - Buca	Transparent
+188.132.222.18:8080	23 mins ago	
+4400 ms	4% (32)	tr Turkey	Transparent
+185.123.101.160:80	24 mins ago	
+1941 ms	60% (194)	tr Turkey - Istanbul	Elite
+91.151.90.239:80	26 mins ago	
+788 ms	28% (256)	tr Turkey	Transparent
+212.64.193.117:80	26 mins ago	
+2061 ms	29% (7)	tr Turkey - Istanbul	Transparent
+78.135.87.95:80	26 mins ago	
+707 ms	44% (157)	tr Turkey	Transparent
+188.132.222.41:8080	55 mins ago	
+4078 ms	6% (124)	tr Turkey	Elite
+188.132.222.43:8080	56 mins ago	
+3566 ms	6% (161)	tr Turkey	Transparent
+149.50.238.14:8080	1 hour ago	
+3306 ms	4% (150)	tr Turkey - Istanbul	Transparent
+188.132.222.14:8080	1 hour ago	
+4456 ms	3% (141)	tr Turkey	Transparent
+38.156.72.77:8080	1 hour ago	
+3342 ms	3% (96)	tr Turkey	Transparent
+188.132.221.163:8080	2 hours ago	
+3703 ms	4% (441)	tr Turkey - Istanbul	Transparent
+188.132.203.107:8080	2 hours ago	
+4796 ms	3% (90)	tr Turkey	Transparent
+188.132.222.38:8080	2 hours ago	
+5600 ms	5% (93)	tr Turkey	Transparent
+188.132.222.167:8080	2 hours ago	
+3747 ms	4% (150)	tr Turkey	Transparent
+188.132.222.28:8080	2 hours ago	
+4006 ms	4% (125)	tr Turkey	Transparent
+188.132.222.166:8080	2 hours ago	
+4084 ms	3% (92)	tr Turkey	Transparent
+188.132.222.34:8080	2 hours ago	
+4941 ms	3% (87)	tr Turkey	Transparent
+188.132.222.67:8080	2 hours ago	
+3616 ms	4% (136)	tr Turkey	Transparent
+188.132.222.2:8080	3 hours ago	
+4114 ms	2% (181)	tr Turkey	Transparent
+38.10.69.107:9090	4 hours ago	
+4225 ms	50% (2)	tr Turkey - Konya	Transparent
+188.132.222.39:8080	4 hours ago	
+4257 ms	3% (186)	tr Turkey	Transparent
+149.34.210.60:9090	4 hours ago	
+3789 ms	6% (35)	tr Turkey - Konya	Transparent
+188.132.221.189:8080	4 hours ago	
+3055 ms	5% (131)	tr Turkey - Antakya	Transparent
+38.156.74.6:8080	5 hours ago	
+5251 ms	2% (102)	tr Turkey	Transparent
+92.119.59.161:80	6 hours ago	
+575 ms	39% (507)	tr Turkey - Istanbul	Transparent
+188.132.146.75:8080	6 hours ago	
+3766 ms	2% (256)	tr Turkey - Reyhanli	Transparent
+188.132.222.9:8080	7 hours ago	
+4353 ms	4% (109)	tr Turkey	Transparent
+188.132.221.133:8080	9 hours ago	
+4445 ms	3% (111)	tr Turkey - Antakya	Transparent
+194.124.36.75:8080	9 hours ago	
+4956 ms	3% (36)	tr Turkey - Antalya	Transparent
+149.34.210.62:9090	10 hours ago	
+5447 ms	3% (43)	tr Turkey - Konya	Transparent
+188.132.221.169:8080
 188.132.146.75:8080	HTTP (Mikrotik)	NOA	TR	188.132.146.75 (Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi)	13.904	
 11% (7) -	24-mar-2024 06:52 (3 days ago)
 185.208.101.89:8080	HTTP (Mikrotik)	NOA	TR Kilis	185.208.101.89 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	18.535	
