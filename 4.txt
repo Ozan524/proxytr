@@ -1,3 +1,374 @@
+176.236.124.252:10001
+176.236.124.252	HTTP
+(Mikrotik)	TRANS	Soma, Manisa, TR TR Flag	16%	Mar 27, 2024 05:37
+31.145.154.138:9093
+31.145.154.138	HTTP
+(Mikrotik)	TRANS	Adana, TR TR Flag
+AS15924	11%	Mar 27, 2024 05:00
+88.250.60.33:8080
+88.250.60.33.static.ttnet.com.tr	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS47331 (Turk Telekom)	25%	Mar 27, 2024 05:00
+176.88.166.218:8080
+176.88.166.218	HTTP
+(Mikrotik)	TRANS	Kilis, TR TR Flag	13%	Mar 27, 2024 05:00
+173.213.71.6:80
+173.213.71.6	HTTP	ANON	Istanbul, TR TR Flag
+AS216383 (Online Server Telekomunikasyon Limited Sirketi)	70%	Mar 27, 2024 05:00
+92.119.59.161:80
+92.119.59.161	HTTP	TRANS	Istanbul, TR TR Flag
+AS57935 (Nrp Teknoloji Limited Sirketi)	67%	Mar 27, 2024 05:00
+194.31.64.44:80
+sunucu.al	HTTP	ELITE	TR TR Flag
+AS212598 (SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.)	14%	Mar 27, 2024 05:00
+185.250.27.54:3128
+185.250.27.54	HTTP
+(Squid)	TRANS	Bursa, Bursa Province, TR TR Flag
+AS43260 (Dgn Teknoloji A.s.)	56%	Mar 27, 2024 05:00
+38.10.69.109:9090
+38.10.69.109	HTTP
+(Mikrotik)	TRANS	Konya, TR TR Flag
+AS174 (COGENT-174)	6%	Mar 27, 2024 05:00
+38.180.112.116:80
+38.180.112.116	HTTP	TRANS	Istanbul, TR TR Flag
+AS58061 (Scalaxy B.V.)	42%	Mar 26, 2024 21:35
+173.213.71.7:80
+173.213.71.7	HTTP	ANON	Istanbul, TR TR Flag
+AS216383 (Online Server Telekomunikasyon Limited Sirketi)	100%	Mar 26, 2024 17:15
+188.125.169.8:8080
+188.125.169.8	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10%	Mar 25, 2024 07:53
+82.222.11.212:8080
+host-82-222-11-212.reverse.superonline.net	HTTP
+(Mikrotik)	TRANS	Gaziantep, TR TR Flag
+AS34984 (TELLCOM-AS)	14%	Mar 25, 2024 06:39
+212.174.242.114:8080
+212.174.242.114.static.ttnet.com.tr	HTTP
+(Mikrotik)	TRANS	Altindag, Ankara, TR TR Flag
+AS9121 (TTNet)	13%	Mar 25, 2024 06:02
+188.132.146.75:8080
+188.132.146.75	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS207474 (Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi)	12%	Mar 25, 2024 04:11
+185.208.101.89:8080
+185.208.101.89	HTTP
+(Mikrotik)	TRANS	Kilis, TR TR Flag
+AS42083 (GUNEYDOGUTELEKOM)	15%	Mar 24, 2024 17:04
+185.73.203.176:443
+reverse.comnetnetwork.com	HTTP
+(3proxy)	TRANS	TR TR Flag
+AS61135 (Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.)	50%	Mar 23, 2024 16:59
+91.151.90.239:80
+hostmaster.poyrazhosting.com.tr	HTTP	TRANS	TR TR Flag
+AS207459 (Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti.)	64%	Mar 23, 2024 16:59
+188.132.221.163:8080
+188.132.221.163	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS42910 (PREMIERDC-VERI-MERKEZI-ANONIM-SIRKETI)	14%	Mar 23, 2024 16:59
+141.98.112.214:64261
+mail.raynointeractive.com	SOCKS5	ELITE	TR TR Flag	15%	Mar 22, 2024 11:57
+84.32.230.183:80
+84.32.230.183	HTTP	ANON	Istanbul, TR TR Flag
+AS62425 (Mailbox Internet Hizmetleri Ltd. Sti.)	100%	Mar 22, 2024 08:52
+88.255.217.57:8080
+88.255.217.57.static.ttnet.com.tr	HTTP
+(Mikrotik)	TRANS	Istanbul, TR TR Flag
+AS9121 (Turk Telekom)	13%	Mar 22, 2024 08:52
+78.135.104.160:80
+78.135.104.160	HTTP	TRANS	TR TR Flag
+AS61135 (Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.)	100%	Mar 22, 2024 07:01
+78.135.87.95:80
+78.135.87.95	HTTP	TRANS	TR TR Flag
+AS207279 (Markahost Telekomunikasyon Ve Ticaret Limited Sirketi)	50%	Mar 22, 2024 07:01
+78.170.135.164:8080
+78.170.135.164.dynamic.ttnet.com.tr	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS9121 (Turk Telekom)	25%	Mar 22, 2024 03:18
+78.186.109.247:8080
+78.186.109.247.static.ttnet.com.tr	HTTPS
+(Mikrotik)	TRANS	TR TR Flag
+AS9121 (TTNet)	10%	Mar 22, 2024 00:13
+188.132.203.106:8080
+188.132.203.106	HTTP
+(Mikrotik)	TRANS	TR TR Flag	10%	Mar 21, 2024 02:36
+88.255.65.125:8080
+88.255.65.125.static.ttnet.com.tr	HTTP
+(Mikrotik)	TRANS	Kartal, Istanbul, TR TR Flag
+AS9121 (Turk Telekom)	14%	Mar 19, 2024 19:43
+176.236.141.30:10001
+176.236.141.30	HTTP
+(Mikrotik)	TRANS	Mersin, TR TR Flag	11%	Mar 19, 2024 02:43
+85.109.104.100:9090
+85.109.104.100.dynamic.ttnet.com.tr	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS9121	15%	Mar 18, 2024 19:56
+38.156.72.77:8080
+38.156.72.77	HTTPS
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	38%	Mar 18, 2024 07:35
+38.156.75.14:8080
+38.156.75.14	HTTPS
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	32%	Mar 18, 2024 07:35
+176.235.131.228:9090
+176.235.131.228	HTTP
+(Mikrotik)	TRANS	Istanbul, TR TR Flag
+AS34984 (TELLCOM-AS)	8%	Mar 18, 2024 07:35
+149.34.210.62:9090
+undefined.hostname.localhost	HTTP
+(Mikrotik)	TRANS	Konya, TR TR Flag	3%	Mar 18, 2024 07:35
+91.93.42.119:10001
+host-91-93-42-119.reverse.superonline.net	HTTP
+(Mikrotik)	TRANS	Istanbul, TR TR Flag
+AS34984 (TELLCOM-AS)	4%	Mar 18, 2024 07:35
+88.255.65.120:8080
+88.255.65.120.static.ttnet.com.tr	HTTP
+(Mikrotik)	TRANS	Kartal, Istanbul, TR TR Flag
+AS9121 (TTNet)	21%	Mar 18, 2024 07:35
+160.20.109.73:3128
+host-160.20.109.73.kayizer.com	HTTPS
+(Squid)	TRANS	TR TR Flag
+AS43260 (Dgn Teknoloji A.s.)	50%	Mar 17, 2024 13:41
+194.31.79.75:17223
+server.muratkanbur.com	SOCKS5	ELITE	TR TR Flag
+AS212598 (SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.)	100%	Mar 17, 2024 11:13
+212.174.79.165:8080
+212.174.79.165.static.ttnet.com.tr	HTTPS	ELITE	Sanliurfa, Şanlıurfa, TR TR Flag
+AS9121 (TTNet)	11%	Mar 17, 2024 11:13
+212.252.73.23:8080
+host-212-252-73-23.reverse.superonline.net	HTTP
+(Mikrotik)	TRANS	Istanbul, TR TR Flag
+AS34984 (Superonline Iletisim Hizmetleri A.S.)	27%	Mar 16, 2024 22:15
+45.8.21.43:3128
+45.8.21.43	HTTP
+(Mikrotik)	TRANS	Köseköy, Kocaeli, TR TR Flag
+AS16628 (DEDICATED-FIBER-COMMUNICATIONS)	10%	Mar 15, 2024 17:51
+185.200.37.116:8080
+185.200.37.116	HTTPS
+(Mikrotik)	TRANS	TR TR Flag
+AS202561 (highspeed)	12%	Mar 15, 2024 08:35
+38.156.72.133:8080
+38.156.72.133	HTTPS
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS174 (COGENT-174)	12%	Mar 15, 2024 08:35
+212.252.66.209:8080
+host-212-252-66-209.reverse.superonline.net	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS34984 (TELLCOM-AS)	17%	Mar 11, 2024 23:17
+188.132.203.107:8080
+188.132.203.107	HTTP
+(Mikrotik)	TRANS	TR TR Flag	8%	Mar 11, 2024 23:17
+38.41.53.145:9090
+38.41.53.145	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS174 (COGENT-174)	6%	Mar 11, 2024 23:17
+38.10.69.98:9090
+38.10.69.98	HTTP
+(Mikrotik)	TRANS	Konya, TR TR Flag
+AS174 (COGENT-174)	11%	Mar 11, 2024 23:17
+104.247.167.175:21091
+175DnK1Yq.guzel.net.tr	SOCKS5	ELITE	TR TR Flag
+AS42846 (GNET Internet Telekomunikasyon A.S.)	33%	Mar 11, 2024 11:05
+216.9.224.113:80
+3575-1432.dchost.com	HTTP	TRANS	Istanbul, TR TR Flag
+AS208287 (DC Host INC)	50%	Mar 8, 2024 08:20
+176.236.232.50:9090
+176.236.232.50	HTTP
+(Mikrotik)	TRANS	İzmit, Kocaeli, TR TR Flag	8%	Mar 8, 2024 08:20
+194.124.36.28:8080
+194.124.36.28	HTTPS
+(Mikrotik)	TRANS	Antalya, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	40%	Mar 8, 2024 08:20
+188.132.222.66:8080
+188.132.222.66	HTTPS
+(Mikrotik)	TRANS	TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	100%	Mar 8, 2024 07:06
+38.156.73.149:8080
+38.156.73.149	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (highspeed)	19%	Mar 7, 2024 04:31
+195.175.29.38:9090
+195.175.29.38.static.turktelekom.com.tr	HTTP
+(Mikrotik)	TRANS	Istanbul, TR TR Flag
+AS9121 (TTNet)	14%	Mar 7, 2024 04:31
+188.132.222.229:8080
+188.132.222.229	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS42910 (PREMIERDC-VERI-MERKEZI-ANONIM-SIRKETI)	43%	Mar 6, 2024 18:01
+88.247.209.143:8080
+88.247.209.143.static.ttnet.com.tr	HTTPS
+(Mikrotik)	TRANS	Izmir, İzmir Province, TR TR Flag
+AS47331 (TTNET)	14%	Mar 5, 2024 22:52
+194.124.37.13:8080
+194.124.37.13	HTTP
+(Mikrotik)	TRANS	Antalya, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	25%	Mar 5, 2024 21:38
+38.156.72.179:8080
+38.156.72.179	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS174 (COGENT-174)	8%	Mar 5, 2024 19:46
+104.247.164.231:54873
+mail.mawiconstruction.com	SOCKS5	ELITE	TR TR Flag
+AS42846 (GNET Internet Telekomunikasyon A.S.)	33%	Mar 5, 2024 09:16
+38.156.75.44:8080
+38.156.75.44	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	14%	Mar 5, 2024 08:01
+38.156.73.148:8080
+38.156.73.148	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	57%	Mar 3, 2024 20:49
+38.156.72.19:8080
+38.156.72.19	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	75%	Mar 3, 2024 02:55
+38.156.74.90:8080
+38.156.74.90	HTTPS
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10%	Mar 2, 2024 15:11
+185.208.101.216:8080
+185.208.101.216	HTTP
+(Mikrotik)	TRANS	Kilis, TR TR Flag
+AS42083 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	40%	Mar 2, 2024 15:11
+38.156.74.6:8080
+38.156.74.6	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10%	Mar 2, 2024 15:11
+176.235.182.105:8080
+176.235.182.105	HTTP
+(Mikrotik)	TRANS	Gaziantep, TR TR Flag
+AS34984 (TELLCOM-AS)	15%	Mar 2, 2024 15:11
+194.124.36.75:8080
+194.124.36.75	HTTP
+(Mikrotik)	TRANS	Antalya, TR TR Flag
+AS201971 (CreeperHostLTD-AS)	27%	Mar 2, 2024 11:29
+185.208.101.217:8080
+185.208.101.217	HTTP
+(Mikrotik)	TRANS	Kilis, TR TR Flag
+AS42083 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	29%	Mar 2, 2024 04:04
+194.31.79.75:29671
+server.muratkanbur.com	SOCKS5	ELITE	TR TR Flag
+AS212598 (SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.)	40%	Mar 2, 2024 04:04
+185.208.102.62:8080
+185.208.102.62	HTTP
+(Mikrotik)	TRANS	Reyhanli, Hatay, TR TR Flag	22%	Mar 2, 2024 03:26
+38.156.73.50:8080
+38.156.73.50	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	57%	Mar 1, 2024 22:30
+88.255.102.105:8080
+88.255.102.105.static.ttnet.com.tr	HTTPS
+(Mikrotik)	TRANS	Küçükçekmece, Istanbul, TR TR Flag
+AS9121	16%	Mar 1, 2024 20:02
+185.200.37.245:8080
+185.200.37.245	HTTPS
+(Mikrotik)	TRANS	TR TR Flag
+AS202561 (highspeed)	18%	Mar 1, 2024 19:24
+188.132.221.135:8080
+188.132.221.135	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	9%	Mar 1, 2024 07:02
+38.10.69.110:9090
+38.10.69.110	HTTP
+(Mikrotik)	TRANS	Konya, TR TR Flag
+AS174 (COGENT-174)	2%	Mar 1, 2024 07:02
+185.208.102.101:8080
+185.208.102.101	HTTP
+(Mikrotik)	TRANS	Reyhanli, Hatay, TR TR Flag
+AS42083 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	25%	Mar 1, 2024 05:11
+84.51.15.253:32650
+host-84-51-15-253.teletektelekom.com	HTTP
+(Mikrotik)	TRANS	Istanbul, TR TR Flag
+AS34984 (TELLCOM-AS)	12%	Feb 29, 2024 22:23
+194.124.37.8:8080
+194.124.37.8	HTTP
+(Mikrotik)	TRANS	Antalya, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	12%	Feb 29, 2024 22:23
+88.255.65.103:8080
+88.255.65.103.static.ttnet.com.tr	HTTPS
+(Mikrotik)	TRANS	Kartal, Istanbul, TR TR Flag
+AS9121 (Turk Telekom)	29%	Feb 28, 2024 09:18
+185.208.102.55:8080
+185.208.102.55	HTTPS
+(Mikrotik)	TRANS	Reyhanli, Hatay, TR TR Flag
+AS42083 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	17%	Feb 28, 2024 09:18
+188.132.222.5:8080
+188.132.222.5	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS42910 (PREMIERDC-VERI-MERKEZI-ANONIM-SIRKETI)	17%	Feb 28, 2024 09:18
+95.0.168.62:1981
+way.correctnic.com	HTTP
+(Mikrotik)	TRANS	Karkamis, Gaziantep, TR TR Flag
+AS9121 (Turk Telekom)	33%	Feb 27, 2024 15:58
+38.156.72.2:8080
+38.156.72.2	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS174 (COGENT-174)	12%	Feb 27, 2024 14:44
+188.132.221.169:8080
+188.132.221.169	HTTP
+(Mikrotik)	TRANS	Antakya, Hatay, TR TR Flag
+AS42910 (PREMIERDC-VERI-MERKEZI-ANONIM-SIRKETI)	13%	Feb 27, 2024 14:44
+149.50.238.114:8080
+149.50.238.114	HTTPS
+(Mikrotik)	TRANS	TR TR Flag
+AS206119 (Veganet Teknolojileri ve Hizmetleri LTD STI)	16%	Feb 26, 2024 20:10
+38.156.72.14:8080
+38.156.72.14	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS174 (COGENT-174)	14%	Feb 26, 2024 02:13
+194.124.36.178:8080
+194.124.36.178	HTTPS
+(Mikrotik)	TRANS	Antalya, TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	13%	Feb 25, 2024 21:05
+194.15.52.23:3128
+vdsturkiye.com	HTTP
+(Squid)	TRANS	Bursa, Bursa Province, TR TR Flag
+AS205463 (Pembe Gul Isguzar Karagoz)	29%	Feb 25, 2024 21:05
+45.11.96.41:8080
+45.11.96.41.pendns.net	HTTPS
+(Squid)	TRANS	TR TR Flag
+AS48678 (PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi)	17%	Feb 25, 2024 21:05
+185.169.183.200:8080
+185.169.183.200	HTTP
+(Mikrotik)	TRANS	Reyhanli, Hatay, TR TR Flag
+AS51559 (NETINTERNET)	7%	Feb 24, 2024 20:19
+185.171.24.5:6378
+mail.dijitalisortagi.com.tr	SOCKS5	ELITE	TR TR Flag
+AS60721 (Bursabil Teknoloji A.S.)	100%	Feb 24, 2024 20:19
+188.132.222.14:8080
+188.132.222.14	HTTPS
+(Mikrotik)	TRANS	TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10%	Feb 24, 2024 20:19
+38.41.53.144:9090
+38.41.53.144	HTTPS
+(Mikrotik)	TRANS	TR TR Flag
+AS174 (COGENT-174)	6%	Feb 24, 2024 15:22
+185.165.46.208:3128
+185.165.46.208	HTTPS	ELITE	Istanbul, TR TR Flag
+AS203248 (BurtiNET Internet Hizmetleri)	50%	Feb 23, 2024 21:26
+38.156.74.87:8080
+38.156.74.87	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	12%	Feb 24, 2024 02:22
+38.156.74.88:8080
+38.156.74.88	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS202561 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	40%	Feb 23, 2024 18:20
+188.132.222.166:8080
+188.132.222.166	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS42910 (PREMIERDC-VERI-MERKEZI-ANONIM-SIRKETI)	15%	Feb 22, 2024 16:29
+188.132.222.16:8080
+188.132.222.16	HTTP
+(Mikrotik)	TRANS	TR TR Flag
+AS42910 (PREMIERDC-VERI-MERKEZI-ANONIM-SIRKETI)	28%	Feb 20, 2024 03:17
+38.10.69.107:9090
+38.10.69.107	HTTP
+(Mikrotik)	TRANS	Konya, TR TR Flag
+AS208972 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	3%	Feb 19, 2024 13:05
+149.34.210.56:9090
+
 176.236.124.252:10001	HTTP (Mikrotik)	NOA	TR Soma (Manisa)	176.236.124.252 (Superonline Iletisim Hizmetleri A.S.)	5.145	
 16% (162) -	27-mar-2024 04:38 (1 hours ago)
 31.145.154.138:9093	HTTP (Mikrotik)	NOA	TR Adana !!!	31.145.154.138 (Vodafone Net Iletisim Hizmetler AS)	16.416	
