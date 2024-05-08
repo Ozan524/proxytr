@@ -1,3 +1,30 @@
+103.130.145.169:80	HTTP	ANM	TR Istanbul	103-130-145-169.digiturunc.com (Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi)	0.412	
+96% (49) +	08-may-2024 05:20 (1 hours ago)
+212.174.15.142:8080	HTTP	HIA	TR Istanbul	212.174.15.142.static.ttnet.com.tr (Turk Telekom)	4.377	
+13% (3) -	08-may-2024 02:12 (4 hours ago)
+188.132.222.230:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.230 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.801	
+3% (4) -	08-may-2024 00:11 (6 hours ago)
+185.73.203.176:443	HTTPS (3proxy)	NOA	TR Istanbul	reverse.comnetnetwork.com (Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.)	1.132	
+12% (9) -	07-may-2024 23:38 (6 hours ago)
+188.125.167.66:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	server.bidea.biz (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	4.708	
+13% (2) -	07-may-2024 18:55 (11 hours ago)
+173.213.71.6:80	HTTP	ANM	TR Istanbul	173.213.71.6 (Online Server Telekomunikasyon Limited Sirketi)	1.073	
+69% (45) +	07-may-2024 15:51 (14 hours ago)
+185.208.101.89:8080	HTTP (Mikrotik)	NOA	TR Kilis	185.208.101.89 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	5.462	
+15% (57) -	07-may-2024 09:17 (21 hours ago)
+88.247.209.143:8080	HTTP (Mikrotik)	NOA	TR Izmir (İzmir Province)	88.247.209.143.static.ttnet.com.tr (Turk Telekom)	9.335	
+12% (24) -	06-may-2024 10:50 (1 days ago)
+149.86.140.130:8080	HTTP (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	17.992	
+17% (4) -	06-may-2024 07:04 (1 days ago)
+38.156.72.38:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.38 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	15.16	
+29% (2) -	06-may-2024 06:28 (2 days ago)
+212.252.66.209:8080	HTTP (Mikrotik)	NOA	TR	host-212-252-66-209.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	3.407	
+16% (110) -	06-may-2024 04:33 (2 days ago)
+176.236.124.252:10001	HTTPS (Mikrotik)	NOA	TR Soma (Manisa)	176.236.124.252 (Superonline Iletisim Hizmetleri A.S.)	19.477	
+16% (173) -	06-may-2024 02:03 (2 days ago)
+31.145.154.138:9093	HTTP (Mikrotik)	NOA	TR Istanbul !!!	31.145.154.138 (Vodafone Net Iletisim Hizmetler AS)	8.976	
+11% (290) -	05-may-2024 22:44 (2 days ago)
+88.255.65.113:8080	HTTP (Mikrotik)	NOA	TR Istanbul	88.255.65.113.static.ttnet.com.tr (Turk Telekom)	
 185.23.73.1:1080
 212.156.217.147:4153
 176.236.163.35:59311
