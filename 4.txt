@@ -1,3 +1,674 @@
+212.174.15.142:8080	HTTP	HIA	TR Istanbul	212.174.15.142.static.ttnet.com.tr (Turk Telekom)	15.941	
+13% (7) -	27-may-2024 09:06 (1 hours ago)
+185.208.101.89:8080	HTTP (Mikrotik)	NOA	TR Kilis	185.208.101.89 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	5.735	
+15% (62) -	27-may-2024 08:06 (2 hours ago)
+188.132.146.240:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	188.132.146.240 (Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi)	3.765	
+29% (2) -	26-may-2024 22:28 (11 hours ago)
+88.255.65.113:8080	HTTPS (Mikrotik)	NOA	TR Istanbul	88.255.65.113.static.ttnet.com.tr (Turk Telekom)	17.836	
+19% (4) -	26-may-2024 22:05 (12 hours ago)
+88.255.217.30:8080	HTTP (Mikrotik)	NOA	TR Istanbul !!!	88.255.217.30.static.ttnet.com.tr (Turk Telekom)	4.438	
+12% (3) -	26-may-2024 16:05 (18 hours ago)
+173.213.71.6:80	HTTP	ANM	TR Istanbul	173.213.71.6 (Online Server Telekomunikasyon Limited Sirketi)	0.804	
+67% (58) +	26-may-2024 14:50 (19 hours ago)
+176.88.166.218:8080	HTTP (Mikrotik)	NOA	TR Kilis	176.88.166.218 (Superonline Iletisim Hizmetleri A.S.)	7.923	
+13% (40) -	26-may-2024 06:11 (1 days ago)
+149.86.140.141:8080	HTTP (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	19.322	
+33% (1) -	26-may-2024 04:48 (1 days ago)
+188.132.222.50:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.50 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.54	
+22% (5) -	26-may-2024 04:39 (1 days ago)
+212.174.79.169:8080	HTTP (Mikrotik)	NOA	TR Sanliurfa (Şanlıurfa)	212.174.79.169.static.ttnet.com.tr (Turk Telekom)	2.955	
+16% (3) -	26-may-2024 02:55 (1 days ago)
+176.236.232.50:9090	HTTP (Mikrotik)	NOA	TR Kartal (Istanbul)	176.236.232.50 (Superonline Iletisim Hizmetleri A.S.)	16.695	
+7% (27) -	26-may-2024 02:46 (1 days ago)
+176.236.124.252:10001	HTTPS (Mikrotik)	NOA	TR Soma (Manisa)	176.236.124.252 (Superonline Iletisim Hizmetleri A.S.)	10.359	
+16% (177) -	25-may-2024 23:07 (1 days ago)
+185.86.5.162:8975	SOCKS5	HIA	TR Istanbul !!!	myschools32.flashbeautycare.com (Ideal Hosting Teknoloji A.S.)	1.311	
+4% (33) -	25-may-2024 16:29 (1 days ago)
+188.125.167.200:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.125.167.200 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.743	
+33% (1) -	25-may-2024 09:26 (2 days ago)
+176.236.141.30:10001	HTTP (Mikrotik)	NOA	TR Mersin	176.236.141.30 (Superonline Iletisim Hizmetleri A.S.)	9.85	
+11% (303) -	25-may-2024 06:16 (2 days ago)
+173.213.71.7:80	HTTP	ANM	TR Istanbul	173.213.71.7 (Online Server Telekomunikasyon Limited Sirketi)	0.582	
+68% (52) +	25-may-2024 04:33 (2 days ago)
+88.247.209.143:8080	HTTP (Mikrotik)	NOA	TR Izmir (İzmir Province)	88.247.209.143.static.ttnet.com.tr (Turk Telekom)	16.648	
+12% (27) -	24-may-2024 18:56 (2 days ago)
+38.156.72.135:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	38.156.72.135 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	13.686	
+11% (1) -	24-may-2024 18:03 (2 days ago)
+188.132.221.53:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.53 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.739	
+25% (3) -	24-may-2024 17:01 (2 days ago)
+88.255.185.245:8080	HTTP (Mikrotik)	NOA	TR Adapazarı (Sakarya)	88.255.185.245.static.ttnet.com.tr (Turk Telekom)	17.469	
+11% (4) -	24-may-2024 11:23 (2 days ago)
+89.252.178.212:36599	SOCKS5	HIA	TR	212f57t5n.guzel.net.tr (GNET Internet Telekomunikasyon A.S.)	12.012	
+new -	24-may-2024 10:55 (2 days ago)
+188.132.222.230:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.230 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	15.706	
+5% (9) -	24-may-2024 10:00 (3 days ago)
+185.73.203.176:443	HTTP (3proxy)	NOA	TR Istanbul	reverse.comnetnetwork.com (Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.)	1.479	
+12% (13) -	24-may-2024 08:42 (3 days ago)
+38.156.72.199:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.199 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	19.045	
+75% (3) -	24-may-2024 06:20 (3 days ago)
+78.170.135.164:8080	HTTP (Mikrotik)	NOA	TR Ankara	78.170.135.164.dynamic.ttnet.com.tr (Turk Telekom)	10.338	
+16% (17) -	23-may-2024 23:25 (3 days ago)
+38.156.73.155:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.155 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	19.106	
+29% (2) -	23-may-2024 20:16 (3 days ago)
+188.125.167.66:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	server.bidea.biz (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.482	
+18% (7) -	23-may-2024 20:05 (3 days ago)
+149.86.146.44:8080	HTTPS (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	8.458	
+14% (1) -	23-may-2024 07:36 (4 days ago)
+188.132.221.81:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.81 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.392	
+25% (1) -	22-may-2024 23:21 (4 days ago)
+212.174.79.165:8080	HTTP	HIA	TR Sanliurfa (Şanlıurfa)	212.174.79.165.static.ttnet.com.tr (Turk Telekom)	5.145	
+10% (13) -	22-may-2024 18:25 (4 days ago)
+78.135.66.137:80	HTTPS	HIA	TR	78.135.66.137 (PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi)	1.811	
+64% (16) -	21-may-2024 19:29 (5 days ago)
+185.233.247.186:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	hosted.veganet.com.tr (Veganet Teknolojileri ve Hizmetleri LTD STI)	17.798	
+8% (6) -	21-may-2024 07:31 (6 days ago)
+31.145.154.138:9093	HTTP (Mikrotik)	NOA	TR Istanbul !!!	31.145.154.138 (Vodafone Net Iletisim Hizmetler AS)	4.431	
+11% (292) -	20-may-2024 20:09 (6 days ago)
+103.130.145.169:80	HTTP	ANM	TR Istanbul	103-130-145-169.digiturunc.com (Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi)	5.205	
+84% (75) +	19-may-2024 08:07 (8 days ago)
+38.156.72.77:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.77 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.048	
+18% (10) -	19-may-2024 03:52 (8 days ago)
+95.0.168.62:1976	HTTP (Mikrotik)	NOA	TR Karkamış (Gaziantep)	gate.correctnic.com (Turk Telekom)	14.871	
+12% (5) -	18-may-2024 20:52 (8 days ago)
+149.86.146.121:8080	HTTPS (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	1.173	
+29% (4) -	18-may-2024 09:39 (9 days ago)
+84.51.15.254:32650	HTTP (Mikrotik)	NOA	TR Istanbul !!!	host-84-51-15-254.teletektelekom.com (Superonline Iletisim Hizmetleri A.S.)	10.178	
+9% (6) -	16-may-2024 10:59 (10 days ago)
+176.235.139.35:10001	HTTP (Mikrotik)	NOA	TR Ulukavak (Çorum) !!!	176.235.139.35 (Superonline Iletisim Hizmetleri A.S.)	9.772	
+2% (5) -	15-may-2024 01:44 (12 days ago)
+188.132.203.107:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay) !!!	188.132.203.107 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	9.319	
+7% (23) -	14-may-2024 07:39 (13 days ago)
+212.174.79.177:8080	HTTP (Mikrotik)	NOA	TR Sanliurfa (Şanlıurfa)	212.174.79.177.static.ttnet.com.tr (Turk Telekom)	2.067	
+22% (5) -	11-may-2024 08:56 (16 days ago)
+212.174.242.114:8080	HTTP (Mikrotik)	NOA	TR Istanbul	212.174.242.114.static.ttnet.com.tr (Turk Telekom)	7.696	
+13% (509) -	10-may-2024 20:03 (16 days ago)
+149.86.146.130:8080	HTTP (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	16.714	
+16% (3) -	09-may-2024 21:53 (17 days ago)
+149.86.140.130:8080	HTTP (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	17.992	
+10% (4) -	06-may-2024 07:04 (21 days ago)
+38.156.72.38:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.38 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	15.16	
+20% (2) -	06-may-2024 06:28 (21 days ago)
+212.252.66.209:8080	HTTP (Mikrotik)	NOA	TR	host-212-252-66-209.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	3.407	
+16% (110) -	06-may-2024 04:33 (21 days ago)
+188.132.222.168:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.168 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	18.22	
+50% (1) -	05-may-2024 05:54 (22 days ago)
+195.175.29.38:9090	HTTP (Mikrotik)	NOA	TR Istanbul !!!	195.175.29.38.static.turktelekom.com.tr (Turk Telekom)	1.582	
+13% (202) -	05-may-2024 01:30 (22 days ago)
+188.132.221.189:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.189 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.096	
+new -	04-may-2024 11:34 (22 days ago)
+154.53.160.82:3128	HTTP (Squid)	NOA	TR Istanbul	hosted-by.hzd.com.tr (Mailbox Internet Hizmetleri Ltd. Sti.)	20.604	
+10% (5) -	04-may-2024 09:03 (23 days ago)
+88.250.60.33:8080	HTTP (Mikrotik)	NOA	TR Kayseri	88.250.60.33.static.ttnet.com.tr (Turk Telekom)	17.85	
+17% (26) -	04-may-2024 08:16 (23 days ago)
+188.132.146.75:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.146.75 (Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi)	6.575	
+13% (16) -	03-may-2024 03:21 (24 days ago)
+84.51.15.253:32650	HTTP (Mikrotik)	NOA	TR Istanbul !!!	host-84-51-15-253.teletektelekom.com (Superonline Iletisim Hizmetleri A.S.)	16.606	
+9% (17) -	02-may-2024 17:59 (24 days ago)
+38.10.69.102:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.102 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	4.367	
+6% (5) -	01-may-2024 04:33 (26 days ago)
+78.189.148.19:3310	HTTPS	HIA	TR Istanbul	78.189.148.19.static.ttnet.com.tr (Turk Telekom)	2.735	
+2% (1) +	01-may-2024 03:02 (26 days ago)
+38.156.75.199:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.75.199 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	0.66	
+14% (2) -	29-apr-2024 11:38 (27 days ago)
+188.132.146.101:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.146.101 (Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi)	4.543	
+8% (2) -	27-apr-2024 08:44 (30 days ago)
+78.186.109.247:8080	HTTP (Mikrotik)	NOA	TR Akçagedik (Siirt)	78.186.109.247.static.ttnet.com.tr (Turk Telekom)	4.157	
+8% (20) -	26-apr-2024 13:46 (30 days ago)
+212.252.73.23:8080	HTTP (Mikrotik)	NOA	TR Istanbul	host-212-252-73-23.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	11.697	
+17% (15) -	25-apr-2024 17:14 (31 days ago)
+185.208.102.58:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.208.102.58 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	10.156	
+50% (1) -	23-apr-2024 23:51 (33 days ago)
+2.59.117.122:46738	SOCKS5	HIA	TR	output-center.jadebooths.com (Poyraz Hosting)	21.436	
+13% (3) -	23-apr-2024 13:47 (33 days ago)
+38.156.72.14:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	38.156.72.14 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	5.718	
+14% (18) -	21-apr-2024 09:52 (36 days ago)
+188.132.222.52:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.52 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	13.122	
+8% (2) -	20-apr-2024 06:16 (37 days ago)
+91.93.42.118:10001	HTTP (Mikrotik)	NOA	TR Istanbul !!!	host-91-93-42-118.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	18.529	
+3% (44) -	17-apr-2024 09:23 (40 days ago)
+38.10.69.101:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.101 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	22.326	
+6% (49) -	16-apr-2024 06:29 (41 days ago)
+88.255.65.120:8080	HTTP (Mikrotik)	NOA	TR Istanbul	88.255.65.120.static.ttnet.com.tr (Turk Telekom)	17.928	
+17% (20) -	15-apr-2024 06:49 (42 days ago)
+188.132.203.106:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	188.132.203.106 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	4.355	
+9% (29) -	14-apr-2024 03:07 (43 days ago)
+188.125.169.8:8080	HTTP (Mikrotik)	NOA	TR !!!	188.125.169.8 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.496	
+5% (5) -	13-apr-2024 20:34 (43 days ago)
+149.34.210.62:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	3.66	
+4% (7) -	13-apr-2024 13:44 (43 days ago)
+88.255.217.57:8080	HTTPS (Mikrotik)	NOA	TR Istanbul !!!	88.255.217.57.static.ttnet.com.tr (Turk Telekom)	4.098	
+11% (11) -	13-apr-2024 08:59 (44 days ago)
+38.156.73.151:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.151 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	7.727	
+28% (7) +	13-apr-2024 06:59 (44 days ago)
+38.41.53.149:9090	HTTP (Mikrotik)	NOA	TR !!!	38.41.53.149 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	2.761	
+4% (9) -	12-apr-2024 14:46 (44 days ago)
+38.156.75.200:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.75.200 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.93	
+11% (2) -	11-apr-2024 02:53 (46 days ago)
+38.41.53.145:9090	HTTP (Mikrotik)	NOA	TR !!!	38.41.53.145 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	3.508	
+6% (54) -	09-apr-2024 17:11 (47 days ago)
+185.208.102.155:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.208.102.155 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	15.557	
+13% (10) -	06-apr-2024 11:20 (50 days ago)
+38.180.112.116:80	HTTP	NOA	TR Istanbul	38.180.112.116 (Scalaxy B.V.)	0.341	
+17% (17) +	05-apr-2024 15:36 (51 days ago)
+104.247.163.246:1280	SOCKS5	HIA	TR	246jw3tFA.guzel.net.tr (GNET Internet Telekomunikasyon A.S.)	2.402	
+17% (1) -	04-apr-2024 10:57 (52 days ago)
+141.98.112.214:64261	SOCKS5	HIA	TR !!!	mail.raynointeractive.com (Poyraz Hosting)	7.745	
+10% (6) -	02-apr-2024 17:33 (54 days ago)
+195.175.104.198:8080	HTTP	ANM	TR Istanbul	195.175.104.198.static.turktelekom.com.tr (Turk Telekom)	0.476	
+1% (1) -	01-apr-2024 06:21 (56 days ago)
+82.222.11.212:8080	HTTPS (Mikrotik)	NOA	TR Gaziantep	host-82-222-11-212.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	4.117	
+11% (32) -	31-mar-2024 06:58 (57 days ago)
+185.208.102.62:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.208.102.62 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	9.061	
+22% (22) -	30-mar-2024 11:29 (57 days ago)
+160.20.109.73:3128	HTTP (Squid)	NOA	TR	host-160.20.109.73.kayizer.com (Kayizer Teknoloji Ltd. Sti.)	7.369	
+3% (3) -	29-mar-2024 23:01 (58 days ago)
+188.132.221.163:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.163 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	4.334	
+11% (40) -	29-mar-2024 22:09 (58 days ago)
+91.93.42.119:10001	HTTP (Mikrotik)	NOA	TR Istanbul !!!	host-91-93-42-119.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	22.268	
+4% (14) -	28-mar-2024 04:51 (60 days ago)
+92.119.59.161:80	HTTP	NOA	TR Istanbul	92.119.59.161 (Nrp Teknoloji Limited Sirketi)	0.313	
+3% (2) +	26-mar-2024 13:29 (61 days ago)
+38.10.69.109:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.109 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	3.27	
+6% (12) -	26-mar-2024 07:50 (62 days ago)
+84.32.230.183:80	HTTP	ANM	TR Istanbul	84.32.230.183 (Mailbox Internet Hizmetleri Ltd. Sti.)	1.036	
+4% (3) -	22-mar-2024 19:20 (65 days ago)
+176.235.131.228:9090	HTTP (Mikrotik)	NOA	TR Istanbul !!!	176.235.131.228 (Superonline Iletisim Hizmetleri A.S.)	7.738	
+7% (58) -	22-mar-2024 19:18 (65 days ago)
+88.255.65.125:8080	HTTP (Mikrotik)	NOA	TR Istanbul	88.255.65.125.static.ttnet.com.tr (Turk Telekom)	10.653	
+7% (2) -	19-mar-2024 18:27 (68 days ago)
+85.109.104.100:9090	HTTP (Mikrotik)	NOA	TR Ankara	85.109.104.100.dynamic.ttnet.com.tr (Turk Telekom)	4.584	
+14% (232) -	19-mar-2024 12:46 (68 days ago)
+38.156.75.14:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.75.14 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	15.596	
+16% (6) -	18-mar-2024 06:21 (70 days ago)
+45.8.21.43:3128	HTTP (Mikrotik)	NOA	TR Köseköy (Kocaeli)	45.8.21.43 (DEDICATED-FIBER-COMMUNICATIONS)	15.737	
+1% (1) -	15-mar-2024 17:20 (72 days ago)
+185.200.37.116:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	185.200.37.116 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.632	
+6% (15) -	15-mar-2024 14:50 (72 days ago)
+38.156.72.133:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.133 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.797	
+11% (10) -	15-mar-2024 00:34 (73 days ago)
+185.200.38.117:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	185.200.38.117 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.165	
+6% (11) -	13-mar-2024 23:28 (74 days ago)
+104.247.163.246:3825	SOCKS5	HIA	TR	246jw3tFA.guzel.net.tr (GNET Internet Telekomunikasyon A.S.)	9.5	
+20% (1) -	12-mar-2024 03:29 (76 days ago)
+38.10.69.98:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.98 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	4.4	
+9% (9) -	11-mar-2024 02:06 (77 days ago)
+104.247.167.175:21091	SOCKS5	HIA	TR	175DnK1Yq.guzel.net.tr (GNET Internet Telekomunikasyon A.S.)	24.483	
+20% (1) -	10-mar-2024 14:00 (77 days ago)
+216.9.224.113:80	HTTP	NOA	TR Istanbul	3575-1432.dchost.com (DC Host INC)	0.36	
+1% (1) +	08-mar-2024 06:17 (80 days ago)
+194.124.36.28:8080	HTTPS (Mikrotik)	NOA	TR Antalya	194.124.36.28 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	0.413	
+22% (2)	07-mar-2024 10:52 (80 days ago)
+188.132.222.66:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.66 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	0.381	
+44% (4)	07-mar-2024 10:50 (80 days ago)
+38.156.73.54:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.54 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	0.364	
+57% (4)	07-mar-2024 10:27 (80 days ago)
+188.132.221.54:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.54 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	0.379	
+67% (4)	07-mar-2024 10:27 (80 days ago)
+185.200.37.245:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	185.200.37.245 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	7.699	
+17% (7) -	07-mar-2024 10:16 (80 days ago)
+185.208.102.55:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.208.102.55 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	1.109	
+23% (3) -	07-mar-2024 10:06 (81 days ago)
+38.156.73.149:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.149 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.891	
+19% (13) -	06-mar-2024 20:39 (81 days ago)
+188.132.222.229:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	188.132.222.229 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	7.694	
+43% (3) -	06-mar-2024 01:18 (82 days ago)
+194.124.37.13:8080	HTTP (Mikrotik)	NOA	TR Antalya	194.124.37.13 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.548	
+17% (3) -	05-mar-2024 21:10 (82 days ago)
+38.156.73.50:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.50 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	9.278	
+43% (6) -	05-mar-2024 20:43 (82 days ago)
+38.156.72.179:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.179 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	5.856	
+7% (6) -	05-mar-2024 19:25 (82 days ago)
+104.247.164.231:54873	SOCKS5	HIA	TR	mail.mawiconstruction.com (GNET Internet Telekomunikasyon A.S.)	8.481	
+20% (1) -	05-mar-2024 03:57 (83 days ago)
+38.156.75.44:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.75.44 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.981	
+13% (12) -	04-mar-2024 15:47 (83 days ago)
+38.156.73.148:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.148 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	0.947	
+44% (4) -	03-mar-2024 20:31 (84 days ago)
+185.171.24.5:29527	SOCKS5	HIA	TR	mail.dijitalisortagi.com.tr (Bursabil Teknoloji A.S.)	5.802	
+20% (1) -	03-mar-2024 13:29 (84 days ago)
+185.171.24.5:18675	SOCKS5	HIA	TR	mail.dijitalisortagi.com.tr (Bursabil Teknoloji A.S.)	20.191	
+25% (1) -	03-mar-2024 04:04 (85 days ago)
+188.132.221.169:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.169 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.529	
+12% (11) -	03-mar-2024 03:36 (85 days ago)
+38.156.72.19:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.19 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	4.101	
+38% (3) -	03-mar-2024 02:22 (85 days ago)
+31.169.66.221:39567	SOCKS5	HIA	TR !!!	ip221.subnet66.netfactor.net.tr (Netfactor Telekominikasyon Ve Teknoloji Hizmetleri Sanayi Ve Jsc)	2.925	
+13% (1)	02-mar-2024 16:04 (85 days ago)
+38.156.74.90:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.74.90 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.159	
+8% (2) -	02-mar-2024 15:05 (85 days ago)
+185.208.101.216:8080	HTTP (Mikrotik)	NOA	TR Kilis	185.208.101.216 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	19.756	
+20% (2) -	02-mar-2024 14:28 (85 days ago)
+38.156.74.6:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	38.156.74.6 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	16.121	
+10% (13) -	02-mar-2024 11:11 (85 days ago)
+176.235.182.105:8080	HTTP (Mikrotik)	NOA	TR Gaziantep !!!	176.235.182.105 (Superonline Iletisim Hizmetleri A.S.)	4.983	
+8% (12) +	02-mar-2024 06:07 (86 days ago)
+194.124.36.75:8080	HTTP (Mikrotik)	NOA	TR Antalya	194.124.36.75 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.553	
+25% (4) -	02-mar-2024 00:27 (86 days ago)
+185.208.101.217:8080	HTTP (Mikrotik)	NOA	TR Kilis	185.208.101.217 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	16.327	
+24% (4) -	01-mar-2024 14:33 (86 days ago)
+88.255.102.105:8080	HTTPS (Mikrotik)	NOA	TR Istanbul !!!	88.255.102.105.static.ttnet.com.tr (Turk Telekom)	0.953	
+16% (24) -	01-mar-2024 08:02 (87 days ago)
+188.132.221.135:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.135 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	6.496	
+9% (3) -	01-mar-2024 06:00 (87 days ago)
+38.10.69.110:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.110 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	1.726	
+1% (2) -	01-mar-2024 02:18 (87 days ago)
+185.208.102.101:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay) !!!	185.208.102.101 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	8.57	
+20% (1) -	29-feb-2024 18:44 (87 days ago)
+194.124.37.8:8080	HTTP (Mikrotik)	NOA	TR Antalya !!!	194.124.37.8 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	9.052	
+12% (18) -	29-feb-2024 10:03 (88 days ago)
+88.255.65.103:8080	HTTP (Mikrotik)	NOA	TR Istanbul	88.255.65.103.static.ttnet.com.tr (Turk Telekom)	22.119	
+11% (4) -	29-feb-2024 07:19 (88 days ago)
+149.34.210.56:9090	HTTPS (Mikrotik)	NOA	TR Konya	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	16.703	
+6% (9) -	29-feb-2024 06:19 (88 days ago)
+38.41.53.144:9090	HTTP (Mikrotik)	NOA	TR	38.41.53.144 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	1.68	
+6% (52) -	28-feb-2024 12:30 (88 days ago)
+188.132.222.5:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.5 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	7.821	
+16% (15) -	28-feb-2024 03:29 (89 days ago)
+185.169.183.200:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay) !!!	185.169.183.200 (Veganet Teknolojileri ve Hizmetleri LTD STI)	16.166	
+7% (10) -	27-feb-2024 21:06 (89 days ago)
+38.156.72.2:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.2 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	4.915	
+11% (6) -	27-feb-2024 14:03 (89 days ago)
+149.50.238.114:8080	HTTPS (Mikrotik)	NOA	TR	149.50.238.114 (Veganet Teknolojileri ve Hizmetleri LTD STI)	2.373	
+15% (16) -	26-feb-2024 13:39 (90 days ago)
+194.124.36.178:8080	HTTPS (Mikrotik)	NOA	TR Antalya	194.124.36.178 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.749	
+11% (12) -	25-feb-2024 08:18 (92 days ago)
+45.11.96.41:8080	HTTPS (Squid)	NOA	TR	45.11.96.41.pendns.net (PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi)	11.146	
+1% (1) -	25-feb-2024 07:00 (92 days ago)
+176.88.177.197:61080	SOCKS5	HIA	TR Ankara	176.88.177.197 (Superonline Iletisim Hizmetleri A.S.)	0.736	
+12% (79) -	25-feb-2024 03:54 (92 days ago)
+185.171.24.5:6378	SOCKS5	HIA	TR	mail.dijitalisortagi.com.tr (Bursabil Teknoloji A.S.)	1.529	
+10% (1) -	24-feb-2024 08:46 (93 days ago)
+188.132.222.14:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.14 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.805	
+8% (1) -	24-feb-2024 07:25 (93 days ago)
+38.156.74.87:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.74.87 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.318	
+9% (4) -	23-feb-2024 04:04 (94 days ago)
+38.156.74.88:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.74.88 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	4.811	
+33% (2) -	22-feb-2024 22:54 (94 days ago)
+188.132.222.166:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.166 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.678	
+13% (6) -	22-feb-2024 00:02 (95 days ago)
+188.132.222.16:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.16 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	9.279	
+22% (5) -	20-feb-2024 02:09 (97 days ago)
+38.10.69.107:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.107 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	17.72	
+3% (2) -	19-feb-2024 02:04 (98 days ago)
+194.124.36.74:8080	HTTP (Mikrotik)	NOA	TR Antalya	194.124.36.74 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	21.983	
+11% (14) -	18-feb-2024 22:36 (98 days ago)
+38.10.69.106:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.106 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	2.65	
+5% (7) -	18-feb-2024 12:42 (98 days ago)
+185.249.202.123:3128	HTTP (Squid)	NOA	TR	185.249.202.123 (Irfan Tugra Onem)	10.13	
+29% (80) -	18-feb-2024 09:35 (99 days ago)
+188.132.222.38:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.38 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	7.595	
+20% (12) -	18-feb-2024 03:44 (99 days ago)
+188.132.222.7:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.7 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	13.37	
+6% (4) -	17-feb-2024 11:07 (99 days ago)
+185.87.121.5:8975	SOCKS5	HIA	TR Istanbul	5-121-87-185.ip.basarbilisim.com (Ideal Hosting Teknoloji A.S.)	1.777	
+3% (16) -	17-feb-2024 10:57 (99 days ago)
+188.132.221.133:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.133 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10.539	
+11% (2) -	15-feb-2024 14:45 (101 days ago)
+149.50.238.196:8080	HTTP (Mikrotik)	NOA	TR	149.50.238.196 (Veganet Teknolojileri ve Hizmetleri LTD STI)	16.988	
+8% (13) -	15-feb-2024 12:45 (101 days ago)
+176.235.131.229:9090	HTTP (Mikrotik)	NOA	TR Istanbul !!!	176.235.131.229 (Superonline Iletisim Hizmetleri A.S.)	22.794	
+5% (33) -	15-feb-2024 01:18 (102 days ago)
+185.86.81.27:8080	HTTP (Mikrotik)	NOA	TR Bursa (Bursa Province)	185.86.81.27 (Speed Net Internet Iletisim Haberlesme Tic.ltd.sti)	6.284	
+14% (11) -	14-feb-2024 07:11 (103 days ago)
+185.169.183.5:8080	HTTPS (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.169.183.5 (Veganet Teknolojileri ve Hizmetleri LTD STI)	0.786	
+7% (4) -	14-feb-2024 06:10 (103 days ago)
+188.132.222.36:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.36 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	17	
+14% (47) -	13-feb-2024 08:31 (104 days ago)
+188.132.222.9:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.9 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.159	
+13% (10) -	13-feb-2024 03:31 (104 days ago)
+45.155.124.16:3128	HTTP (Squid)	NOA	TR Istanbul	play.lastshot.com (Yusuf Kemal TURKMENOGLU)	14.506	
+20% (5) -	12-feb-2024 15:10 (104 days ago)
+188.132.222.59:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.59 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	18.139	
+20% (1) -	11-feb-2024 16:35 (105 days ago)
+37.148.211.88:3128	HTTP (Squid)	NOA	TR	37-148-211-88.cizgi.net.tr (Cizgi Telekomunikasyon Anonim Sirketi)	19.615	
+12% (27) -	11-feb-2024 13:27 (105 days ago)
+38.156.75.157:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay) !!!	38.156.75.157 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.226	
+27% (3) -	11-feb-2024 09:44 (106 days ago)
+176.235.139.37:10001	HTTP (Mikrotik)	NOA	TR Ulukavak (Çorum) !!!	ns2.mantis.com.tr (Superonline Iletisim Hizmetleri A.S.)	9.76	
+6% (7) -	11-feb-2024 01:52 (106 days ago)
+185.200.37.247:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	185.200.37.247 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	4.623	
+18% (8) -	10-feb-2024 18:11 (106 days ago)
+91.93.254.205:3128	HTTP (Squid)	NOA	TR Istanbul	host-91-93-254-205.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	8.625	
+10% (10) -	09-feb-2024 12:20 (107 days ago)
+84.51.15.251:32650	HTTP (Mikrotik)	NOA	TR Istanbul !!!	host-84-51-15-251.teletektelekom.com (Superonline Iletisim Hizmetleri A.S.)	9.471	
+4% (12) -	09-feb-2024 07:41 (108 days ago)
+38.156.72.135:8888	HTTP	HIA	TR Antakya (Hatay)	38.156.72.135 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.223	
+11% (5) -	09-feb-2024 06:52 (108 days ago)
+188.132.222.18:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.18 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	12.162	
+14% (9) -	08-feb-2024 12:54 (108 days ago)
+188.132.222.39:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.39 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.69	
+17% (15) -	06-feb-2024 07:21 (111 days ago)
+81.213.151.166:3310	HTTPS	HIA	TR	81.213.151.166.dynamic.ttnet.com.tr (Turk Telekom)	1.077	
+6% (1) -	06-feb-2024 03:02 (111 days ago)
+149.34.210.60:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	2.39	
+3% (4) -	05-feb-2024 20:58 (111 days ago)
+188.132.222.131:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.131 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	9.194	
+40% (2) -	03-feb-2024 06:27 (114 days ago)
+149.86.142.48:8080	HTTP (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	5.074	
+16% (15) -	02-feb-2024 09:43 (115 days ago)
+188.132.222.167:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.167 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	7.597	
+16% (6) -	01-feb-2024 05:20 (116 days ago)
+38.156.73.59:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.59 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	16.273	
+23% (5) -	29-jan-2024 06:26 (119 days ago)
+185.200.38.208:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	185.200.38.208 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	17.284	
+7% (3) -	29-jan-2024 04:31 (119 days ago)
+38.156.75.45:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.75.45 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.547	
+4% (1) -	29-jan-2024 01:31 (119 days ago)
+45.156.30.186:8080	HTTP (Mikrotik)	NOA	TR Istanbul !!!	45.156.30.186 (Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd)	4.519	
+5% (3) -	28-jan-2024 05:49 (120 days ago)
+185.169.183.202:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.169.183.202 (Veganet Teknolojileri ve Hizmetleri LTD STI)	0.527	
+11% (1) +	27-jan-2024 05:35 (121 days ago)
+188.132.222.171:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	188.132.222.171 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10.222	
+15% (2) -	26-jan-2024 06:29 (122 days ago)
+195.16.74.95:80	HTTP	HIA	TR Izmir (İzmir Province)	vm1719340.stark-industries.solutions (Stark Industries Solutions Ltd)	3.501	
+6% (4) -	26-jan-2024 04:30 (122 days ago)
+176.235.139.34:10001	HTTP (Mikrotik)	NOA	TR Ulukavak (Çorum)	176.235.139.34 (Superonline Iletisim Hizmetleri A.S.)	18.908	
+5% (5) -	25-jan-2024 19:27 (122 days ago)
+188.132.222.10:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.10 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	6.692	
+11% (9) -	25-jan-2024 06:08 (123 days ago)
+45.156.30.187:8080	HTTP (Mikrotik)	NOA	TR Istanbul !!!	45.156.30.187 (Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd)	2.868	
+5% (5) -	23-jan-2024 04:45 (125 days ago)
+176.235.131.233:9090	HTTP (Mikrotik)	NOA	TR Istanbul !!!	176.235.131.233 (Superonline Iletisim Hizmetleri A.S.)	17.198	
+11% (38) -	22-jan-2024 06:30 (126 days ago)
+176.236.232.54:9090	HTTP (Mikrotik)	NOA	TR Kartal (Istanbul) !!!	176.236.232.54 (Superonline Iletisim Hizmetleri A.S.)	2.734	
+3% (6) -	22-jan-2024 06:09 (126 days ago)
+176.236.232.68:9090	HTTP (Mikrotik)	NOA	TR Kartal (Istanbul) !!!	176.236.232.68 (Superonline Iletisim Hizmetleri A.S.)	16.491	
+4% (32) -	21-jan-2024 12:58 (126 days ago)
+141.98.117.172:8085	HTTP	ANM	TR Istanbul	141.98.117.172 (Hostigger INC.)	23.325	
+9% (1) -	21-jan-2024 04:27 (127 days ago)
+188.132.222.47:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.47 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	0.641	
+18% (2) -	21-jan-2024 04:07 (127 days ago)
+176.235.133.187:10001	HTTP (Mikrotik)	NOA	TR Istanbul !!!	176.235.133.187 (Superonline Iletisim Hizmetleri A.S.)	13.763	
+6% (15) -	20-jan-2024 14:13 (127 days ago)
+185.200.37.121:8080	HTTPS (Mikrotik)	ANM	TR Antakya (Hatay) !!!	185.200.37.121 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10.188	
+17% (1) -	20-jan-2024 13:09 (127 days ago)
+176.88.6.219:8080	HTTP (Mikrotik)	NOA	TR	176.88.6.219 (Superonline Iletisim Hizmetleri A.S.)	11.405	
+12% (4) -	18-jan-2024 12:02 (129 days ago)
+194.124.36.107:8080	HTTPS (Mikrotik)	NOA	TR Antalya	194.124.36.107 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.386	
+10% (4) -	18-jan-2024 11:17 (129 days ago)
+185.171.24.5:25412	SOCKS5	HIA	TR	mail.dijitalisortagi.com.tr (Bursabil Teknoloji A.S.)	6.787	
+18% (2) -	17-jan-2024 14:02 (130 days ago)
+188.132.222.70:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.70 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.588	
+20% (1) -	16-jan-2024 03:37 (132 days ago)
+38.10.69.99:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.99 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	19.005	
+4% (28) -	16-jan-2024 01:26 (132 days ago)
+78.135.85.131:3128	HTTP	NOA	TR	rdns.hostingdunyam.net (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	3.822	
+14% (2) -	15-jan-2024 19:59 (132 days ago)
+38.156.72.36:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay) !!!	38.156.72.36 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	0.772	
+12% (9) -	15-jan-2024 03:46 (133 days ago)
+188.132.222.28:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.28 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.491	
+22% (2) -	14-jan-2024 06:56 (134 days ago)
+193.46.56.186:3128	HTTP	HIA	TR Izmir (İzmir Province)	vm1504512.stark-industries.solutions (Stark Industries Solutions Ltd)	8.195	
+4% (2) -	13-jan-2024 15:36 (134 days ago)
+188.125.169.11:8080	HTTP (Mikrotik)	NOA	TR	188.125.169.11 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	17.616	
+5% (2) -	13-jan-2024 11:29 (134 days ago)
+38.10.69.104:9090	HTTP (Mikrotik)	NOA	TR Konya !!!	38.10.69.104 (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	17.474	
+3% (4) -	12-jan-2024 12:23 (135 days ago)
+188.132.222.51:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.51 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.226	
+19% (3) -	11-jan-2024 23:23 (136 days ago)
+38.156.73.237:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.237 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.763	
+9% (3) -	10-jan-2024 09:30 (138 days ago)
+195.85.207.210:7895	HTTP (Squid)	NOA	TR Dinar (Afyonkarahisar Province)	mail.kurumsalposta.net.tr (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	14.436	
+20% (3) -	08-jan-2024 09:35 (140 days ago)
+188.132.222.41:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.41 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.404	
+13% (10) -	07-jan-2024 18:58 (140 days ago)
+78.189.164.15:3310	HTTPS	HIA	TR Izmir (İzmir Province)	78.189.164.15.static.ttnet.com.tr (Turk Telekom)	1.038	
+10% (5) -	07-jan-2024 10:45 (140 days ago)
+195.85.207.207:7895	HTTP (Squid)	NOA	TR Dinar (Afyonkarahisar Province)	195.85.207.207 (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	23.421	
+14% (1) -	07-jan-2024 00:19 (141 days ago)
+104.247.164.220:10756	SOCKS5	HIA	TR	2208nHOkJ.guzel.net.tr (GNET Internet Telekomunikasyon A.S.)	16.196	
+43% (3) -	06-jan-2024 22:58 (141 days ago)
+94.231.192.85:8080	HTTP (Mikrotik)	NOA	TR !!!	94.231.192.85 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	4.904	
+7% (7) -	06-jan-2024 16:59 (141 days ago)
+88.255.217.35:8080	HTTP (Mikrotik)	NOA	TR Istanbul	88.255.217.35.static.ttnet.com.tr (Turk Telekom)	9.058	
+33% (3) -	06-jan-2024 14:12 (141 days ago)
+188.132.146.74:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.146.74 (Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi)	8.939	
+19% (7) -	06-jan-2024 05:50 (142 days ago)
+213.238.182.84:61330	SOCKS5	HIA	TR Istanbul	213.238.182.84 (Markahost Telekomunikasyon Ve Ticaret Limited Sirketi)	17.975	
+30% (3) +	06-jan-2024 05:46 (142 days ago)
+188.132.221.178:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.178 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10.238	
+14% (7) -	05-jan-2024 08:41 (143 days ago)
+88.255.102.48:8080	HTTP (Mikrotik)	NOA	TR Istanbul	88.255.102.48.static.ttnet.com.tr (Turk Telekom)	17.497	
+13% (10) -	05-jan-2024 07:38 (143 days ago)
+195.85.207.205:7895	HTTP (Squid)	NOA	TR Dinar (Afyonkarahisar Province)	195.85.207.205 (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	14.008	
+13% (1) -	05-jan-2024 07:33 (143 days ago)
+188.132.183.143:8080	SOCKS5	HIA	TR	188.132.183.143 (PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi)	9.788	
+67% (4)	05-jan-2024 01:21 (143 days ago)
+78.188.215.128:1953	HTTPS	HIA	TR Şişli (Istanbul)	78.188.215.128.static.ttnet.com.tr (Turk Telekom)	0.452	
+19% (5) +	04-jan-2024 02:32 (144 days ago)
+188.132.221.13:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.13 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	21.068	
+14% (7) -	03-jan-2024 13:17 (144 days ago)
+78.188.194.254:2316	HTTP	HIA	TR Istanbul	78.188.194.254.static.ttnet.com.tr (Turk Telekom)	1.448	
+9% (3) -	03-jan-2024 02:30 (145 days ago)
+185.200.37.243:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	185.200.37.243 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.475	
+20% (1) -	03-jan-2024 02:21 (145 days ago)
+85.107.251.64:8080	HTTP (Mikrotik)	NOA	TR Ankara	85.107.251.64.dynamic.ttnet.com.tr (Turk Telekom)	2.923	
+4% (2) -	02-jan-2024 23:31 (145 days ago)
+78.188.233.150:1953	HTTPS	HIA	TR Gaziantep	78.188.233.150.static.ttnet.com.tr (Turk Telekom)	7.806	
+13% (3) -	02-jan-2024 16:21 (145 days ago)
+88.248.56.250:1545	HTTP	HIA	TR Antalya	88.248.56.250.static.ttnet.com.tr (Turk Telekom)	3.357	
+17% (3) -	02-jan-2024 11:38 (145 days ago)
+78.188.131.178:5314	HTTP	HIA	TR Istanbul	78.188.131.178.static.ttnet.com.tr (Turk Telekom)	3.988	
+29% (6) -	02-jan-2024 11:04 (145 days ago)
+88.248.48.141:1454	HTTP	HIA	TR Antalya	88.248.48.141.static.ttnet.com.tr (Turk Telekom)	12.576	
+20% (3) -	02-jan-2024 09:50 (146 days ago)
+88.249.4.119:1456	HTTP	HIA	TR Ankara	88.249.4.119.static.ttnet.com.tr (Turk Telekom)	7.225	
+19% (4) -	02-jan-2024 08:28 (146 days ago)
+78.186.12.12:1953	HTTPS	HIA	TR Ankara	78.186.12.12.static.ttnet.com.tr (Turk Telekom)	2.282	
+42% (10) -	02-jan-2024 08:15 (146 days ago)
+88.247.17.91:1459	HTTPS	HIA	TR Adana	88.247.17.91.static.ttnet.com.tr (Turk Telekom)	1.88	
+16% (5) +	02-jan-2024 07:42 (146 days ago)
+213.14.142.211:1453	HTTPS	HIA	TR Istanbul	host-213-14-142-211.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	8.487	
+30% (9) -	02-jan-2024 07:22 (146 days ago)
+81.214.15.34:6563	HTTPS	HIA	TR Istanbul	81.214.15.34.dynamic.ttnet.com.tr (Turk Telekom)	3.819	
+19% (4) -	02-jan-2024 07:15 (146 days ago)
+88.249.163.219:1200	HTTPS	HIA	TR Köseköy (Kocaeli)	88.249.163.219.static.ttnet.com.tr (Turk Telekom)	0.768	
+16% (3) -	02-jan-2024 07:12 (146 days ago)
+78.189.39.246:1718	HTTPS	HIA	TR Istanbul	78.189.39.246.static.ttnet.com.tr (Turk Telekom)	0.83	
+18% (3) +	02-jan-2024 06:21 (146 days ago)
+92.45.255.5:1454	HTTPS	HIA	TR	host-92-45-255-5.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	7.704	
+21% (3) -	02-jan-2024 06:20 (146 days ago)
+45.94.4.230:7895	HTTP (Squid)	NOA	TR Istanbul	viva.net.tr (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	21.408	
+20% (13) -	02-jan-2024 05:31 (146 days ago)
+78.189.239.183:1953	HTTPS	HIA	TR Gaziemir (İzmir Province)	78.189.239.183.static.ttnet.com.tr (Turk Telekom)	5.256	
+40% (8) -	02-jan-2024 04:37 (146 days ago)
+94.102.4.127:5314	HTTP	HIA	TR	94.102.4.127 (Netinternet Bilisim Teknolojileri AS)	7.344	
+9% (1) -	02-jan-2024 01:40 (146 days ago)
+78.189.182.243:5314	HTTP	HIA	TR Istanbul	78.189.182.243.static.ttnet.com.tr (Turk Telekom)	9.077	
+23% (3) -	01-jan-2024 15:01 (146 days ago)
+185.200.38.55:8080	HTTP (Mikrotik)	ANM	TR Antakya (Hatay) !!!	185.200.38.55 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	21.167	
+12% (9) -	01-jan-2024 12:45 (146 days ago)
+88.255.102.37:8080	HTTP (Mikrotik)	NOA	TR Istanbul	mail.flo.com.tr (Turk Telekom)	2.749	
+9% (6) -	01-jan-2024 12:09 (146 days ago)
+188.132.222.34:8080	HTTP	HIA	TR Antakya (Hatay)	188.132.222.34 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	6.254	
+10% (27) -	01-jan-2024 09:32 (147 days ago)
+78.189.192.13:5314	HTTPS	HIA	TR Istanbul	78.189.192.13.static.ttnet.com.tr (Turk Telekom)	15.692	
+13% (2) +	01-jan-2024 06:43 (147 days ago)
+176.235.139.22:10001	HTTP (Mikrotik)	NOA	TR Ulukavak (Çorum) !!!	176.235.139.22 (Superonline Iletisim Hizmetleri A.S.)	9.604	
+4% (3) -	01-jan-2024 03:15 (147 days ago)
+185.86.82.103:8080	HTTP (Mikrotik)	NOA	TR Bursa (Bursa Province)	185.86.82.103 (Veganet Teknolojileri ve Hizmetleri LTD STI)	3.962	
+2% (1) -	31-dec-2023 13:37 (147 days ago)
+85.105.199.12:1459	HTTPS	HIA	TR Istanbul	85.105.199.12.static.ttnet.com.tr (Turk Telekom)	23.702	
+1% (1) -	31-dec-2023 13:34 (147 days ago)
+78.186.118.164:3310	HTTPS	HIA	TR	78.186.118.164.static.ttnet.com.tr (Turk Telekom)	20.985	
+12% (2) -	31-dec-2023 13:31 (147 days ago)
+81.214.28.164:1454	HTTP	HIA	TR Ankara	81.214.28.164.dynamic.ttnet.com.tr (Turk Telekom)	3.775	
+8% (1) -	31-dec-2023 13:00 (147 days ago)
+78.189.155.164:5314	HTTP	HIA	TR Adapazarı (Sakarya)	78.189.155.164.static.ttnet.com.tr (Turk Telekom)	11.001	
+7% (1) -	31-dec-2023 08:15 (148 days ago)
+78.189.12.176:2456	HTTP	HIA	TR	78.189.12.176.static.ttnet.com.tr (Turk Telekom)	8.276	
+2% (1) -	31-dec-2023 03:18 (148 days ago)
+141.98.113.2:62367	SOCKS5	HIA	TR	ns113.onlinebilisim.net (EG Veri Merkezi Teknoloji Ltd. Sti.)	9.275	
+25% (1) -	30-dec-2023 05:43 (149 days ago)
+38.156.72.178:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.178 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.575	
+15% (15) -	29-dec-2023 18:58 (149 days ago)
+78.186.16.155:8443	HTTP (Mikrotik)	NOA	TR Istanbul	78.186.16.155.static.ttnet.com.tr (Turk Telekom)	2.017	
+10% (18) -	28-dec-2023 22:34 (150 days ago)
+188.125.169.7:8080	HTTP (Mikrotik)	NOA	TR	188.125.169.7 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	18.646	
+23% (26) -	28-dec-2023 12:42 (150 days ago)
+212.252.73.21:8080	HTTPS (Mikrotik)	NOA	TR Istanbul	host-212-252-73-21.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	3.777	
+16% (33) -	27-dec-2023 13:35 (151 days ago)
+188.132.222.141:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.141 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	5.342	
+19% (3) -	27-dec-2023 02:49 (152 days ago)
+195.85.207.208:7895	HTTP (Squid)	NOA	TR Dinar (Afyonkarahisar Province)	195.85.207.208 (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	2.67	
+4% (1) -	26-dec-2023 19:09 (152 days ago)
+38.156.73.132:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay) !!!	38.156.73.132 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	19.54	
+6% (10) -	26-dec-2023 15:51 (152 days ago)
+188.125.173.66:8080	HTTPS (Mikrotik)	NOA	TR Antalya	188.125.173.66 (Fibim Fibernet Gsm Sanayi Ve Ticaret Anonim Sirketi)	3.252	
+4% (6) -	26-dec-2023 14:18 (152 days ago)
+188.132.221.162:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.162 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.381	
+11% (13) -	26-dec-2023 07:23 (153 days ago)
+213.238.180.118:3128	HTTP (Squid)	NOA	TR	hostmaster.poyrazhosting.com.tr (Poyraz Hosting)	20.429	
+33% (3) -	26-dec-2023 03:21 (153 days ago)
+78.186.155.89:8080	HTTP (Mikrotik)	NOA	TR Istanbul	78.186.155.89.static.ttnet.com.tr (Turk Telekom)	4.862	
+20% (15) -	25-dec-2023 16:22 (153 days ago)
+149.50.238.56:8080	HTTP (Mikrotik)	NOA	TR	149.50.238.56 (Veganet Teknolojileri ve Hizmetleri LTD STI)	17.404	
+13% (7) -	24-dec-2023 04:59 (155 days ago)
+38.156.73.138:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.138 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	10.2	
+11% (3) -	23-dec-2023 09:13 (156 days ago)
+194.124.37.245:8080	HTTP (Mikrotik)	NOA	TR Antalya !!!	194.124.37.245 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.025	
+6% (29) -	22-dec-2023 23:19 (156 days ago)
+149.50.238.120:8080	HTTP (Mikrotik)	NOA	TR	149.50.238.120 (Veganet Teknolojileri ve Hizmetleri LTD STI)	1.669	
+12% (10) -	22-dec-2023 09:53 (157 days ago)
+188.132.222.68:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.68 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	5.589	
+17% (2) -	22-dec-2023 04:01 (157 days ago)
+188.132.222.235:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.235 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	7.288	
+17% (2) -	21-dec-2023 20:54 (157 days ago)
+91.151.88.94:7895	HTTP (Squid)	NOA	TR	rdns.hostingdunyam.net (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	18.973	
+22% (13) -	19-dec-2023 15:15 (159 days ago)
+176.235.139.33:10001	HTTP (Mikrotik)	NOA	TR Ulukavak (Çorum) !!!	176.235.139.33 (Superonline Iletisim Hizmetleri A.S.)	10.782	
+7% (3) -	19-dec-2023 04:24 (160 days ago)
+194.124.36.106:10820	SOCKS5	HIA	TR Antalya !!!	194.124.36.106 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	1.795	
+11% (8) -	18-dec-2023 22:32 (160 days ago)
+185.9.157.50:967	HTTPS (Squid)	ANM	TR	spd.net.tr (SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.)	12.846	
+10% (2) -	18-dec-2023 11:27 (160 days ago)
+213.194.120.2:8080	HTTPS	NOA	TR Istanbul	mail.tppd.com.tr (Vodafone Net Iletisim Hizmetler AS)	1.79	
+36% (4) -	17-dec-2023 10:08 (162 days ago)
+185.169.183.9:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.169.183.9 (Veganet Teknolojileri ve Hizmetleri LTD STI)	8.886	
+11% (19) -	17-dec-2023 06:24 (162 days ago)
+38.156.73.55:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.55 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.479	
+33% (2) -	17-dec-2023 04:45 (162 days ago)
+45.95.214.219:8080	HTTPS (Squid)	NOA	TR Istanbul	nacsshost.com (Netundweb Telekomunikasyon Ticaret Limited Sirketi)	0.911	
+8% (1) +	16-dec-2023 23:22 (162 days ago)
+213.238.180.118:8888	HTTP (Squid)	NOA	TR	hostmaster.poyrazhosting.com.tr (Poyraz Hosting)	18.657	
+18% (4) -	16-dec-2023 20:58 (162 days ago)
+188.132.166.121:8080	HTTP (Mikrotik)	NOA	TR	188.132.166.121 (Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi)	7.489	
+13% (5) -	16-dec-2023 07:49 (163 days ago)
+185.208.101.149:8080	HTTPS (Mikrotik)	NOA	TR Kilis !!!	185.208.101.149 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	5.107	
+15% (14) -	16-dec-2023 07:45 (163 days ago)
+194.124.36.98:8080	HTTPS (Mikrotik)	NOA	TR Antalya !!!	194.124.36.98 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.612	
+6% (6) -	16-dec-2023 06:49 (163 days ago)
+38.156.74.101:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.74.101 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	9.165	
+20% (7) -	16-dec-2023 03:35 (163 days ago)
+88.255.168.4:8080	HTTP (Mikrotik)	NOA	TR Istanbul !!!	88.255.168.4.static.ttnet.com.tr (Turk Telekom)	3.014	
+10% (16) -	15-dec-2023 17:32 (163 days ago)
+188.132.222.194:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.194 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.703	
+17% (2) -	14-dec-2023 07:19 (165 days ago)
+188.132.222.27:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.27 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.179	
+11% (3) -	14-dec-2023 01:52 (165 days ago)
+176.236.232.69:9090	HTTP (Mikrotik)	NOA	TR Kartal (Istanbul) !!!	176.236.232.69 (Superonline Iletisim Hizmetleri A.S.)	8.666	
+4% (7) -	13-dec-2023 15:37 (165 days ago)
+185.200.37.242:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	185.200.37.242 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.332	
+9% (1) -	12-dec-2023 16:08 (166 days ago)
+185.169.183.166:8080	HTTP (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.169.183.166 (Veganet Teknolojileri ve Hizmetleri LTD STI)	10.104	
+17% (1) -	11-dec-2023 04:25 (168 days ago)
+78.186.16.155:8080	HTTP (Mikrotik)	NOA	TR Istanbul	78.186.16.155.static.ttnet.com.tr (Turk Telekom)	9.347	
+28% (11) -	10-dec-2023 02:10 (169 days ago)
+188.132.222.21:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.21 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	15.904	
+9% (2) -	08-dec-2023 11:35 (170 days ago)
+31.210.94.100:62809	SOCKS5	HIA	TR	server-31.210.94.100.as42926.net (Radore Veri Merkezi Hizmetleri A.S.)	9.361	
+8% (1) -	08-dec-2023 02:50 (171 days ago)
+194.124.37.9:8080	HTTP (Mikrotik)	NOA	TR Antalya	194.124.37.9 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.01	
+2% (7) -	08-dec-2023 01:33 (171 days ago)
+185.200.37.250:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	185.200.37.250 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	16.974	
+25% (1) -	07-dec-2023 23:43 (171 days ago)
+46.104.73.16:8080	HTTP (Mikrotik)	NOA	TR Istanbul	46.104.73.16 (TT Mobil Iletisim Hizmetleri A.S)	7.548	
+7% (1) -	07-dec-2023 03:50 (172 days ago)
+176.30.210.38:8080	HTTPS (Mikrotik)	NOA	TR Bursa (Bursa Province)	176.30.210.38 (TT Mobil Iletisim Hizmetleri A.S)	7.233	
+7% (1) -	07-dec-2023 03:16 (172 days ago)
+213.142.159.196:7895	HTTP (Squid)	NOA	TR	flarebilisim.com (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	13.078	
+18% (2) -	06-dec-2023 22:17 (172 days ago)
+185.169.183.201:8080	HTTPS (Mikrotik)	NOA	TR Reyhanlı (Hatay)	185.169.183.201 (Veganet Teknolojileri ve Hizmetleri LTD STI)	4.157	
+6% (1) -	06-dec-2023 13:30 (172 days ago)
+85.104.113.193:1453	HTTP	HIA	TR Ankara	85.104.113.193.dynamic.ttnet.com.tr (Turk Telekom)	21.292	
+17% (4) -	05-dec-2023 15:31 (173 days ago)
+84.51.60.120:3310	HTTPS	HIA	TR Eskişehir	host-84-51-60-120.reverse.superonline.net (Superonline Iletisim Hizmetleri A.S.)	3.292	
+14% (1) -	05-dec-2023 06:34 (174 days ago)
+78.188.225.87:1453	HTTPS	HIA	TR Gaziantep	78.188.225.87.static.ttnet.com.tr (Turk Telekom)	7.502	
+13% (1) -	05-dec-2023 05:15 (174 days ago)
+78.187.139.65:1453	HTTPS	HIA	TR	78.187.139.65.dynamic.ttnet.com.tr (Turk Telekom)	2.605	
+4% (1) +	05-dec-2023 02:25 (174 days ago)
+88.255.82.231:19000	HTTP (Mikrotik)	NOA	TR Tekirdağ	88.255.82.231.static.ttnet.com.tr (Turk Telekom)	16.748	
+7% (2) -	04-dec-2023 22:45 (174 days ago)
+88.250.159.61:1453	HTTPS	HIA	TR	88.250.159.61.static.ttnet.com.tr (Turk Telekom)	8.792	
+8% (2) -	04-dec-2023 07:27 (175 days ago)
+78.189.32.215:8080	HTTP (Squid)	NOA	TR Istanbul	78.189.32.215.static.ttnet.com.tr (Turk Telekom)	17.726	
+3% (20) -	04-dec-2023 06:33 (175 days ago)
+85.110.148.88:8080	HTTP (Mikrotik)	NOA	TR Ankara	85.110.148.88.static.ttnet.com.tr (Turk Telekom)	17.546	
+25% (3) -	03-dec-2023 19:31 (175 days ago)
+188.125.173.185:8080	HTTP (Mikrotik)	NOA	TR Antalya	188.125.173.185 (Fibim Fibernet Gsm Sanayi Ve Ticaret Anonim Sirketi)	19.846	
+17% (19) -	03-dec-2023 09:00 (176 days ago)
+45.94.5.3:8080
+212.174.15.142:8080	HTTP	HIA	TR Istanbul	212.174.15.142.static.ttnet.com.tr (Turk Telekom)	15.941	
+13% (7) -	27-may-2024 09:06 (1 hours ago)
+185.208.101.89:8080	HTTP (Mikrotik)	NOA	TR Kilis	185.208.101.89 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	5.735	
+15% (62) -	27-may-2024 08:06 (2 hours ago)
+188.132.146.240:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	188.132.146.240 (Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi)	3.765	
+29% (2) -	26-may-2024 22:28 (11 hours ago)
+88.255.65.113:8080	HTTPS (Mikrotik)	NOA	TR Istanbul	88.255.65.113.static.ttnet.com.tr (Turk Telekom)	17.836	
+19% (4) -	26-may-2024 22:05 (12 hours ago)
+88.255.217.30:8080	HTTP (Mikrotik)	NOA	TR Istanbul !!!	88.255.217.30.static.ttnet.com.tr (Turk Telekom)	4.438	
+12% (3) -	26-may-2024 16:05 (18 hours ago)
+173.213.71.6:80	HTTP	ANM	TR Istanbul	173.213.71.6 (Online Server Telekomunikasyon Limited Sirketi)	0.804	
+67% (58) +	26-may-2024 14:50 (19 hours ago)
+176.88.166.218:8080	HTTP (Mikrotik)	NOA	TR Kilis	176.88.166.218 (Superonline Iletisim Hizmetleri A.S.)	7.923	
+13% (40) -	26-may-2024 06:11 (1 days ago)
+149.86.140.141:8080	HTTP (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	19.322	
+33% (1) -	26-may-2024 04:48 (1 days ago)
+188.132.222.50:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.50 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.54	
+22% (5) -	26-may-2024 04:39 (1 days ago)
+212.174.79.169:8080	HTTP (Mikrotik)	NOA	TR Sanliurfa (Şanlıurfa)	212.174.79.169.static.ttnet.com.tr (Turk Telekom)	2.955	
+16% (3) -	26-may-2024 02:55 (1 days ago)
+176.236.232.50:9090	HTTP (Mikrotik)	NOA	TR Kartal (Istanbul)	176.236.232.50 (Superonline Iletisim Hizmetleri A.S.)	16.695	
+7% (27) -	26-may-2024 02:46 (1 days ago)
+176.236.124.252:10001	HTTPS (Mikrotik)	NOA	TR Soma (Manisa)	176.236.124.252 (Superonline Iletisim Hizmetleri A.S.)	10.359	
+16% (177) -	25-may-2024 23:07 (1 days ago)
+185.86.5.162:8975	SOCKS5	HIA	TR Istanbul !!!	myschools32.flashbeautycare.com (Ideal Hosting Teknoloji A.S.)	1.311	
+4% (33) -	25-may-2024 16:29 (1 days ago)
+188.125.167.200:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.125.167.200 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.743	
+33% (1) -	25-may-2024 09:26 (2 days ago)
+176.236.141.30:10001	HTTP (Mikrotik)	NOA	TR Mersin	176.236.141.30 (Superonline Iletisim Hizmetleri A.S.)	9.85	
+11% (303) -	25-may-2024 06:16 (2 days ago)
+173.213.71.7:80	HTTP	ANM	TR Istanbul	173.213.71.7 (Online Server Telekomunikasyon Limited Sirketi)	0.582	
+68% (52) +	25-may-2024 04:33 (2 days ago)
+88.247.209.143:8080	HTTP (Mikrotik)	NOA	TR Izmir (İzmir Province)	88.247.209.143.static.ttnet.com.tr (Turk Telekom)	16.648	
+12% (27) -	24-may-2024 18:56 (2 days ago)
+38.156.72.135:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay) !!!	38.156.72.135 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	13.686	
+11% (1) -	24-may-2024 18:03 (2 days ago)
+188.132.221.53:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.53 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.739	
+25% (3) -	24-may-2024 17:01 (2 days ago)
+88.255.185.245:8080	HTTP (Mikrotik)	NOA	TR Adapazarı (Sakarya)	88.255.185.245.static.ttnet.com.tr (Turk Telekom)	17.469	
+11% (4) -	24-may-2024 11:23 (2 days ago)
+89.252.178.212:36599	SOCKS5	HIA	TR	212f57t5n.guzel.net.tr (GNET Internet Telekomunikasyon A.S.)	12.012	
+new -	24-may-2024 10:55 (2 days ago)
+188.132.222.230:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.222.230 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	15.706	
+5% (9) -	24-may-2024 10:00 (3 days ago)
+185.73.203.176:443	HTTP (3proxy)	NOA	TR Istanbul	reverse.comnetnetwork.com (Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.)	1.479	
+12% (13) -	24-may-2024 08:42 (3 days ago)
+38.156.72.199:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.199 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	19.045	
+75% (3) -	24-may-2024 06:20 (3 days ago)
+78.170.135.164:8080	HTTP (Mikrotik)	NOA	TR Ankara	78.170.135.164.dynamic.ttnet.com.tr (Turk Telekom)	10.338	
+16% (17) -	23-may-2024 23:25 (3 days ago)
+38.156.73.155:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.73.155 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	19.106	
+29% (2) -	23-may-2024 20:16 (3 days ago)
+188.125.167.66:8080	HTTP (Mikrotik)	NOA	TR Antakya (Hatay)	server.bidea.biz (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.482	
+18% (7) -	23-may-2024 20:05 (3 days ago)
+149.86.146.44:8080	HTTPS (Mikrotik)	NOA	TR	undefined.hostname.localhost (Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi)	8.458	
+14% (1) -	23-may-2024 07:36 (4 days ago)
+188.132.221.81:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	188.132.221.81 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	2.392	
+25% (1) -	22-may-2024 23:21 (4 days ago)
+212.174.79.165:8080	HTTP	HIA	TR Sanliurfa (Şanlıurfa)	212.174.79.165.static.ttnet.com.tr (Turk Telekom)	5.145	
+10% (13) -	22-may-2024 18:25 (4 days ago
 103.130.145.169:80	HTTP	ANM	TR Istanbul	103-130-145-169.digiturunc.com (Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi)	0.626	
 95% (61) +	11-may-2024 14:48 (4 hours ago)
 212.174.79.177:8080	HTTP (Mikrotik)	NOA	TR Sanliurfa (Şanlıurfa)	212.174.79.177.static.ttnet.com.tr (Turk Telekom)	2.067	
