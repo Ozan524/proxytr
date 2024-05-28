@@ -1,3 +1,8 @@
+84.51.15.253:32650	HTTP (Mikrotik)	NOA	TR Istanbul !!!	host-84-51-15-253.teletektelekom.com (Superonline Iletisim Hizmetleri A.S.)	5.328	
+10% (18) -	28-may-2024 06:18 (9 hours ago)
+38.156.72.135:8080	HTTPS (Mikrotik)	NOA	TR Antakya (Hatay)	38.156.72.135 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	8.889	
+17% (2) -	27-may-2024 18:09 (21 hours ago)
+185.73.203.176:443
 212.174.15.142:8080	HTTP	HIA	TR Istanbul	212.174.15.142.static.ttnet.com.tr (Turk Telekom)	15.941	
 13% (7) -	27-may-2024 09:06 (6 hours ago)
 185.208.101.89:8080	HTTP (Mikrotik)	NOA	TR Kilis	185.208.101.89 (Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.)	5.735	
