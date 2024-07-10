@@ -2164,3 +2164,1003 @@ http	High	22 h.43 minutes
 188.132.222.68	8080	6 hours ago	
 3143 ms	5% (24)	tr Turkey	Transparent
 188.132.222.50	8080
+201.159.107.165:8081	HTTP (Mikrotik)	NOA	MX Saltillo (Coahuila) !!!	ip-201-159-107-165.xcien.com (JOSE MIGUEL MACIAS CONTRERAS)	6.258	
+5% (9) -	10-jul-2024 23:49 (15 mins ago)
+213.230.71.175:3128	HTTP	HIA	UZ Tashkent	213.230.71.175 (Uzbektelekom Joint Stock Company)	0.668	
+9% (2) -	10-jul-2024 23:42 (22 mins ago)
+38.156.15.160:999	HTTP (Mikrotik)	NOA	MX Yahualica de Gonzalez Gallo (Jalisco) !!!	dinamyc-38-156-15-160.wistarip.com (WISTARIP S DE RL DE CV)	17.603	
+11% (33) -	10-jul-2024 23:41 (22 mins ago)
+182.16.25.27:80	HTTP	NOA	HK	182.16.25.27 (Netsec Limited)	2.839	
+93% (28) +	10-jul-2024 23:40 (23 mins ago)
+165.16.6.153:1976	HTTP (Mikrotik)	NOA	LY Benghazi (Sha`biyat Banghazi) !!!	165.16.6.153 (Aljeel-net)	11.672	
+10% (12) -	10-jul-2024 23:37 (27 mins ago)
+110.232.66.30:8080	HTTPS (Mikrotik)	NOA	ID Medan (North Sumatra)	x421e.bali.nusa.net.id (PT. Media Antar Nusa)	20.476	
+11% (21) -	10-jul-2024 23:35 (29 mins ago)
+34.78.13.129:80	HTTP	HIA	BE Brussels (Brussels Capital)	129.13.78.34.bc.googleusercontent.com (GOOGLE-CLOUD-PLATFORM)	0.201	
+9% (12) +	10-jul-2024 23:32 (32 mins ago)
+86.101.159.229:18080	HTTP (Mikrotik)	NOA	HU Budapest	business-86-101-159-229.business.broadband.hu (Vodafone Hungary Ltd.)	9.953	
+11% (1) -	10-jul-2024 23:31 (33 mins ago)
+14.99.215.106:1111	HTTP (Mikrotik)	NOA	IN	14.99.215.106 (Tata Teleservices ISP AS)	4.799	
+8% (6) -	10-jul-2024 23:28 (36 mins ago)
+41.207.240.254:80	HTTP	ANM	TZ Dar es Salaam (Dar es Salaam Region) !!!	41-207-240-254.as37349.aptus.co.tz (Aptus)	1.882	
+55% (6) +	10-jul-2024 23:25 (38 mins ago)
+139.255.74.124:8080	HTTP (Mikrotik)	NOA	ID Jakarta	ln-static-139-255-74-124.link.net.id (Linknet ASN)	6.955	
+11% (57) -	10-jul-2024 23:24 (40 mins ago)
+24.172.34.114:49920	HTTPS	HIA	US West Columbia (South Carolina)	syn-024-172-034-114.biz.spectrum.com (TWC-11426-CAROLINAS)	18.601	
+10% (519) -	10-jul-2024 23:24 (40 mins ago)
+143.110.232.177:80	HTTP	HIA	US Santa Clara (California)	143.110.232.177 (DIGITALOCEAN-ASN)	1.653	
+27% (735) +	10-jul-2024 23:22 (41 mins ago)
+122.3.131.143:8082	HTTPS (Mikrotik)	NOA	PH Dulag (Province of Leyte)	122.3.131.143.pldt.net (Philippine Long Distance Telephone Company)	11.247	
+12% (20) -	10-jul-2024 23:22 (42 mins ago)
+81.223.232.91:80	HTTP (Squid)	NOA	AT Krieglach (Styria)	squid2.lxcluster.at (T-Mobile Austria GmbH)	0.22	
+67% (18) +	10-jul-2024 23:20 (44 mins ago)
+38.183.152.250:999	HTTP (Mikrotik)	NOA	DO Bella Vista (Santiago Province)	38.183.152.250 (INVERSIONES BONAFER, SRL)	10.345	
+11% (13) -	10-jul-2024 23:17 (46 mins ago)
+175.139.233.78:80	HTTP	ANM	MY Kota Kinabalu (Sabah) !!!	175.139.233.78 (TM TECHNOLOGY SERVICES SDN. BHD.)	4.963	
+25% (3) +	10-jul-2024 23:14 (49 mins ago)
+162.241.207.217:80	HTTP	HIA	US !!!	162-241-207-217.unifiedlayer.com (UNIFIEDLAYER-AS-1)	6.315	
+25% (622) +	10-jul-2024 23:12 (52 mins ago)
+62.169.26.156:8081	HTTP	HIA	DE Düsseldorf (North Rhine-Westphalia)	ip-156-26-169-62.static.contabo.net (Contabo GmbH)	2.364	
+27% (3) +	10-jul-2024 23:11 (52 mins ago)
+14.177.4.119:23500	HTTPS	HIA	VN Hanoi	static.vnpt.vn (VNPT Corp)	4.716	
+50% (1) -	10-jul-2024 23:06 (58 mins ago)
+74.119.147.209:4145	SOCKS5	HIA	US Alpharetta (Georgia)	74.119.147.209 (PERFORMIVE)	1.265	
+100% (1077) +	10-jul-2024 22:56 (1 hours ago)
+75.119.131.36:9393	HTTP	ANM	DE Düsseldorf (North Rhine-Westphalia)	vmi530183.contaboserver.net (Contabo GmbH)	16.241	
+20% (24) -	10-jul-2024 22:47 (1 hours ago)
+82.136.72.102:80	HTTP	HIA	CH Zug	mailgateway.medworld.ch (WWZ Telekom AG)	1.352	
+38% (5) +	10-jul-2024 22:47 (1 hours ago)
+62.112.10.200:11650	HTTPS	HIA	NL Naaldwijk (South Holland) !!!	62-112-10-200.hosted-by-worldstream.net (WorldStream B.V.)	1.035	
+new -	10-jul-2024 22:47 (1 hours ago)
+82.223.165.28:39780	SOCKS5	HIA	ES	latiendadejuanylorenza.com (IONOS SE)	12.287	
+100% (2) -	10-jul-2024 22:47 (1 hours ago)
+209.97.149.157:80	HTTP	HIA	US Clifton (New Jersey)	209.97.149.157 (DIGITALOCEAN-ASN)	0.572	
+8% (4) +	10-jul-2024 22:42 (1 hours ago)
+152.26.229.86:9443	HTTPS	ANM	US Huntersville (North Carolina) !!!	zscaler-nat-86.rtp.zs.ncren.net (NCREN)	0.547	
+42% (36) -	10-jul-2024 22:41 (1 hours ago)
+192.111.137.35:4145	SOCKS5	HIA	CA Toronto (Ontario)	192.111.137.35 (PERFORMIVE)	1.138	
+87% (3025) +	10-jul-2024 22:35 (1 hours ago)
+209.126.6.159:80	HTTP	HIA	US St Louis (Missouri)	vmi891118.contaboserver.net (NL-811-40021)	8.981	
+19% (723) +	10-jul-2024 22:33 (1 hours ago)
+43.135.45.237:80	HTTP	NOA	HK Hong Kong	43.135.45.237 (Tencent Building, Kejizhongyi Avenue)	2.476	
+100% (19) +	10-jul-2024 22:32 (1 hours ago)
+36.91.148.36:8080	HTTP (Mikrotik)	NOA	ID Jakarta	36.91.148.36 (PT Telekomunikasi Indonesia)	5.818	
+24% (123) -	10-jul-2024 22:26 (1 hours ago)
+181.39.24.155:999	HTTP (Mikrotik)	NOA	EC Quito (Pichincha)	host-181-39-24-155.telconet.net (Telconet S.A)	3.662	
+18% (7) -	10-jul-2024 22:26 (1 hours ago)
+27.67.54.178:8080	HTTP (Mikrotik)	NOA	VN Hanoi	27.67.54.178 (Viettel Group)	6.515	
+33% (1) -	10-jul-2024 22:24 (1 hours ago)
+178.128.200.87:80	HTTP	HIA	DE Frankfurt am Main (Hesse)	rrr-api-23.3.2023 (DIGITALOCEAN-ASN)	0.173	
+31% (867) +	10-jul-2024 22:23 (1 hours ago)
+43.229.225.210:3128	HTTP (Squid)	NOA	IN	43.229.225.210 (Auspice Infratel Pvt. Ltd.)	8.69	
+50% (1) -	10-jul-2024 22:21 (1 hours ago)
+64.62.151.173:80	HTTP	HIA	US Anchorage (Alaska)	64.62.151.173 (HURRICANE)	0.778	
+25% (1) +	10-jul-2024 22:21 (1 hours ago)
+103.133.71.60:6776	HTTP (Mikrotik)	NOA	ID Depok (West Java)	103.133.71.60 (PT Maxindo Mitra Solusi)	3.093	
+17% (2) -	10-jul-2024 22:20 (1 hours ago)
+176.253.53.25:80	HTTP	HIA	GB Sheffield !!!	176.253.53.25 (Sky UK Limited)	4.924	
+20% (322) -	10-jul-2024 22:18 (1 hours ago)
+180.211.88.190:3125	HTTP (Mikrotik)	NOA	ID Bekasi (West Java)	180.211.88.190 (Kings Network Indonesia, PT)	15.465	
+3% (3) -	10-jul-2024 22:18 (1 hours ago)
+103.109.125.155:4444	HTTP (Mikrotik)	NOA	ID Medan (North Sumatra)	103.109.125.155 (PT. PANCA DUTA UTAMA)	8.638	
+50% (1) -	10-jul-2024 22:17 (1 hours ago)
+146.59.202.70:80	HTTP	HIA	FR	146.59.202.70 (OVH SAS)	2.84	
+32% (767) +	10-jul-2024 22:17 (1 hours ago)
+36.67.168.117:80	HTTP (Mikrotik)	NOA	ID Tangerang (Banten)	36.67.168.117 (PT Telekomunikasi Indonesia)	9.019	
+19% (275) -	10-jul-2024 22:14 (1 hours ago)
+20.244.24.165:80	HTTP	HIA	IN Pune (Maharashtra)	20.244.24.165 (MICROSOFT-CORP-MSN-AS-BLOCK)	1.089	
+40% (8) +	10-jul-2024 22:12 (1 hours ago)
+62.210.15.199:80	HTTP	HIA	FR	62-210-15-199.rev.poneytelecom.eu (Scaleway S.a.s.)	2.195	
+52% (80) -	10-jul-2024 22:12 (1 hours ago)
+72.195.101.99:4145	SOCKS5	HIA	US	ip72-195-101-99.oc.oc.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	1.144	
+100% (94) +	10-jul-2024 22:11 (1 hours ago)
+167.102.133.105:80	HTTP	ANM	US Baltimore (Maryland) !!!	167.102.133.105 (NETWORKMARYLAND)	1.388	
+68% (32) +	10-jul-2024 22:10 (1 hours ago)
+51.91.119.25:3128	HTTP (Squid)	NOA	FR	ns3165562.ip-51-91-119.eu (OVH SAS)	16.705	
+50% (6) -	10-jul-2024 22:08 (1 hours ago)
+188.165.49.152:80	HTTP (Squid)	NOA	FR	ip152.ip-188-165-49.eu (OVH SAS)	0.075	
+75% (3) +	10-jul-2024 22:08 (1 hours ago)
+5.44.101.53:13128	HTTP (Squid)	NOA	DE Frankfurt am Main (Hesse)	anna.asc-vision.de (dogado GmbH)	7.865	
+14% (3) -	10-jul-2024 22:08 (1 hours ago)
+103.105.196.56:80	HTTP	ANM	ID Cikarang Satu (West Java) !!!	103.105.196.56 (DINAS KOMUNIKASI DAN INFORMATIKA KAB. BEKASI)	4.796	
+100% (2) +	10-jul-2024 22:07 (1 hours ago)
+14.188.161.6:443	HTTP (Mikrotik)	NOA	VN Hanoi	static.vnpt.vn (VNPT Corp)	20.64	
+50% (1) -	10-jul-2024 22:07 (1 hours ago)
+15.204.151.141:31158	HTTP (Squid)	NOA	US Reston (Virginia)	ip141.ip-15-204-151.us (OVH SAS)	12.867	
+29% (2) -	10-jul-2024 22:06 (1 hours ago)
+23.134.91.191:3128	HTTP (Squid)	NOA	FR Paris !!!	Checkout-em-191.shoppingstripe.com (AS-GLOBALTELEHOST)	4.391	
+50% (4) -	10-jul-2024 22:05 (1 hours ago)
+43.129.224.230:80	HTTP	NOA	HK Hong Kong	43.129.224.230 (Tencent Building, Kejizhongyi Avenue)	1.609	
+85% (11) +	10-jul-2024 22:04 (1 hours ago)
+20.118.221.52:3128	HTTP (Squid)	NOA	US Des Moines (Iowa)	20.118.221.52 (MICROSOFT-CORP-MSN-AS-BLOCK)	19.654	
+new -	10-jul-2024 22:04 (2 hours ago)
+103.133.68.151:8080	HTTP (Mikrotik)	NOA	ID Jakarta !!!	103.133.68.151 (PT Maxindo Mitra Solusi)	7.384	
+13% (17) -	10-jul-2024 21:53 (2 hours ago)
+182.253.93.4:53281	HTTP	HIA	ID Denpasar (Bali)	182.253.93.4 (BIZNET NETWORKS)	9.528	
+13% (84) -	10-jul-2024 21:49 (2 hours ago)
+101.255.166.142:3128	HTTPS (Mikrotik)	NOA	ID Bekasi (West Java)	101.255.166.142 (PT Remala Abadi)	5.265	
+18% (2) -	10-jul-2024 21:46 (2 hours ago)
+186.215.68.51:3127	HTTP (Mikrotik)	NOA	BR Brasília (Federal District)	CORREIA.static.gvt.net.br (TELEFONICA BRASIL S.A)	16.087	
+10% (81) -	10-jul-2024 21:37 (2 hours ago)
+41.191.105.185:3129	HTTP (Squid)	NOA	LR Monrovia (Montserrado County)	41.191.105.185 (OrangeLiberia)	9.246	
+9% (6) -	10-jul-2024 21:34 (2 hours ago)
+188.132.209.245:80	HTTP	ANM	TR Istanbul	188.132.209.245 (Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti.)	0.314	
+98% (78) +	10-jul-2024 21:33 (2 hours ago)
+202.4.119.97:5020	HTTP (Mikrotik)	NOA	BD Dhaka	202.4.119.97 (AmberIT Limited)	4.174	
+12% (20) -	10-jul-2024 21:33 (2 hours ago)
+84.247.141.245:80	HTTP	HIA	DE Düsseldorf (North Rhine-Westphalia)	vmi1605681.contaboserver.net (Contabo GmbH)	19.086	
+16% (6) -	10-jul-2024 21:20 (2 hours ago)
+68.183.143.134:80	HTTP	HIA	US North Bergen (New Jersey)	68.183.143.134 (DIGITALOCEAN-ASN)	11.898	
+18% (782) -	10-jul-2024 21:09 (2 hours ago)
+54.38.70.138:80	HTTP	HIA	FR	54.38.70.138 (OVH SAS)	0.26	
+38% (5) +	10-jul-2024 21:00 (3 hours ago)
+172.99.188.91:3128	HTTP (Squid)	NOA	NL Amsterdam (North Holland) !!!	91-188-99-172.clients.gthost.com (AS-GLOBALTELEHOST)	0.267	
+50% (2) -	10-jul-2024 20:53 (3 hours ago)
+14.225.8.195:3218	HTTP (Squid)	NOA	VN Bac Ninh (Bắc Ninh Province)	14.225.8.195 (VIETNAM POSTS AND TELECOMMUNICATIONS GROUP)	6.599	
+38% (3) -	10-jul-2024 20:52 (3 hours ago)
+198.23.176.76:3128	HTTP (Squid)	NOA	US Buffalo (New York)	198-23-176-76-host.colocrossing.com (AS-COLOCROSSING)	9.669	
+8% (27) -	10-jul-2024 20:52 (3 hours ago)
+45.190.184.137:999	HTTP (Mikrotik)	NOA	HN	137-184-190-45.ufinet.com.hn (UFINET PANAMA S.A.)	8.469	
+50% (1) -	10-jul-2024 20:49 (3 hours ago)
+13.91.243.29:3128	HTTPS (Squid)	ANM	US San Jose (California) !!!	13.91.243.29 (MICROSOFT-CORP-MSN-AS-BLOCK)	10.26	
+100% (3) +	10-jul-2024 20:46 (3 hours ago)
+58.69.247.70:8083	HTTP (Mikrotik)	NOA	PH Makati City (Metro Manila) !!!	58.69.247.70 (Philippine Long Distance Telephone Company)	8	
+7% (11) -	10-jul-2024 20:42 (3 hours ago)
+181.119.106.85:8080	HTTP (Mikrotik)	NOA	GT Guatemala City (Guatemala)	85.106.119.181.ufinet.com.gt (UFINET PANAMA S.A.)	6.404	
+22% (43) -	10-jul-2024 20:30 (3 hours ago)
+217.160.99.39:80	HTTP	HIA	FR	217.160.99.39 (IONOS SE)	0.218	
+42% (84) +	10-jul-2024 20:29 (3 hours ago)
+59.9.27.95:3128	HTTP	ANM	KR Pocheon-si (Gyeonggi-do)	59.9.27.95 (Korea Telecom)	9.295	
+25% (2) -	10-jul-2024 20:25 (3 hours ago)
+201.220.112.98:999	HTTP (Mikrotik)	NOA	CL Temuco (Region de la Araucania)	201.220.112.98 (Telefonica del Sur S.A.)	8.592	
+11% (407) -	10-jul-2024 20:21 (3 hours ago)
+103.20.90.118:8581	HTTP (Mikrotik)	NOA	ID Surabaya (East Java) !!!	103.20.90.118 (Wow Internet Indonesia)	2.496	
+6% (2) -	10-jul-2024 20:21 (3 hours ago)
+45.144.127.18:8080	HTTPS (Mikrotik)	NOA	IR Tehran	45.144.127.18 (Tose`h Fanavari Ertebabat Pasargad Arian Co. PJS)	3.671	
+8% (7) -	10-jul-2024 20:20 (3 hours ago)
+77.237.28.191:8080	HTTP (Mikrotik)	NOA	PL Lodz (Łódź Voivodeship)	staticline60300.toya.net.pl (Toya sp.z.o.o)	3.761	
+12% (22) -	10-jul-2024 20:18 (3 hours ago)
+51.210.214.28:80	HTTP	HIA	FR	ns3178034.ip-51-210-214.eu (OVH SAS)	6.253	
+79% (11) -	10-jul-2024 20:13 (3 hours ago)
+82.65.27.56:80	HTTP	HIA	FR	82-65-27-56.subs.proxad.net (Free SAS)	2.737	
+5% (1) -	10-jul-2024 20:09 (3 hours ago)
+161.34.66.35:3128	HTTP (Squid)	NOA	JP Higashifunabashi (Chiba)	161-34-66-35.indigo.static.arena.ne.jp (NTT PC Communications, Inc.)	8.09	
+55% (6) -	10-jul-2024 20:06 (3 hours ago)
+27.77.128.15:8080	HTTP (Mikrotik)	NOA	VN Đồng Nai Province	localhost (Viettel Group)	6.724	
+40% (2) -	10-jul-2024 20:05 (3 hours ago)
+103.167.2.63:8080	HTTP (Mikrotik)	ANM	ID !!!	103.167.2.63 (Institut Agama Islam Negeri Salatiga)	18.803	
+10% (12) +	10-jul-2024 20:03 (4 hours ago)
+202.180.20.11:55443	HTTP	HIA	ID Tangerang (Banten)	202.180.20.11 (PT. HIPERNET INDODATA)	7.043	
+11% (43) -	10-jul-2024 20:01 (4 hours ago)
+51.38.64.38:41319	SOCKS5	HIA	GB London (England)	38.ip-51-38-64.eu (OVH SAS)	6.028	
+50% (3) -	10-jul-2024 20:00 (4 hours ago)
+182.48.77.173:8674	HTTP (Mikrotik)	NOA	BD Dhaka !!!	182.48.77.173 (EARTH TELECOMMUNICATION Pvt LTD.)	12.209	
+10% (18) -	10-jul-2024 19:59 (4 hours ago)
+206.189.12.206:80	HTTP	NOA	NL Amsterdam (North Holland)	206.189.12.206 (DIGITALOCEAN-ASN)	5.205	
+35% (50) -	10-jul-2024 19:55 (4 hours ago)
+165.22.103.5:443	HTTP (Squid)	NOA	SG Singapore	165.22.103.5 (DIGITALOCEAN-ASN)	14.404	
+5% (25) -	10-jul-2024 19:54 (4 hours ago)
+172.173.132.85:80	HTTP	HIA	US Washington (Virginia)	172.173.132.85 (MICROSOFT-CORP-MSN-AS-BLOCK)	3.01	
+29% (448) +	10-jul-2024 19:49 (4 hours ago)
+41.60.26.210:32650	HTTP (Mikrotik)	NOA	CD	41.60.26.210 (Liquid Telecommunications Ltd)	9.959	
+14% (206) -	10-jul-2024 19:46 (4 hours ago)
+213.250.198.146:7777	SOCKS5	HIA	CZ Litomyšl (Svitavy District)	polala.lit.rev-fortech.cz (Nordic Telecom Regional s.r.o.)	3.46	
+38% (3) -	10-jul-2024 19:42 (4 hours ago)
+46.173.211.221:12880	HTTP	NOA	RU	slepovdedic2231.lowhost.ru (Garant-Park-Internet LLC)	2.13	
+10% (7) -	10-jul-2024 19:42 (4 hours ago)
+103.143.196.66:8080	HTTP (Mikrotik)	NOA	ID Sragen (Central Java)	103.143.196.66 (PT JERNIH MULTI KOMUNIKASI)	4.513	
+11% (18) -	10-jul-2024 19:39 (4 hours ago)
+51.255.20.138:80	HTTP	HIA	FR	51.255.20.138 (OVH SAS)	4.026	
+41% (230) +	10-jul-2024 19:39 (4 hours ago)
+188.40.85.38:46310	SOCKS5	HIA	DE	static.38.85.40.188.clients.your-server.de (Hetzner Online GmbH)	0.699	
+50% (1) +	10-jul-2024 19:37 (4 hours ago)
+167.250.6.35:5143	SOCKS5	HIA	AR	nc35.servidoraweb.net (NUT HOST SRL)	14.145	
+33% (2) -	10-jul-2024 19:36 (4 hours ago)
+185.128.240.77:8080	HTTPS (Mikrotik)	NOA	RO	unknown.fiberdata.ro (Data Zyx Srl)	17.001	
+15% (23) -	10-jul-2024 19:31 (4 hours ago)
+103.152.116.82:8080	HTTP (Mikrotik)	NOA	PK Lahore (Punjab)	103.152.116.82 (KK Networks Pvt Ltd.)	20.182	
+11% (19) -	10-jul-2024 19:27 (4 hours ago)
+47.243.166.133:18080	HTTPS	HIA	HK Hong Kong	47.243.166.133 (Alibaba US Technology Co., Ltd.)	4.431	
+50% (2) -	10-jul-2024 19:24 (4 hours ago)
+103.235.67.130:80	HTTP	HIA	ID	103.235.67.130 (PT Artha Media Lintas Nusa)	10.351	
+13% (10) -	10-jul-2024 19:18 (4 hours ago)
+31.220.53.93:3128	HTTP (Squid)	NOA	US Asheville (North Carolina)	srv539440.hstgr.cloud (Hostinger International Limited)	24.532	
+24% (15) -	10-jul-2024 19:12 (4 hours ago)
+190.193.142.156:3128	HTTP (Mikrotik)	NOA	AR Buenos Aires	156-142-193-190.cab.prima.net.ar (Telecom Argentina S.A.)	22.078	
+15% (42) -	10-jul-2024 19:08 (4 hours ago)
+196.223.129.21:80	HTTP	HIA	ZA Helderberg (Western Cape)	196.223.129.21 (Hero-Telecoms)	8.591	
+30% (385) -	10-jul-2024 19:04 (5 hours ago)
+104.195.51.250:5678	HTTP (Squid)	NOA	US !!!	104.195.51.250 (ESITED)	21.697	
+31% (8) -	10-jul-2024 18:59 (5 hours ago)
+112.204.177.95:8080	HTTP (Mikrotik)	NOA	PH Mandaluyong (Metro Manila)	112.204.177.95.pldt.net (Philippine Long Distance Telephone Company)	8.692	
+21% (4) -	10-jul-2024 18:57 (5 hours ago)
+93.177.67.178:80	HTTP	ANM	DE Nuremberg (Bavaria)	v2202311183353246696.powersrv.de (netcup GmbH)	0.752	
+66% (121) +	10-jul-2024 18:55 (5 hours ago)
+187.49.124.10:666	HTTPS (Mikrotik)	NOA	BR Salvador (Bahia) !!!	187-49-124-10.g3fibra.com.br (G3 TELECOM)	9.355	
+5% (1) -	10-jul-2024 18:53 (5 hours ago)
+188.165.252.198:64593	SOCKS5	HIA	FR	ns333668.ip-188-165-252.eu (OVH SAS)	6.762	
+67% (2) -	10-jul-2024 18:51 (5 hours ago)
+8.212.107.200:80	HTTP	ANM	HK Hong Kong !!!	8.212.107.200 (Alibaba US Technology Co., Ltd.)	3.039	
+100% (18) +	10-jul-2024 18:49 (5 hours ago)
+103.156.14.18:8080	HTTP (Mikrotik)	NOA	ID Sungailiat (Bangka–Belitung Islands)	103.156.14.18 (PT Lintas Jaringan Nusantara)	5.56	
+17% (25) -	10-jul-2024 18:47 (5 hours ago)
+142.54.228.193:4145	SOCKS5	HIA	US	142.54.228.193 (PERFORMIVE)	1.191	
+96% (859) +	10-jul-2024 18:42 (5 hours ago)
+154.12.253.232:63510	SOCKS5	HIA	US St Louis (Missouri)	vmi1198577.contaboserver.net (NL-811-40021)	7.812	
+new -	10-jul-2024 18:39 (5 hours ago)
+38.45.33.130:999	HTTP (Mikrotik)	NOA	VE La Guaira (Vargas) !!!	38.45.33.130 (TELECOMUNICACIONES G-NETWORK, C.A.)	4.125	
+14% (15) -	10-jul-2024 18:36 (5 hours ago)
+108.7.232.77:3128	HTTPS (Squid)	NOA	US Malden (Massachusetts)	pool-108-7-232-77.bstnma.fios.verizon.net (UUNET)	17.037	
+12% (25) -	10-jul-2024 18:28 (5 hours ago)
+189.177.3.115:8080	HTTP (Mikrotik)	NOA	MX Puerto Vallarta (Jalisco) !!!	dsl-189-177-3-115-dyn.prod-infinitum.com.mx (UNINET)	20.505	
+30% (16) -	10-jul-2024 18:27 (5 hours ago)
+220.226.202.166:80	HTTP	HIA	IN !!!	220.226.202.166 (Reliance Communications Ltd.DAKC MUMBAI)	7.216	
+new +	10-jul-2024 18:21 (5 hours ago)
+161.97.143.60:27463	SOCKS5	HIA	DE Düsseldorf (North Rhine-Westphalia)	lnxprd104.gerniks.net (Contabo GmbH)	6.513	
+50% (1) -	10-jul-2024 18:20 (5 hours ago)
+103.159.66.61:8080	HTTP (Mikrotik)	NOA	IN Ghaziabad (Uttar Pradesh) !!!	103.159.66.61 (Home Broadband Services LLP)	21.501	
+15% (63) -	10-jul-2024 18:19 (5 hours ago)
+45.238.220.1:8181	HTTP	HIA	AR Curuzu Cuatia (Corrientes)	45.238.220.1 (CA VI CU SRL)	3.418	
+13% (234) -	10-jul-2024 18:18 (5 hours ago)
+59.148.89.63:80	HTTP	ANM	HK	059148089063.ctinets.com (Hong Kong Broadband Network Ltd.)	1.333	
+69% (11) +	10-jul-2024 18:16 (5 hours ago)
+101.32.183.45:80	HTTP	NOA	HK Hong Kong	101.32.183.45 (Tencent Building, Kejizhongyi Avenue)	1.56	
+new +	10-jul-2024 18:10 (5 hours ago)
+152.69.235.66:55555	SOCKS5	HIA	KR Chuncheon (Gangwon-do)	152.69.235.66 (ORACLE-BMC-31898)	11.989	
+28% (8) -	10-jul-2024 18:04 (6 hours ago)
+172.205.211.95:3128	HTTP (Squid)	NOA	NL Amsterdam (North Holland)	172.205.211.95 (MICROSOFT-CORP-MSN-AS-BLOCK)	13.013	
+16% (10) -	10-jul-2024 17:58 (6 hours ago)
+132.148.244.30:56814	SOCKS5	HIA	US	30.244.148.132.host.secureserver.net (GO-DADDY-COM-LLC)	13.208	
+33% (1) -	10-jul-2024 17:56 (6 hours ago)
+162.241.70.64:58824	SOCKS5	HIA	US	162-241-70-64.webhostbox.net (NETWORK-SOLUTIONS-HOSTING)	3.871	
+50% (1) +	10-jul-2024 17:50 (6 hours ago)
+191.37.4.218:8085	HTTP (Mikrotik)	NOA	BR Buriti (Maranhão) !!!	fontetelecom.com.br (Fonte Informatica ltda)	8.106	
+12% (25) -	10-jul-2024 17:36 (6 hours ago)
+182.78.42.112:83	HTTP (Mikrotik)	NOA	IN !!!	182.78.42.112 (BHARTI Airtel Ltd.)	15.104	
+9% (29) -	10-jul-2024 17:35 (6 hours ago)
+212.107.28.120:80	HTTP	ANM	HK Hong Kong !!!	212.107.28.120 (Kirino LLC)	1.801	
+78% (7) +	10-jul-2024 17:28 (6 hours ago)
+68.183.219.135:80	HTTP	NOA	DE Frankfurt am Main (Hesse)	68.183.219.135 (DIGITALOCEAN-ASN)	0.27	
+29% (2) -	10-jul-2024 17:24 (6 hours ago)
+45.112.127.222:9191	HTTP (Mikrotik)	NOA	ID Tangerang (Banten)	222-127.fiber.net.id (PT. Fiber Networks Indonesia)	10.969	
+9% (5) -	10-jul-2024 17:03 (7 hours ago)
+104.36.148.79:10136	SOCKS5	HIA	CA	vps.lexlawless.com (IDIGITAL)	5.287	
+new -	10-jul-2024 16:41 (7 hours ago)
+20.232.75.110:8888	HTTP (Squid)	ANM	US Washington (Virginia) !!!	20.232.75.110 (MICROSOFT-CORP-MSN-AS-BLOCK)	19.181	
+12% (31) -	10-jul-2024 16:40 (7 hours ago)
+199.204.248.119:50048	SOCKS5	HIA	US	cp09.machighway.com (WEBINT)	1.307	
+50% (1) +	10-jul-2024 16:29 (7 hours ago)
+168.205.63.171:9090	HTTP (Mikrotik)	NOA	BR Frutal (Minas Gerais)	171-63-205-168.tcftelecom.com.br (TCF Telecomunicacoes Campo Florido Ltda)	4.876	
+25% (1) -	10-jul-2024 16:24 (7 hours ago)
+68.188.93.171:8080	HTTP (Mikrotik)	NOA	US St Louis (Missouri)	syn-068-188-093-171.biz.spectrum.com (CHARTER-20115)	8.24	
+22% (310) -	10-jul-2024 16:21 (7 hours ago)
+102.222.252.182:9999	HTTP (Mikrotik)	NOA	LY	102.222.252.182 (General Post and Telecommunication Company)	3.021	
+17% (21) -	10-jul-2024 16:20 (7 hours ago)
+192.73.244.36:80	HTTP	HIA	US	PLXSERVER01.cyphersoftware.com (NETACTUATE)	5.348	
+80% (226) +	10-jul-2024 16:14 (7 hours ago)
+176.236.232.50:9090	HTTP (Mikrotik)	NOA	TR Kartal (Istanbul)	176.236.232.50 (Superonline Iletisim Hizmetleri A.S.)	2.095	
+7% (33) -	10-jul-2024 16:10 (7 hours ago)
+104.195.6.188:5678	HTTP (Squid)	NOA	US !!!	104.195.6.188 (ESITED)	21.88	
+37% (7) -	10-jul-2024 16:09 (7 hours ago)
+103.233.156.42:8080	HTTP (Mikrotik)	NOA	ID	ip-156-42.moratelindo.co.id (PT Mora Telematika Indonesia)	3.88	
+8% (43) -	10-jul-2024 16:08 (7 hours ago)
+103.247.216.70:8080	HTTP (Mikrotik)	NOA	ID Penggilingan (Jakarta)	ip-70.216.hsp.net.id (PT Parsaoran Global Datatrans)	10.407	
+16% (74) -	10-jul-2024 16:05 (7 hours ago)
+103.69.60.10:8080	HTTP (Mikrotik)	NOA	ID	103.69.60.10 (PT Sukha Karya Teknologi)	13.505	
+14% (22) -	10-jul-2024 16:02 (8 hours ago)
+2.237.63.228:80	HTTP	ANM	IT Palermo (Province of Palermo)	2-237-63-228.ip237.fastwebnet.it (Fastweb)	0.462	
+30% (3) +	10-jul-2024 15:50 (8 hours ago)
+217.182.55.226:80	HTTP	ANM	FR	ip226.ip-217-182-55.eu (OVH SAS)	0.124	
+100% (5) +	10-jul-2024 15:36 (8 hours ago)
+115.127.28.10:8674	HTTP (Mikrotik)	NOA	BD Dhaka	115.127.28.10.bracnet.net (BRACNet Limited)	3.84	
+14% (69) -	10-jul-2024 15:27 (8 hours ago)
+45.77.90.229:80	HTTP	NOA	GB Whitechapel (Tower Hamlets)	45.77.90.229.vultrusercontent.com (AS-CHOOPA)	0.121	
+65% (15) +	10-jul-2024 15:25 (8 hours ago)
+88.247.209.143:8080	HTTP (Mikrotik)	NOA	TR Izmir (İzmir Province)	88.247.209.143.static.ttnet.com.tr (Turk Telekom)	10.454	
+13% (38) -	10-jul-2024 15:25 (8 hours ago)
+177.124.38.231:3128	HTTPS (Mikrotik)	NOA	BR Ribeirao do Ouro (Santa Catarina)	177.124.38.231.sninternet.com.br (SN Internet Navegantes Ltda ME)	20.156	
+29% (5) -	10-jul-2024 15:21 (8 hours ago)
+200.24.159.155:999	HTTP (Mikrotik)	NOA	EC Cuenca (Azuay)	155-159-24-200.ufinetlatam.net.ec (UFINET PANAMA S.A.)	16.439	
+20% (5) -	10-jul-2024 15:20 (8 hours ago)
+199.229.254.129:4145	SOCKS5	HIA	US	199.229.254.129 (PERFORMIVE)	0.903	
+100% (1088) +	10-jul-2024 15:18 (8 hours ago)
+72.210.221.197:4145	SOCKS5	HIA	US	ip72-210-221-197.ph.ph.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	0.916	
+100% (801) +	10-jul-2024 15:18 (8 hours ago)
+184.170.248.5:4145	SOCKS5	HIA	US	184.170.248.5 (PERFORMIVE)	0.978	
+100% (987) +	10-jul-2024 15:18 (8 hours ago)
+208.65.90.21:4145	SOCKS5	HIA	US	208.65.90.21 (NET2ATLANTA)	1.164	
+32% (103) +	10-jul-2024 15:18 (8 hours ago)
+184.178.172.17:4145	SOCKS5	HIA	US Roanoke (Virginia)	wsip-184-178-172-17.rn.hr.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	3.019	
+100% (334) +	10-jul-2024 15:18 (8 hours ago)
+98.181.137.80:4145	SOCKS5	HIA	US North Las Vegas (Nevada)	98.181.137.80 (ASN-CXA-ALL-CCI-22773-RDC)	0.97	
+99% (648) +	10-jul-2024 15:18 (8 hours ago)
+62.23.184.84:8080	HTTP (Mikrotik)	NOA	FR Paris	host.84.184.23.62.rev.coltfrance.com (COLT Technology Services Group Limited)	8.409	
+7% (100) -	10-jul-2024 15:10 (8 hours ago)
+160.248.2.185:3128	HTTP (Squid)	NOA	JP Takasago (Saitama)	160-248-2-185.indigo.static.arena.ne.jp (NTT PC Communications, Inc.)	8.475	
+50% (2) -	10-jul-2024 15:08 (8 hours ago)
+177.222.25.9:8080	HTTP (Mikrotik)	NOA	BR Duque de Caxias (Rio de Janeiro)	9.25.222.177.as28165.wcs.net.br (Wireless Comm Services LTDA)	21.226	
+19% (22) -	10-jul-2024 15:07 (8 hours ago)
+134.209.67.109:26000	HTTP (Squid)	ANM	US North Bergen (New Jersey) !!!	134.209.67.109 (DIGITALOCEAN-ASN)	1.304	
+91% (214) -	10-jul-2024 15:07 (8 hours ago)
+5.75.200.249:80	HTTP	ANM	DE Wiesbaden (Hesse)	static.249.200.75.5.clients.your-server.de (Hetzner Online GmbH)	0.188	
+100% (27) +	10-jul-2024 15:06 (8 hours ago)
+198.16.63.10:80	HTTP	ANM	US Los Angeles (California)	198.16.63.10 (CNSERVERS)	2.061	
+100% (3) +	10-jul-2024 15:06 (8 hours ago)
+8.215.41.90:8080	HTTP (Mikrotik)	ANM	ID Jakarta !!!	8.215.41.90 (Alibaba US Technology Co., Ltd.)	10.922	
+11% (2) -	10-jul-2024 14:59 (9 hours ago)
+211.73.182.65:80	HTTP	ANM	TW Taichung (Taichung City)	211.73.182.65 (Taiwan Infrastructure Network Technologie)	16.149	
+50% (3) -	10-jul-2024 14:53 (9 hours ago)
+103.239.175.90:1111	HTTP (Mikrotik)	NOA	IN Puducherry (Union Territory of Puducherry)	103.239.175.90 (One Eight Technologies Private Limited)	7.656	
+14% (38) -	10-jul-2024 14:43 (9 hours ago)
+109.197.153.25:8888	HTTP	ANM	RU	109.197.153.25 (PE Shaymardanov Konstantin Ramilevich)	0.442	
+35% (27) +	10-jul-2024 14:41 (9 hours ago)
+109.63.189.213:80	HTTP	ANM	RU Moscow	109.63.189.213 (PJSC MegaFon)	0.557	
+47% (27) +	10-jul-2024 14:41 (9 hours ago)
+180.178.102.178:8080	HTTPS (Mikrotik)	NOA	ID Jakarta	180.178.102.178 (PT. HIPERNET INDODATA)	18.878	
+33% (2) -	10-jul-2024 14:34 (9 hours ago)
+183.100.14.134:8000	HTTP	HIA	KR Gwangju (Gyeonggi-do)	183.100.14.134 (Korea Telecom)	14.968	
+49% (609) -	10-jul-2024 14:33 (9 hours ago)
+41.77.7.234:3129	HTTP (Squid)	NOA	ZM	41.77.7.234 (ZAIN-ZAMBIA)	14.118	
+11% (35) -	10-jul-2024 14:26 (9 hours ago)
+170.106.179.191:33468	SOCKS5	HIA	US Santa Clara (California)	170.106.179.191 (Tencent Building, Kejizhongyi Avenue)	17.216	
+7% (3) -	10-jul-2024 14:01 (10 hours ago)
+176.126.85.169:51007	SOCKS5	HIA	NL Amsterdam (North Holland)	176.126.85.169 (HOSTHATCH)	3.657	
+new -	10-jul-2024 14:00 (10 hours ago)
+158.101.172.65:3128	HTTP (Squid)	NOA	DE Frankfurt am Main (Hesse)	158.101.172.65 (ORACLE-BMC-31898)	7.347	
+44% (4) -	10-jul-2024 13:58 (10 hours ago)
+188.166.82.178:3128	HTTPS (Squid)	NOA	NL Amsterdam (North Holland)	188.166.82.178 (DIGITALOCEAN-ASN)	18.663	
+10% (23) -	10-jul-2024 13:58 (10 hours ago)
+178.32.227.92:3128	HTTP (Squid)	NOA	FR La Valette-du-Var (Var)	srv.hexonekey.com (OVH SAS)	2.173	
+20% (1) -	10-jul-2024 13:54 (10 hours ago)
+149.202.141.205:44488	SOCKS5	HIA	FR !!!	149.202.141.205.foip.abcvg.ovh (OVH SAS)	8.069	
+29% (2) -	10-jul-2024 13:54 (10 hours ago)
+109.236.94.75:11481	SOCKS5	HIA	NL Naaldwijk (South Holland) !!!	109-236-94-75.hosted-by-worldstream.net (WorldStream B.V.)	15.313	
+new -	10-jul-2024 13:52 (10 hours ago)
+162.241.104.77:54431	SOCKS5	HIA	US	vps-4001740.planetpromo.com.br (NETWORK-SOLUTIONS-HOSTING)	8.81	
+100% (2) -	10-jul-2024 13:52 (10 hours ago)
+116.202.129.207:11654	SOCKS5	HIA	DE Nuremberg (Bavaria)	serv3.easymanager.de (Hetzner Online GmbH)	2.236	
+67% (2) -	10-jul-2024 13:51 (10 hours ago)
+54.37.122.101:31576	SOCKS5	HIA	FR	web138c1.multiplika.net (OVH SAS)	16.517	
+50% (1) +	10-jul-2024 13:45 (10 hours ago)
+124.106.45.64:8082	HTTP (Mikrotik)	NOA	PH Quezon City (Metro Manila)	124.106.45.64 (Philippine Long Distance Telephone Company)	5.423	
+12% (13) -	10-jul-2024 13:45 (10 hours ago)
+185.221.219.98:3128	HTTP (Squid)	NOA	NL Amsterdam (North Holland)	98-219-221-185.clients.gthost.com (AS-GLOBALTELEHOST)	3.684	
+56% (5) -	10-jul-2024 13:44 (10 hours ago)
+2.138.25.228:3128	HTTPS (Mikrotik)	NOA	ES Madrid	228.red-2-138-25.dynamicip.rima-tde.net (Telefonica De Espana S.a.u.)	3.085	
+8% (1) -	10-jul-2024 13:42 (10 hours ago)
+149.56.148.20:80	HTTP	ANM	CA Montreal (Quebec)	ip20.ip-149-56-148.net (OVH SAS)	0.671	
+100% (5) +	10-jul-2024 13:38 (10 hours ago)
+45.76.155.180:11026	SOCKS5	HIA	SG Singapore	45.76.155.180.vultrusercontent.com (AS-CHOOPA)	23.655	
+100% (5) -	10-jul-2024 13:38 (10 hours ago)
+84.54.191.22:8080	HTTP (Mikrotik)	NOA	BG	84.54.191.22 (Vision 2008 Ltd.)	12.64	
+10% (19) -	10-jul-2024 13:33 (10 hours ago)
+159.69.203.183:3128	HTTP (Squid)	ANM	DE Nuremberg (Bavaria) !!!	static.183.203.69.159.clients.your-server.de (Hetzner Online GmbH)	15.254	
+25% (6) -	10-jul-2024 13:24 (10 hours ago)
+94.75.76.10:8080	HTTP (Mikrotik)	NOA	PL Katowice (Silesia)	94-75-76-10.home.aster.pl (Liberty Global B.V.)	8.474	
+19% (478) -	10-jul-2024 13:18 (10 hours ago)
+83.219.145.106:3128	HTTP (Mikrotik)	NOA	RU Kaliningrad (Kaliningrad Oblast)	eth145-106.tis-dialog.ru (TIS Dialog LLC)	8.114	
+21% (49) -	10-jul-2024 13:14 (10 hours ago)
+62.194.247.138:3128	HTTPS (Squid)	NOA	NL Zaandam (North Holland)	h247138.upc-h.chello.nl (Vodafone Libertel B.V.)	20.046	
+15% (2) -	10-jul-2024 13:14 (10 hours ago)
+188.165.220.50:48440	SOCKS5	HIA	FR	ns342476.ip-188-165-220.eu (OVH SAS)	4.939	
+22% (2) +	10-jul-2024 13:14 (10 hours ago)
+64.23.153.213:443	HTTP (Squid)	NOA	US San Francisco (California)	64.23.153.213 (DIGITALOCEAN-ASN)	20.47	
+21% (24) -	10-jul-2024 13:10 (10 hours ago)
+14.102.58.186:8080	HTTP (Mikrotik)	NOA	IN	14.102.58.186 (ELXIRE DATA SERVICES PVT. LTD.)	4.131	
+17% (71) -	10-jul-2024 13:08 (10 hours ago)
+154.83.29.70:3030	HTTP (Mikrotik)	NOA	VE	154.83.29.70 (INTERNAUTAS SYSTEM, C.A.)	1.679	
+8% (11) -	10-jul-2024 13:03 (11 hours ago)
+213.226.71.67:31280	HTTP (Squid)	NOA	DE Frankfurt am Main (Hesse)	213.226.71.67 (Melbikomas UAB)	1.695	
+36% (4) -	10-jul-2024 13:00 (11 hours ago)
+181.224.205.18:999	HTTP (Mikrotik)	NOA	DO Santiago de los Caballeros (Santiago Province)	181.224.205.18 (BW TELECOM SRL)	4.52	
+6% (25) -	10-jul-2024 12:58 (11 hours ago)
+138.201.199.62:8080	HTTP	HIA	DE	mikrotik-mohamady.local (Hetzner Online GmbH)	4.742	
+15% (9) -	10-jul-2024 12:56 (11 hours ago)
+117.54.114.102:80	HTTP	ANM	ID Jakarta !!!	rev-117-54-114-102.indo.net.id (INDO Internet, PT)	1.387	
+33% (198) -	10-jul-2024 12:56 (11 hours ago)
+2.138.15.204:80	HTTP	ANM	ES El Escorial (Madrid)	204.red-2-138-15.dynamicip.rima-tde.net (Telefonica De Espana S.a.u.)	0.633	
+100% (2) +	10-jul-2024 12:56 (11 hours ago)
+157.15.80.20:7777	HTTPS (Mikrotik)	NOA	ID	157.15.80.20 (PT Digitama Network Indonesia)	15.108	
+18% (14) -	10-jul-2024 12:48 (11 hours ago)
+181.115.67.3:999	HTTP (Mikrotik)	NOA	HN Tegucigalpa (Francisco Morazán Department) !!!	3.67.115.181.static.claro.com.hn (TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA)	11.004	
+15% (242) -	10-jul-2024 12:45 (11 hours ago)
+119.92.75.48:8181	HTTP (Mikrotik)	NOA	PH Lapu-Lapu City (Province of Cebu)	119.92.75.48.static.pldt.net (Philippine Long Distance Telephone Company)	22.022	
+17% (13) -	10-jul-2024 12:43 (11 hours ago)
+77.242.16.30:8080	HTTP (Mikrotik)	NOA	AL Tirana	ip-77-242-16-30.net.abissnet.al (Abissnet sh.a.)	4.273	
+11% (45) -	10-jul-2024 12:33 (11 hours ago)
+122.3.159.79:8082	HTTPS (Mikrotik)	NOA	PH Cavite City (Province of Cavite)	122.3.159.79.pldt.net (Philippine Long Distance Telephone Company)	11.712	
+12% (3) -	10-jul-2024 12:32 (11 hours ago)
+103.172.23.82:8080	HTTP (Mikrotik)	NOA	ID Batang (Central Java)	103.172.23.82 (PT Tujuhlangit Lintas Nusantara)	10.702	
+11% (23) -	10-jul-2024 12:28 (11 hours ago)
+37.140.242.15:80	HTTP	ANM	TR Beyoğlu (Istanbul)	botsandassistants.com (Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi)	0.68	
+69% (9) -	10-jul-2024 12:24 (11 hours ago)
+110.39.172.234:8080	HTTP (Mikrotik)	NOA	PK Sargodha (Punjab)	WGPON-39172-234.wateen.net (National WiMAXIMS environment)	7.936	
+8% (26) -	10-jul-2024 12:22 (11 hours ago)
+154.0.12.163:80	HTTP	HIA	ZA Johannesburg (Gauteng) !!!	u2hv-cust.coolideas.co.za (COOL-IDEAS)	9.889	
+27% (47) -	10-jul-2024 12:16 (11 hours ago)
+197.221.85.214:8080	HTTP (Mikrotik)	NOA	GH Accra (Greater Accra Region) !!!	197.221.85.214 (IS-GHANA)	10.741	
+5% (105) -	10-jul-2024 12:14 (11 hours ago)
+27.112.70.42:8083	HTTP	HIA	ID Jakarta !!!	27.112.70.42 (PT.Graha Telekomunikasi Indonesia)	3.885	
+20% (1)	10-jul-2024 12:11 (11 hours ago)
+223.85.12.114:2222	HTTP	ANM	CN	223.85.12.114 (China Mobile Communications Group Co., Ltd.)	4.637	
+20% (1)	10-jul-2024 12:08 (11 hours ago)
+200.24.134.53:999	HTTPS (Mikrotik)	NOA	EC Guaranda (Bolívar)	53-134-24-200.ufinetlatam.net.ec (UFINET PANAMA S.A.)	3.458	
+19% (16) -	10-jul-2024 12:08 (11 hours ago)
+83.12.149.202:8080	HTTPS (Mikrotik)	NOA	PL Wojnowo (Kujawsko-Pomorskie)	gft202.internetdsl.tpnet.pl (Orange Polska Spolka Akcyjna)	9.653	
+15% (305) -	10-jul-2024 12:08 (11 hours ago)
+186.38.106.6:3128	HTTP (Mikrotik)	NOA	AR !!!	186-38-106-6.mrse.com.ar (Telefonica de Argentina)	6.429	
+4% (2) -	10-jul-2024 12:08 (11 hours ago)
+220.226.202.147:80	HTTP	HIA	IN !!!	220.226.202.147 (Reliance Communications Ltd.DAKC MUMBAI)	6.364	
+50% (1)	10-jul-2024 12:06 (11 hours ago)
+203.111.253.54:8080	HTTPS (Mikrotik)	NOA	ID	203.111.253.54 (PT Wifian Global Nusantara)	4.816	
+17% (5) -	10-jul-2024 12:05 (11 hours ago)
+196.3.99.162:8080	HTTP (Mikrotik)	NOA	MZ Maputo (Cidade de Maputo)	196.3.99.162 (EMUNET)	4.914	
+6% (84) -	10-jul-2024 12:05 (11 hours ago)
+77.119.240.209:8080	HTTP (Mikrotik)	NOA	AT Vienna	77.119.240.209.static.drei.at (Hutchison Drei Austria GmbH)	0.389	
+5% (32) +	10-jul-2024 12:05 (11 hours ago)
+43.255.113.232:80	HTTP	ANM	KH Phnom Penh	43.255.113.232 (# 3BEo, Sangkat Beoun Prolit, Khan 7Makara, Phnom Penh.)	16.497	
+54% (334) -	10-jul-2024 12:05 (11 hours ago)
+177.136.85.193:999	HTTP (Mikrotik)	NOA	AR Puerto Eldorado (Misiones) !!!	177.136.85.193 (ACCESS AIR SOCIEDAD SIMPLE)	3.305	
+14% (19) -	10-jul-2024 12:02 (12 hours ago)
+103.137.62.253:80	HTTP	ANM	TW New Taipei City	103-137-62-253.static.pni.tw (Pittqiao Network Information Co.,Ltd.)	1.149	
+65% (111) +	10-jul-2024 12:01 (12 hours ago)
+103.5.232.148:8080	HTTP (Mikrotik)	NOA	BD !!!	103.5.232.148 (Chittagong Online Limited AS38592 AP)	5.496	
+16% (114) -	10-jul-2024 12:01 (12 hours ago)
+182.253.122.156:8080	HTTP (Mikrotik)	NOA	ID Surabaya (East Java)	182.253.122.156 (BIZNET NETWORKS)	4.568	
+33% (3) -	10-jul-2024 11:59 (12 hours ago)
+31.28.163.149:31280	HTTPS (Squid)	NOA	SK	stegosaurus.jooble.com (1 Cloud Lab s.r.o.)	0.168	
+50% (2) +	10-jul-2024 11:59 (12 hours ago)
+119.39.109.233:3128	HTTP (Squid)	NOA	CN Changsha (Hunan)	119.39.109.233 (CHINA UNICOM China169 Backbone)	0.832	
+25% (1)	10-jul-2024 11:58 (12 hours ago)
+188.132.188.215:80	HTTP	NOA	TR Istanbul	188.132.188.215 (Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti.)	1.26	
+50% (2)	10-jul-2024 11:58 (12 hours ago)
+41.59.210.2:8080	HTTP (Mikrotik)	NOA	TZ	41.59.210.2 (TTCLDATA)	5.752	
+15% (68) -	10-jul-2024 11:58 (12 hours ago)
+130.61.120.213:8888	HTTP	ANM	DE Frankfurt am Main (Hesse)	130.61.120.213 (ORACLE-BMC-31898)	0.207	
+20% (1)	10-jul-2024 11:58 (12 hours ago)
+109.61.42.223:80	HTTP	NOA	AE Dubai	109.61.42.223 (G-Core Labs S.A.)	0.675	
+100% (3) +	10-jul-2024 11:55 (12 hours ago)
+175.184.234.19:8080	HTTPS (Mikrotik)	NOA	ID	19.234.184.175.iconpln.net.id (PT INDONESIA COMNETS PLUS)	9.792	
+17% (120) -	10-jul-2024 11:53 (12 hours ago)
+103.166.159.127:8080	HTTPS (Mikrotik)	NOA	ID Tasikmalaya (West Java)	103.166.159.127 (PT Timor Lintas Nusantara)	4.933	
+22% (2) -	10-jul-2024 11:53 (12 hours ago)
+80.78.64.70:8080	HTTP	HIA	AL Tirana	80.78.64.70 (Vodafone Albania Sh.A.)	3.926	
+16% (139) -	10-jul-2024 11:52 (12 hours ago)
+23.134.91.73:3128	HTTP (Squid)	NOA	FR Paris !!!	Checkout-em-73.shoppingstripe.com (AS-GLOBALTELEHOST)	15.633	
+22% (2) -	10-jul-2024 11:52 (12 hours ago)
+15.204.216.229:31887	HTTP	HIA	US Reston (Virginia) !!!	15.204.216.229 (OVH SAS)	6.722	
+50% (1)	10-jul-2024 11:50 (12 hours ago)
+201.77.110.129:999	HTTP (Mikrotik)	NOA	MX Union Campesina (Chihuahua) !!!	host-201-77-110-129.nidix.net (NIDIX NETWORKS S.A. DE C.V.)	3.555	
+11% (42) +	10-jul-2024 11:50 (12 hours ago)
+103.105.196.30:80	HTTP	ANM	ID Cikarang Satu (West Java) !!!	103.105.196.30 (DINAS KOMUNIKASI DAN INFORMATIKA KAB. BEKASI)	4.29	
+100% (2)	10-jul-2024 11:49 (12 hours ago)
+51.89.255.67:80	HTTP	ANM	GB London (England)	ip67.ip-51-89-255.eu (OVH SAS)	0.225	
+100% (20) +	10-jul-2024 11:48 (12 hours ago)
+202.152.20.226:8080	HTTP (Mikrotik)	NOA	ID Tangerang (Banten) !!!	202.152.20.226 (PT Aplikanusa Lintasarta)	22.483	
+8% (19) -	10-jul-2024 11:48 (12 hours ago)
+124.217.76.150:8181	HTTP (Mikrotik)	NOA	PH Mexico (Province of Pampanga)	124.217.76.150 (Philippine Long Distance Telephone Company)	8.984	
+33% (1)	10-jul-2024 11:48 (12 hours ago)
+119.96.100.63:30000	HTTPS	HIA	CN Hangzhou (Zhejiang) !!!	119.96.100.63 (CHINANET Hubei province network)	2.839	
+100% (2)	10-jul-2024 11:47 (12 hours ago)
+115.127.139.98:58080	HTTP (Mikrotik)	NOA	BD Dhaka	115.127.139.98.bracnet.net (BRACNet Limited)	4.113	
+27% (4) -	10-jul-2024 11:47 (12 hours ago)
+41.57.182.12:6060	HTTP (Mikrotik)	NOA	ZA Vereeniging (Gauteng)	41.57.182.12 (screamer)	2.17	
+8% (6) -	10-jul-2024 11:47 (12 hours ago)
+186.148.175.118:999	HTTP (Mikrotik)	NOA	CO Villavicencio (Meta Department)	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	3.917	
+14% (1)	10-jul-2024 11:45 (12 hours ago)
+141.11.40.40:80	HTTP	ANM	FR Paris !!!	141.11.40.40 (OVH SAS)	4.411	
+100% (2)	10-jul-2024 11:44 (12 hours ago)
+67.207.78.188:80	HTTP	NOA	DE Frankfurt am Main (Hesse) !!!	67.207.78.188 (DIGITALOCEAN-ASN)	0.109	
+33% (6) +	10-jul-2024 11:44 (12 hours ago)
+112.19.241.37:19999	HTTP	ANM	CN !!!	112.19.241.37 (The Internet Data Center of Sichuan Mobile Communication Company Limited)	1.666	
+100% (9) -	10-jul-2024 11:43 (12 hours ago)
+125.77.25.178:8090	HTTP	ANM	CN	125.77.25.178 (Fuzhou)	2.743	
+67% (2)	10-jul-2024 11:42 (12 hours ago)
+196.250.239.229:8787	HTTP (Mikrotik)	NOA	ZA Giyani (Limpopo)	196.250.239.229 (WIOCC-AS)	2.007	
+8% (47) -	10-jul-2024 11:40 (12 hours ago)
+186.103.130.91:8080	HTTP (Mikrotik)	NOA	CL Santiago (Santiago Metropolitan)	186-103-130-91.static.tie.cl (TELEFONICA EMPRESAS CHILE SA)	4.549	
+6% (109) -	10-jul-2024 11:40 (12 hours ago)
+49.13.215.9:80	HTTP	ANM	DE Nuremberg (Bavaria)	static.9.215.13.49.clients.your-server.de (Hetzner Online GmbH)	0.284	
+100% (21) +	10-jul-2024 11:38 (12 hours ago)
+134.209.67.109:19752	HTTP (Squid)	NOA	US North Bergen (New Jersey) !!!	134.209.67.109 (DIGITALOCEAN-ASN)	1.16	
+93% (180) -	10-jul-2024 11:37 (12 hours ago)
+157.230.127.125:3128	HTTPS (Squid)	NOA	DE Frankfurt am Main (Hesse)	157.230.127.125 (DIGITALOCEAN-ASN)	0.129	
+18% (3) +	10-jul-2024 11:36 (12 hours ago)
+116.235.238.47:3128	HTTPS	NOA	CN Shanghai	116.235.238.47 (China Telecom Group)	2.028	
+50% (2)	10-jul-2024 11:36 (12 hours ago)
+65.109.194.23:80	HTTP	ANM	FI Helsinki (Uusimaa)	static.23.194.109.65.clients.your-server.de (Hetzner Online GmbH)	2.5	
+100% (4) +	10-jul-2024 11:35 (12 hours ago)
+140.99.122.244:999	HTTP (Mikrotik)	NOA	DO Santiago de los Caballeros (Santiago Province) !!!	140.99.122.244 (FUN TECHNOLOGY S.R.L)	4.367	
+30% (32) -	10-jul-2024 11:32 (12 hours ago)
+46.8.238.106:80	HTTP	ANM	RU Moscow	46.8.238.106	0.405	
+100% (3) +	10-jul-2024 11:30 (12 hours ago)
+103.75.96.142:1111	HTTP (Mikrotik)	NOA	ID Bandung (West Java)	103.75.96.142 (PT Mora Telematika Indonesia)	8.252	
+33% (1)	10-jul-2024 11:29 (12 hours ago)
+183.134.101.182:3128	HTTP (Squid)	NOA	CN	183.134.101.182 (CT-HangZhou-IDC)	5.065	
+33% (1)	10-jul-2024 11:29 (12 hours ago)
+61.29.96.146:8000	HTTP	ANM	AU Melbourne (Victoria)	dsl-61-29-96-146.request.com.au (AAPT Limited)	9.483	
+12% (111) -	10-jul-2024 11:27 (12 hours ago)
+112.99.7.108:8060	HTTP	ANM	CN	112.99.7.108 (Chinanet)	2.917	
+33% (1)	10-jul-2024 11:26 (12 hours ago)
+39.125.131.121:80	HTTP	NOA	KR !!!	39.125.131.121 (KOSCOM)	1.082	
+100% (3) +	10-jul-2024 11:26 (12 hours ago)
+103.102.85.1:8080	HTTP (Mikrotik)	NOA	IN	103.102.85.1 (Amigos Broadband Pvt Ltd)	9.325	
+11% (191) -	10-jul-2024 11:26 (12 hours ago)
+103.118.44.158:8080	HTTP	ANM	KH Phnom Penh	103.118.44.158 (ANGKOR E & C CAMBODIA Co.,Ltd.)	1.453	
+new -	10-jul-2024 11:26 (12 hours ago)
+89.135.206.242:18080	HTTP (Mikrotik)	NOA	HU Gárdony (Fejér)	adsl-89-135-206-242.monradsl.monornet.hu (Vodafone Hungary Ltd.)	9.924	
+6% (1) -	10-jul-2024 11:23 (12 hours ago)
+161.49.89.219:8082	HTTP (Mikrotik)	NOA	PH Pasig (Metro Manila) !!!	161.49.89.219.convergeict.com (Converge ICT Solutions Inc.)	7.646	
+14% (17) -	10-jul-2024 11:23 (12 hours ago)
+161.34.40.32:3128	HTTP (Squid)	NOA	JP Higashifunabashi (Chiba)	161-34-40-32.indigo.static.arena.ne.jp (NTT PC Communications, Inc.)	16.107	
+25% (1) -	10-jul-2024 11:22 (12 hours ago)
+43.132.223.67:80	HTTP	NOA	HK Hong Kong	43.132.223.67 (Tencent Building, Kejizhongyi Avenue)	1.392	
+42% (19) +	10-jul-2024 11:21 (12 hours ago)
+23.134.91.46:3128	HTTP (Squid)	NOA	FR Paris	Checkout-em-46.shoppingstripe.com (AS-GLOBALTELEHOST)	3.35	
+43% (3) -	10-jul-2024 11:21 (12 hours ago)
+89.39.106.19:11320	HTTP	HIA	NL Naaldwijk (South Holland) !!!	89-39-106-19.hosted-by-worldstream.net (WorldStream B.V.)	8.934	
+33% (1)	10-jul-2024 11:21 (12 hours ago)
+175.6.171.225:30000	HTTP	HIA	CN Hangzhou (Zhejiang) !!!	175.6.171.225 (No.293,Wanbao Avenue)	3.8	
+33% (1)	10-jul-2024 11:21 (12 hours ago)
+201.71.2.177:999	HTTP (Mikrotik)	NOA	VE Caracas (Distrito Federal) !!!	201.71.2.177 (LVLT-3549)	9.892	
+41% (35) -	10-jul-2024 11:20 (12 hours ago)
+38.250.210.26:8081	HTTP (Mikrotik)	NOA	BR Vitoria do Mearim (Maranhão) !!!	38-250-210-26.jsneti.com.br (EWERTON DA SILVA LOPES TELECOMUNICACOES)	17.195	
+43% (17) -	10-jul-2024 11:18 (12 hours ago)
+177.234.241.31:999	HTTPS (Mikrotik)	NOA	EC !!!	31-241-234-177.ufinetlatam.net.ec (VASQUEZ BURGOS LIVINGTON)	6.958	
+new -	10-jul-2024 11:14 (12 hours ago)
+164.163.42.30:10000	HTTP (Mikrotik)	NOA	AR Villa Angela (Chaco) !!!	164.163.42.30 (Interret Villa Angela SRL)	9.671	
+new +	10-jul-2024 11:11 (12 hours ago)
+104.199.205.181:3128	HTTP (Squid)	NOA	TW Taipei (Taipei City)	181.205.199.104.bc.googleusercontent.com (GOOGLE-CLOUD-PLATFORM)	16.323	
+40% (4) -	10-jul-2024 11:10 (12 hours ago)
+103.181.168.193:8080	HTTP (Mikrotik)	NOA	IN Madurai (Tamil Nadu) !!!	103.181.168.193 (MRKR COMMUNICATIONS PRIVATE LIMITED)	5.427	
+9% (9) -	10-jul-2024 10:58 (13 hours ago)
+162.144.33.212:42835	SOCKS5	HIA	US	server.thefightfordemocracyhouston.com (UNIFIEDLAYER-AS-1)	5.813	
+new -	10-jul-2024 10:58 (13 hours ago)
+190.2.211.146:999	HTTP (Mikrotik)	NOA	CO Tumaco (Departamento de Narino)	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	5.843	
+12% (51) -	10-jul-2024 10:57 (13 hours ago)
+51.8.224.206:9000	HTTP	HIA	US Washington (Virginia) !!!	51.8.224.206 (MICROSOFT-CORP-MSN-AS-BLOCK)	11.543	
+56% (14) +	10-jul-2024 10:55 (13 hours ago)
+163.5.194.26:80	HTTP	ANM	NL Amsterdam (North Holland)	163.5.194.26 (OVH SAS)	2.368	
+33% (38) -	10-jul-2024 10:54 (13 hours ago)
+51.83.21.230:26379	SOCKS5	HIA	FR !!!	51.83.21.230.foip.abcvg.ovh (OVH SAS)	7.297	
+23% (5) -	10-jul-2024 10:51 (13 hours ago)
+213.178.192.16:1088	SOCKS5	HIA	IT Vicenza (Province of Vicenza)	ip.213.178.192.16.telemar.it (Axera SpA)	7.668	
+20% (1) -	10-jul-2024 10:50 (13 hours ago)
+161.97.163.52:59115	SOCKS5	HIA	DE Düsseldorf (North Rhine-Westphalia)	vmi574306.contaboserver.net (Contabo GmbH)	18.577	
+33% (1) -	10-jul-2024 10:49 (13 hours ago)
+101.128.93.144:8090	HTTP (Mikrotik)	NOA	ID Jakarta	101.128.93.144 (PT. Cyberindo Aditama)	20.233	
+10% (15) -	10-jul-2024 10:41 (13 hours ago)
+210.87.125.146:8080	HTTPS (Mikrotik)	NOA	ID Kediri (East Java) !!!	210.87.125.146 (CV Brawijaya Giga Network)	16.464	
+11% (24) -	10-jul-2024 10:39 (13 hours ago)
+166.88.77.150:3128	HTTP	HIA	HK	166.88.77.150 (xTom)	14.519	
+17% (2) -	10-jul-2024 10:34 (13 hours ago)
+45.171.109.1:999	HTTP (Mikrotik)	NOA	EC Nueva Loja (Sucumbíos) !!!	45.171.109.1 (LAGONET-TV CIA. LTDA.)	19.178	
+17% (62) -	10-jul-2024 10:34 (13 hours ago)
+51.210.105.65:3128	HTTP (Squid)	ANM	FR	vps-d904cb29.vps.ovh.net (OVH SAS)	6.771	
+33% (1) -	10-jul-2024 10:27 (13 hours ago)
+216.238.115.107:31280	HTTP (Squid)	NOA	BR Osasco (São Paulo)	216-238-115-107.constant.com (AS-CHOOPA)	9.216	
+12% (3) -	10-jul-2024 10:24 (13 hours ago)
+203.112.79.90:8080	HTTP (Mikrotik)	NOA	BD	203.112.79.90 (OptiMax Communication Ltd.)	4.497	
+14% (88) -	10-jul-2024 10:24 (13 hours ago)
+156.54.213.132:8080	HTTPS (Squid)	NOA	IT	156.54.213.132 (Telecom Italia)	3.622	
+5% (1) +	10-jul-2024 10:06 (13 hours ago)
+103.67.90.25:8181	HTTP (Mikrotik)	NOA	ID	r-ciputih.soultan.net (PT Soultan Network Indonesia)	2.246	
+14% (9) -	10-jul-2024 10:03 (14 hours ago)
+161.49.90.70:1337	HTTP (Mikrotik)	NOA	PH Pasig (Metro Manila)	161.49.90.70.convergeict.com (Converge ICT Solutions Inc.)	9.761	
+11% (101) -	10-jul-2024 10:01 (14 hours ago)
+148.230.206.229:8080	HTTP (Mikrotik)	NOA	MX Huatusco (Veracruz)	fixed-148-230-206-229.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.373	
+15% (65) -	10-jul-2024 10:00 (14 hours ago)
+200.24.153.151:999	HTTP (Mikrotik)	NOA	EC Tosagua (Manabí)	151-153-24-200.ufinetlatam.net.ec (UFINET PANAMA S.A.)	23.572	
+15% (11) -	10-jul-2024 09:56 (14 hours ago)
+128.199.204.169:1337	HTTPS (Squid)	ANM	SG Singapore	128.199.204.169 (DIGITALOCEAN-ASN)	9.125	
+2% (5) -	10-jul-2024 09:56 (14 hours ago)
+103.163.245.9:83	HTTP (Mikrotik)	NOA	IN Panipat (Haryana) !!!	103.163.245.9 (Infolink System)	12.443	
+27% (3) -	10-jul-2024 09:56 (14 hours ago)
+188.124.230.43:17662	SOCKS5	HIA	RU	localhost (Miranda-Media Ltd)	1.79	
+20% (73) -	10-jul-2024 09:46 (14 hours ago)
+41.33.179.195:8080	HTTP (Mikrotik)	NOA	EG Cairo (Cairo Governorate)	host-41.33.179.195.tedata.net (TE Data)	9.493	
+21% (232) -	10-jul-2024 09:42 (14 hours ago)
+112.198.200.136:8082	HTTP (Mikrotik)	NOA	PH Nasugbu (Province of Batangas)	112.198.200.136 (Globe Telecom Inc.)	20.685	
+12% (33) -	10-jul-2024 09:41 (14 hours ago)
+208.163.39.218:53281	HTTP	HIA	JM Kingston	208-163-39-218-STATIC.dsl.cwjamaica.com (CWJ-1)	15.549	
+14% (160) -	10-jul-2024 09:34 (14 hours ago)
+154.3.1.213:3128	HTTP (Squid)	NOA	US Los Angeles (California)	154.3.1.213 (IPTELECOM Global)	24.566	
+3% (5) -	10-jul-2024 09:26 (14 hours ago)
+188.255.247.50:8088	HTTP (Mikrotik)	NOA	RS	free-247-50.mediaworksit.net (Orion Telekom Tim d.o.o.Beograd)	7.72	
+20% (1) -	10-jul-2024 09:25 (14 hours ago)
+175.139.233.79:80	HTTP	ANM	MY Kota Kinabalu (Sabah) !!!	175.139.233.79 (TM TECHNOLOGY SERVICES SDN. BHD.)	22.431	
+50% (4) -	10-jul-2024 09:23 (14 hours ago)
+205.233.79.194:999	HTTP (Mikrotik)	NOA	DO Santo Domingo Este (Santo Domingo Province)	205.233.79.194 (AS-TRILOGY-DOMINICANA)	4.435	
+22% (8) -	10-jul-2024 09:18 (14 hours ago)
+61.216.156.222:60808	HTTP	HIA	TW Taipei (Taipei City)	61-216-156-222.hinet-ip.hinet.net (Data Communication Business Group)	13.263	
+11% (418) -	10-jul-2024 09:11 (14 hours ago)
+208.102.51.6:58208	SOCKS5	HIA	US Alexandria (Kentucky)	ip-208-102-51-6.static.fuse.net (FUSE-NET)	1.164	
+87% (3878) +	10-jul-2024 09:11 (14 hours ago)
+78.135.81.40:80	HTTP	NOA	TR Istanbul	basti.relectud.biz (HostLAB Bilisim Teknolojileri A.S.)	2.389	
+40% (2) +	10-jul-2024 09:08 (14 hours ago)
+98.162.25.7:31653	SOCKS5	HIA	US	ip98-162-25-7.om.om.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	0.991	
+88% (548) +	10-jul-2024 09:06 (14 hours ago)
+142.54.237.34:4145	SOCKS5	HIA	US	vm-wellness-web01.madavor.cl.zerolag.com (PERFORMIVE)	1.294	
+97% (859) +	10-jul-2024 09:06 (14 hours ago)
+204.199.125.94:999	HTTP (Mikrotik)	NOA	CO Bogotá (Bogota D.C.) !!!	204-199-125-94.dia.static.centurylink.com.co (LVLT-3549)	13.464	
+13% (9) -	10-jul-2024 09:02 (15 hours ago)
+184.181.217.210:4145	SOCKS5	HIA	US	184.181.217.210 (ASN-CXA-ALL-CCI-22773-RDC)	1.342	
+89% (2799) +	10-jul-2024 09:00 (15 hours ago)
+181.198.53.6:3128	HTTP (Mikrotik)	NOA	EC Calceta (Manabí) !!!	181.198.53.6 (Telconet S.A)	3.451	
+43% (37) -	10-jul-2024 08:57 (15 hours ago)
+24.249.199.12:4145	SOCKS5	HIA	US Eglin Air Force Base (Florida)	24.249.199.12 (ASN-CXA-ALL-CCI-22773-RDC)	1.021	
+86% (2380) +	10-jul-2024 08:55 (15 hours ago)
+192.111.129.145:16894	SOCKS5	HIA	CA Toronto (Ontario)	192.111.129.145 (PERFORMIVE)	0.931	
+99% (1538) +	10-jul-2024 08:54 (15 hours ago)
+192.111.135.17:18302	SOCKS5	HIA	US Atlanta (Georgia)	192.111.135.17 (PERFORMIVE)	1.165	
+98% (944) +	10-jul-2024 08:54 (15 hours ago)
+192.111.134.10:4145	SOCKS5	HIA	US Los Angeles (California)	192.111.134.10 (PERFORMIVE)	1.487	
+98% (883) +	10-jul-2024 08:54 (15 hours ago)
+159.196.157.188:8080	HTTPS (Mikrotik)	NOA	AU Sydney (New South Wales)	159.196.157.188.syd.nbn.aussiebb.net (Aussie Broadband)	12.451	
+21% (11) -	10-jul-2024 08:37 (15 hours ago)
+88.255.106.27:8080	HTTP (Mikrotik)	NOA	TR Istanbul	88.255.106.27.static.ttnet.com.tr (Turk Telekom)	4.18	
+50% (1) +	10-jul-2024 08:36 (15 hours ago)
+141.11.40.11:80	HTTP	ANM	FR Paris	141.11.40.11 (OVH SAS)	11.513	
+100% (4) -	10-jul-2024 08:36 (15 hours ago)
+181.143.106.162:52151	HTTP	HIA	CO Medellín (Antioquia)	static-181-143-106-162.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	16.052	
+12% (243) -	10-jul-2024 08:31 (15 hours ago)
+93.42.151.100:8080	HTTP (Mikrotik)	NOA	IT Milan	93-42-151-100.ip87.fastwebnet.it (Fastweb)	4.113	
+17% (150) +	10-jul-2024 08:29 (15 hours ago)
+202.152.51.44:8080	HTTP (Mikrotik)	NOA	ID Jakarta	202.152.51.44 (PT Aplikanusa Lintasarta)	11.491	
+15% (151) -	10-jul-2024 08:26 (15 hours ago)
+190.5.195.116:3128	HTTP (Squid)	NOA	CO Popayán (Cauca Department) !!!	corporativo.190-5-195-116.emtel.net.co (EMTEL S.A. E.S.P.)	1.235	
+4% (1) +	10-jul-2024 08:26 (15 hours ago)
+103.87.212.140:8999	HTTP (Mikrotik)	NOA	BD Dhaka !!!	103.87.212.140 (BAS Network)	18.838	
+11% (38) -	10-jul-2024 08:25 (15 hours ago)
+5.17.6.83:8080	HTTP (Mikrotik)	NOA	RU St Petersburg (St.-Petersburg)	5x17x6x83.static-business.spb.ertelecom.ru (JSC ER-Telecom Holding)	11.13	
+14% (195) -	10-jul-2024 08:22 (15 hours ago)
+102.221.224.153:8080	HTTPS (Mikrotik)	NOA	LY	102.221.224.153 (SmartLink)	5.014	
+11% (15) -	10-jul-2024 08:21 (15 hours ago)
+103.188.136.44:32650	HTTPS (Mikrotik)	NOA	BD Nārāyanganj (Narayanganj)	103.188.136.44 (Sajid Trading Ltd.)	2.549	
+16% (3) -	10-jul-2024 08:19 (15 hours ago)
+78.38.100.121:8080	HTTP (Mikrotik)	NOA	IR !!!	78.38.100.121 (Iran Telecommunication Company PJS)	20.175	
+10% (166) -	10-jul-2024 08:18 (15 hours ago)
+152.26.229.57:9443	HTTPS	ANM	US Huntersville (North Carolina) !!!	zscaler-nat-57.rtp.zs.ncren.net (NCREN)	0.444	
+100% (11) -	10-jul-2024 08:08 (15 hours ago)
+180.211.186.158:8080	HTTP (Mikrotik)	NOA	BD	180.211.186.158 (Bangladesh Telecommunications Company Limited BTCL, Nationwide PSTN Operator and Data and In)	2.234	
+11% (17) -	10-jul-2024 08:03 (16 hours ago)
+181.233.90.70:999	HTTP (Mikrotik)	NOA	VE Cabimas (Zulia) !!!	181.233.90.70 (COLNETWORK C.A.)	4.196	
+13% (126) -	10-jul-2024 07:59 (16 hours ago)
+150.95.26.146:7080	HTTP	HIA	JP	v150-95-26-146.a00d.g.bkk1.static.cnode.io (GMO-Z com NetDesign Holdings Co., Ltd.)	22.738	
+5% (3) -	10-jul-2024 07:59 (16 hours ago)
+201.174.224.174:999	HTTPS (Mikrotik)	NOA	MX Mexicali (Baja California)	201-174-224-174.transtelco.net (TRANSTELCO-INC)	10.916	
+9% (24) -	10-jul-2024 07:55 (16 hours ago)
+177.221.44.113:49999	HTTP	HIA	BR Jaboatao dos Guararapes (Pernambuco)	177.221.44.113 (1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA)	1.874	
+13% (3) -	10-jul-2024 07:48 (16 hours ago)
+156.236.73.161:8082	HTTP (Squid)	NOA	SC	156.236.73.161 (YISU CLOUD LTD)	11.449	
+50% (4) -	10-jul-2024 07:35 (16 hours ago)
+190.187.201.26:8080	HTTP (Mikrotik)	NOA	PE Lima (Lima Province)	190.187.201.26 (AMERICATEL PERU S.A.)	10.143	
+13% (312) -	10-jul-2024 07:32 (16 hours ago)
+103.106.240.18:96	HTTPS (Mikrotik)	NOA	BD Dhaka !!!	103.106.240.18 (Saddam Hossain ta Asian Network)	4.248	
+14% (8) -	10-jul-2024 07:30 (16 hours ago)
+103.41.32.133:58080	HTTP (Mikrotik)	NOA	IN Mumbai (Maharashtra)	103.41.32.133 (Juweriyah Networks Private Limited)	3.443	
+25% (1) -	10-jul-2024 07:29 (16 hours ago)
+212.110.188.202:34409	HTTP (Squid)	ANM	GB	212-110-188-202.no-reverse-dns-set.bytemark.co.uk (Iomart Managed Services Limited)	5.851	
+23% (16) -	10-jul-2024 07:16 (16 hours ago)
+200.7.11.154:8080	HTTP	HIA	BR Goiatuba (Goiás)	200-7-11-154.cnx.net.br (CNT TELECOMUNICACOES)	6.018	
+13% (76) -	10-jul-2024 07:16 (16 hours ago)
+177.234.210.56:999	HTTP (Mikrotik)	NOA	EC !!!	56-210-234-177.ufinetlatam.net.ec (UFINET PANAMA S.A.)	7.248	
+2% (12) -	10-jul-2024 07:15 (16 hours ago)
+114.129.19.139:8080	HTTP (Mikrotik)	NOA	ID Kandang (Jakarta) !!!	114.129.19.139 (PT. HIPERNET INDODATA)	9.487	
+13% (205) -	10-jul-2024 07:14 (16 hours ago)
+181.233.93.88:8080	HTTP (Mikrotik)	NOA	BR Ananindeua (Pará)	181.233.93.88 (J.A TELECOM.PE)	21.837	
+16% (15) -	10-jul-2024 07:13 (16 hours ago)
+20.245.116.205:3128	HTTP	NOA	US San Jose (California)	20.245.116.205 (MICROSOFT-CORP-MSN-AS-BLOCK)	1.13	
+21% (6) +	10-jul-2024 07:04 (17 hours ago)
+202.88.251.73:8080	HTTP (Mikrotik)	NOA	IN Thrissur (Kerala)	73.251.88.202.asianet.co.in (Cable ISP in India)	9.256	
+9% (7) -	10-jul-2024 07:01 (17 hours ago)
+103.157.58.186:8080	HTTPS (Mikrotik)	NOA	ID Jakarta	103.157.58.186 (PT. Eka Mas Republik)	19.081	
+16% (48) -	10-jul-2024 06:45 (17 hours ago)
+103.14.111.146:8080	HTTPS (Mikrotik)	NOA	ID Jakarta !!!	111.14.103.ats-com.net (PT Asia Teknologi Solusi)	13.69	
+21% (8) -	10-jul-2024 06:41 (17 hours ago)
+103.83.178.222:8080	HTTP (Mikrotik)	NOA	ID Tangerang (Banten)	103.83.178.222 (PT SOLUSI TRIMEGAH PERSADA)	4.632	
+17% (41) -	10-jul-2024 06:38 (17 hours ago)
+201.222.50.218:80	HTTP	HIA	PY Asunción !!!	host218.teisa.com.py (TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA T.E.I.S.A)	1.874	
+54% (110) +	10-jul-2024 06:37 (17 hours ago)
+115.147.20.176:8082	HTTP (Mikrotik)	NOA	PH Manila (Metro Manila)	115.147.20.176 (Philippine Long Distance Telephone Company)	7.835	
+12% (37) -	10-jul-2024 06:36 (17 hours ago)
+43.156.99.158:3128	HTTP (Squid)	NOA	SG Singapore	43.156.99.158 (Tencent Building, Kejizhongyi Avenue)	22.147	
+8% (17) -	10-jul-2024 06:36 (17 hours ago)
+117.219.10.150:8080	HTTP (Mikrotik)	NOA	IN Alappuzha (Kerala)	117.219.10.150 (National Internet Backbone)	18.049	
+7% (13) -	10-jul-2024 06:34 (17 hours ago)
+220.247.162.70:8080	HTTP (Mikrotik)	NOA	BD Dhaka	host-162-70.mirnet.com.bd (BTS Communications BD ltd)	7.086	
+10% (26) -	10-jul-2024 06:30 (17 hours ago)
+27.147.138.131:58080	HTTP (Mikrotik)	NOA	BD Dhaka	138.131.cetus.link3.net (Link3 Technologies Ltd.)	12.13	
+12% (2) -	10-jul-2024 06:30 (17 hours ago)
+45.122.123.182:8080	HTTP (Mikrotik)	NOA	IN	45.122.123.182 (Fusionnet Web Services Private Limited)	7.74	
+25% (2) -	10-jul-2024 06:30 (17 hours ago)
+203.109.4.187:18092	HTTP	HIA	KR	203.109.4.187 (Korea Telecom)	1.498	
+84% (41) -	10-jul-2024 06:25 (17 hours ago)
+187.50.29.242:8080	HTTP (Mikrotik)	NOA	BR Itirapina (São Paulo)	187-50-29-242.customer.tdatabrasil.net.br (TELEFONICA BRASIL S.A)	12.436	
+12% (40) -	10-jul-2024 06:23 (17 hours ago)
+202.46.146.2:3333	HTTP (Mikrotik)	ANM	ID Pela Mampang (Jakarta) !!!	202.46.146.2 (Pt Mithaharum Abadi)	3.008	
+50% (1) -	10-jul-2024 06:22 (17 hours ago)
+103.37.111.253:18081	HTTP (Squid)	NOA	JP	103-37-111-253.static.dg-ipas.net (esu2 Corporation)	4.058	
+36% (445) -	10-jul-2024 06:19 (17 hours ago)
+46.243.71.2:8888	HTTPS (Mikrotik)	NOA	SK Michalovce (Košice Region)	46.243.71.2 (Minet Slovakia s.r.o.)	8.867	
+22% (15) -	10-jul-2024 06:17 (17 hours ago)
+207.138.39.145:999	HTTP (Mikrotik)	NOA	US !!!	207-138-39-145.galanet.com.ve (GALANET SOLUTION C.A.)	4.5	
+12% (26) -	10-jul-2024 06:15 (17 hours ago)
+181.205.243.147:999	HTTP (Mikrotik)	NOA	CO Medellín (Antioquia)	Dinamic-Tigo-181-205-243-147.tigo.com.co (Colombia Movil)	4.061	
+12% (22) -	10-jul-2024 06:06 (17 hours ago)
+132.148.166.129:5315	SOCKS5	HIA	US Ashburn (Virginia)	129.166.148.132.host.secureserver.net (GO-DADDY-COM-LLC)	17.183	
+100% (2) +	10-jul-2024 06:06 (17 hours ago)
+194.163.159.94:29626	SOCKS5	HIA	DE Düsseldorf (North Rhine-Westphalia) !!!	ip-94-159-163-194.static.contabo.net (Contabo GmbH)	4.802	
+50% (1) -	10-jul-2024 06:00 (18 hours ago)
+203.202.252.149:1200	HTTPS (Mikrotik)	NOA	BD Dhaka	203.202.252.149 (aamra networks limited)	10.941	
+17% (56) -	10-jul-2024 05:57 (18 hours ago)
+43.255.113.232:8086	HTTP	ANM	KH Phnom Penh	43.255.113.232 (# 3BEo, Sangkat Beoun Prolit, Khan 7Makara, Phnom Penh.)	2.069	
+47% (117) -	10-jul-2024 05:52 (18 hours ago)
+213.136.79.177:14588	SOCKS5	HIA	DE Nuremberg (Bavaria)	vmi166108.contaboserver.net (Contabo GmbH)	6.722	
+30% (3) -	10-jul-2024 05:50 (18 hours ago)
+164.155.191.161:58394	HTTP	ANM	US Chicago (Illinois) !!!	164.155.191.161 (IDCCLOUD)	16.277	
+33% (1) -	10-jul-2024 05:49 (18 hours ago)
+103.133.26.126:8181	HTTP (Mikrotik)	ANM	ID Bekasi (West Java) !!!	103.133.26.126 (PT PHATRIA INTI PERSADA)	19.369	
+25% (1) -	10-jul-2024 05:45 (18 hours ago)
+124.156.100.83:8118	HTTP	HIA	HK Hong Kong	124.156.100.83 (Tencent Building, Kejizhongyi Avenue)	12.619	
+2% (27) -	10-jul-2024 05:43 (18 hours ago)
+222.127.139.2:80	HTTP (Mikrotik)	NOA	PH	pfm1.rgoc.com.ph (Globe Telecoms)	3.836	
+8% (21) -	10-jul-2024 05:42 (18 hours ago)
+5.196.65.71:3128	HTTP	ANM	FR	ns334382.ip-5-196-65.eu (OVH SAS)	0.157	
+95% (20) +	10-jul-2024 05:38 (18 hours ago)
+37.187.73.7:1885	SOCKS5	HIA	FR	ns3362327.ip-37-187-73.eu (OVH SAS)	14.608	
+50% (1) -	10-jul-2024 05:35 (18 hours ago)
+154.0.14.116:3128	HTTP (Squid)	ANM	ZA Johannesburg (Gauteng)	u2us-cust.coolideas.co.za (COOL-IDEAS)	4.096	
+16% (32) +	10-jul-2024 05:24 (18 hours ago)
+194.186.248.97:80	HTTP (Mikrotik)	NOA	RU	194.186.248.97 (PVimpelCom)	18.288	
+23% (99) -	10-jul-2024 05:23 (18 hours ago)
+162.212.152.9:31280	HTTP (Squid)	NOA	US	162.212.152.9 (TZULO)	20.4	
+13% (51) -	10-jul-2024 05:19 (18 hours ago)
+195.201.230.161:3128	HTTP (Squid)	NOA	DE Gunzenhausen (Bavaria)	static.161.230.201.195.clients.your-server.de (Hetzner Online GmbH)	6.929	
+16% (74) -	10-jul-2024 05:18 (18 hours ago)
+80.241.251.54:8080	HTTP (Mikrotik)	NOA	GE Tbilisi	host-80-241-251-54.customer.magticom.ge (Magticom Ltd.)	2.787	
+26% (715) -	10-jul-2024 04:54 (19 hours ago)
+90.188.53.6:8080	HTTP (Mikrotik)	NOA	RU	90.188.53.6.stbur.ru (Rostelecom)	3.556	
+16% (25) -	10-jul-2024 04:52 (19 hours ago)
+24.204.29.115:8080	HTTPS (Mikrotik)	NOA	US Longview (Texas)	static-24-204-29-115.conterra.com (DWL-MAIN)	5.27	
+39% (7) -	10-jul-2024 04:49 (19 hours ago)
+197.211.8.166:8080	HTTP (Mikrotik)	NOA	KE !!!	197.211.8.166 (SIMBANET-AS)	7.005	
+10% (18) -	10-jul-2024 04:45 (19 hours ago)
+103.139.127.244:8080	HTTP (Mikrotik)	NOA	ID Indramayu (West Java) !!!	host-127-244.mitracom.id (PT. MITRACOM SOLUSI TEKNOLOGI)	8.081	
+13% (41) -	10-jul-2024 04:35 (19 hours ago)
+38.54.33.238:3128	HTTP (Squid)	NOA	TH Bangkok	38.54.33.238 (Kaopu Cloud HK Limited)	11.463	
+18% (3) -	10-jul-2024 04:33 (19 hours ago)
+120.89.94.118:8080	HTTPS (Mikrotik)	NOA	ID Tangerang (Banten)	94.89.120.ats-com.net (PT Asia Teknologi Solusi)	4.392	
+15% (5) -	10-jul-2024 04:30 (19 hours ago)
+8.218.33.126:3128	HTTP	ANM	HK Hong Kong	8.218.33.126 (Alibaba US Technology Co., Ltd.)	1.741	
+new +	10-jul-2024 04:30 (19 hours ago)
+37.114.204.14:8080	HTTP (Mikrotik)	NOA	IR	37.114.204.14 (Tose`h Fanavari Ertebabat Pasargad Arian Co. PJS)	19.004	
+12% (4) -	10-jul-2024 04:30 (19 hours ago)
+103.183.56.3:8080	HTTP (Mikrotik)	NOA	ID Tasikmalaya (West Java)	103.183.56.3 (PT Multi Karya Athira)	11.854	
+13% (41) -	10-jul-2024 04:26 (19 hours ago)
+143.47.39.227:11111	HTTP (Squid)	NOA	ES Madrid	143.47.39.227 (ORACLE-BMC-31898)	22.64	
+19% (16) -	10-jul-2024 04:24 (19 hours ago)
+154.65.39.8:80	HTTP	HIA	SN	154.65.39.8 (Tigo)	8.945	
+53% (378) +	10-jul-2024 04:23 (19 hours ago)
+180.190.200.24:8085	HTTP (Mikrotik)	NOA	PH Lahug (Province of Cebu)	180.190.200.24 (Globe Telecom Inc.)	24.919	
+35% (7) -	10-jul-2024 04:17 (19 hours ago)
+115.147.23.249:8181	HTTP (Mikrotik)	NOA	PH Manila (Metro Manila) !!!	115.147.23.249 (Philippine Long Distance Telephone Company)	19.392	
+8% (22) -	10-jul-2024 04:13 (19 hours ago)
+91.229.28.105:3128	HTTP (Mikrotik)	NOA	SK Tekovske Luzany (Nitra Region)	91.229.28.105 (KOMNET, s.r.o.)	5.992	
+9% (18) -	10-jul-2024 04:09 (19 hours ago)
+72.167.46.207:1080	SOCKS5	HIA	US	207.46.167.72.host.secureserver.net (GO-DADDY-COM-LLC)	7.156	
+100% (6) -	10-jul-2024 04:03 (20 hours ago)
+103.194.70.102:83	HTTP (Mikrotik)	NOA	IN	103.194.70.102 (Hostaxis Network Private Limited)	3.411	
+8% (8) -	10-jul-2024 04:01 (20 hours ago)
+45.133.75.125:3128	HTTP (Squid)	NOA	DE Düsseldorf (North Rhine-Westphalia)	45-133-75-125.rltx.net (Felix Gassan)	14.325	
+21% (8) -	10-jul-2024 03:52 (20 hours ago)
+138.59.227.248:999	HTTP (Mikrotik)	NOA	BR Foz do Iguaçu (Paraná)	138.59.227.248 (STARTELECOM S.A.)	8.195	
+11% (11) -	10-jul-2024 03:49 (20 hours ago)
+212.90.121.155:51916	SOCKS5	HIA	DE Düsseldorf (North Rhine-Westphalia)	vmi1621915.contaboserver.net (Contabo GmbH)	3.492	
+new -	10-jul-2024 03:49 (20 hours ago)
+36.93.129.73:8080	HTTP (Mikrotik)	NOA	ID Pabuaran (West Java)	36.93.129.73 (PT Telekomunikasi Indonesia)	17.262	
+33% (2) -	10-jul-2024 03:46 (20 hours ago)
+150.129.5.226:8080	HTTP (Mikrotik)	NOA	PK !!!	static-226-5-129-150.ebonenet.com (Ebone Network PVT. Limited)	9.255	
+10% (11) -	10-jul-2024 03:33 (20 hours ago)
+112.198.143.104:8082	HTTPS (Mikrotik)	NOA	PH General Trias (Province of Cavite)	112.198.143.104 (Globe Telecom Inc.)	7.266	
+16% (10) -	10-jul-2024 03:29 (20 hours ago)
+23.130.192.137:3128	HTTP (Squid)	NOA	US	techserver.viewsdigitalmedia.com (WHITELABELIT)	17.984	
+20% (1) -	10-jul-2024 03:25 (20 hours ago)
+103.152.93.158:7777	HTTP (Mikrotik)	NOA	ID Demak (Central Java)	103.152.93.158 (PT. JAYA LINTAS INDONESIA)	6.364	
+17% (11) -	10-jul-2024 03:21 (20 hours ago)
+41.111.188.39:80	HTTP	HIA	DZ Oran	41.111.188.39 (Telecom Algeria)	15.212	
+19% (30) -	10-jul-2024 03:20 (20 hours ago)
+85.117.56.151:8080	HTTP (Mikrotik)	NOA	GE Tbilisi	85.117.56.151 (Caucasus Online Ltd.)	15.338	
+10% (60) -	10-jul-2024 03:19 (20 hours ago)
+204.199.194.181:999	HTTPS (Mikrotik)	NOA	MX Izamal (Yucatán) !!!	204-199-194-181.dia.static.centurylink.com.cl (LVLT-3549)	1.556	
+6% (10) +	10-jul-2024 03:14 (20 hours ago)
+182.253.66.148:8989	HTTP (Mikrotik)	NOA	ID Surabaya (East Java)	182.253.66.148 (BIZNET NETWORKS)	9.226	
+13% (89) -	10-jul-2024 03:14 (20 hours ago)
+201.77.96.153:999	HTTP (Mikrotik)	NOA	MX Actopan (Hidalgo) !!!	201.77.96.153 (HULUX TELECOMUNICACIONES)	3.028	
+13% (13) -	10-jul-2024 02:54 (21 hours ago)
+122.160.30.99:80	HTTP	HIA	IN New Delhi (National Capital Territory of Delhi)	abts-north-static-099.30.160.122.airtelbroadband.in (Bharti Airtel Ltd., Telemedia Services)	17.233	
+23% (38) -	10-jul-2024 02:37 (21 hours ago)
+131.100.51.45:999	HTTP (Mikrotik)	NOA	CO Neiva (Huila Department) !!!	131.100.51.45 (FIBERNET TV SAS)	9.658	
+10% (25) -	10-jul-2024 02:32 (21 hours ago)
+159.65.129.62:8081	HTTP	ANM	SG Singapore	159.65.129.62 (DIGITALOCEAN-ASN)	8.526	
+10% (52) -	10-jul-2024 02:26 (21 hours ago)
+103.53.78.26:8080	HTTP (Mikrotik)	NOA	ID Surabaya (East Java)	ip-103-53-78-26.inti.net.id (PT Inti Data Telematika)	13.493	
+12% (67) -	10-jul-2024 02:25 (21 hours ago)
+46.161.196.141:8080	HTTPS (Mikrotik)	NOA	IQ	46.161.196.141 (Valin Company for General Trading and Communication LTD)	17.864	
+20% (5) +	10-jul-2024 02:23 (21 hours ago)
+202.179.91.97:58080	HTTP (Mikrotik)	NOA	IN Mumbai (Maharashtra) !!!	97.91.179.202.aipl.ankhnet.net (Juweriyah Networks Private Limited)	17.331	
+29% (2) -	10-jul-2024 02:22 (21 hours ago)
+112.78.44.238:1111	HTTP (Mikrotik)	NOA	ID Yogyakarta	ip44-238.des.net.id (PT DES Teknologi Informasi)	5.692	
+17% (1) -	10-jul-2024 02:19 (21 hours ago)
+192.140.93.6:3128	HTTPS (Mikrotik)	NOA	EC Esmeraldas	192.140.93.6 (KOLVECH S.A. TELECOMVAS)	7.157	
+44% (38) -	10-jul-2024 02:14 (21 hours ago)
+190.104.134.145:3128	HTTP (Mikrotik)	NOA	PY Asunción !!!	190.104.134.145 (Nucleo S.A.)	23.528	
+9% (59) -	10-jul-2024 02:13 (21 hours ago)
+77.77.210.90:21056	HTTPS	HIA	BA Sarajevo (Sarajevo Canton)	b2b-77-77-210-90.static.telemach.ba (Telemach BH d.o.o. Sarajevo)	4.134	
+12% (45) -	10-jul-2024 02:08 (21 hours ago)
+123.205.24.244:8197	HTTP	ANM	TW Taichung (Taichung City)	123-205-24-244.adsl.dynamic.seed.net.tw (Taiwan Infrastructure Network Technologie)	1.558	
+27% (19) +	10-jul-2024 01:56 (22 hours ago)
+161.34.68.133:3128	HTTP (Squid)	NOA	JP Higashifunabashi (Chiba)	161-34-68-133.indigo.static.arena.ne.jp (NTT PC Communications, Inc.)	8.409	
+8% (1) -	10-jul-2024 01:54 (22 hours ago)
+20.58.43.148:2028	HTTP (Tinyproxy)	ANM	GB London (England)	20.58.43.148 (MICROSOFT-CORP-MSN-AS-BLOCK)	19.268	
+5% (11) -	10-jul-2024 01:51 (22 hours ago)
+134.122.26.11:80	HTTP	HIA	US North Bergen (New Jersey)	134.122.26.11 (DIGITALOCEAN-ASN)	8.888	
+18% (343) -	10-jul-2024 01:50 (22 hours ago)
+69.75.140.157:8080	HTTP (Mikrotik)	NOA	US Upland (California)	syn-069-075-140-157.biz.spectrum.com (TWC-20001-PACWEST)	5.09	
+14% (534) -	10-jul-2024 01:46 (22 hours ago)
+122.2.79.174:8082	HTTP (Mikrotik)	NOA	PH Manila (Metro Manila)	122.2.79.174.pldt.net (Philippine Long Distance Telephone Company)	3.31	
+10% (18) -	10-jul-2024 01:33 (22 hours ago)
+212.115.232.79:31280	HTTP	HIA	UA Dnipro (Dnipropetrovsk Oblast)	79.232.PPPoE.fregat.ua (Traditional LLC)	4.259	
+9% (212) -	10-jul-2024 01:19 (22 hours ago)
+36.67.27.189:39674	HTTP	HIA	ID Cikupa (Banten)	36.67.27.189 (PT Telekomunikasi Indonesia)	16.424	
+12% (63) -	10-jul-2024 01:06 (22 hours ago)
+103.169.254.9:8090	HTTP (Mikrotik)	NOA	ID Sidoarjo (East Java)	103.169.254.9 (PT Master Star Network)	3.604	
+23% (3) -	10-jul-2024 01:03 (23 hours ago)
+47.89.25.204:9085	HTTP	HIA	HK Hong Kong	47.89.25.204 (Alibaba US Technology Co., Ltd.)	7.006	
+16% (108) -	10-jul-2024 00:52 (23 hours ago)
+103.145.150.26:8080	HTTP (Mikrotik)	NOA	ID	103.145.150.26 (PT INDONESIA COMNETS PLUS)	10.869	
+14% (44) -	10-jul-2024 00:43 (23 hours ago)
+138.59.165.85:1024	HTTP	ANM	PY Estancia Nueva Esperanza (Misiones Department)	138-59-165-85.pandaconect.net (PANDA CONECT S.A.)	1.624	
+48% (35) +	10-jul-2024 00:40 (23 hours ago)
+186.86.143.161:999	HTTP (Mikrotik)	NOA	CO San Gil (Santander Department)	dynamic-ip-18686143161.cable.net.co (Telmex Colombia S.A.)	2.88	
+14% (2) -	10-jul-2024 00:36 (23 hours ago)
+14.97.32.152:80	HTTP (Mikrotik)	NOA	IN Bengaluru (Karnataka) !!!	14.97.32.152 (Tata Teleservices ISP AS)	3.973	
+15% (26) -	10-jul-2024 00:34 (23 hours ago)
+146.190.224.204:3128	HTTP (Squid)	NOA	NL Amsterdam (North Holland)	146.190.224.204 (DIGITALOCEAN-ASN)	20.99	
+33% (2) -	10-jul-2024 00:33 (23 hours ago)
+103.104.192.114:8080	HTTP (Mikrotik)	NOA	PK Karachi (Sindh)	103.104.192.114 (Redtone Telecommunications Pakistan Private Limited)	2.738	
+11% (29) -	10-jul-2024 00:29 (23 hours ago)
+83.151.4.172:57812	HTTP	HIA	RU	83.151.4.172 (MTS PJSC)	4.448	
+16% (203) -	10-jul-2024 00:28 (23 hours ago)
+142.79.227.226:63365	HTTP (Squid)	ANM	IN	142.79.227.226 (Netmagic Datacenter Mumbai)	14.537	
+10% (29) -	10-jul-2024 00:25 (23 hours ago)
+199.203.152.99:8111	HTTP	ANM	IL Giv‘atayim (Tel Aviv) !!!	199.203.152.99 (Cellcom Fixed Line Communication L.P)	0.534	
+4% (8) -	10-jul-2024 00:15 (23 hours ago)
+82.218.176.25:32650	HTTPS (Mikrotik)	NOA	AT Korneuburg (Lower Austria) !!!	mail.noezsv.at (kabelplus GmbH)	3.319	
+8% (45) -	10-jul-2024 00:14 (23 hours ago)
+190.192.228.174:8080	HTTP (Mikrotik)	NOA	AR Lanús (Buenos Aires)	174-228-192-190.cab.prima.net.ar (Telecom Argentina S.A.)	12.53	
+19% (6) -	10-jul-2024 00:09 (23 hours ago)
+133.232.90.156:80	HTTP	HIA	JP	133.232.90.156.static.zoot.jp (NTT PC Communications, Inc.)	24.395	
+2% (15) -	10-jul-2024 00:08 (23 hours ago)
+117.55.202.206:3128	HTTP (Squid)	NOA	NL Amsterdam (North Holland)	117.55.202.206 (ESTOXY OU)	9.708	
+23% (5) -	10-jul-2024 00:04 (23 hours ago)
+189.124.90.13:7171	HTTP (Mikrotik)	NOA	BR Presidente Bernardes (São Paulo) !!!	13.90.124.189.efit.net.br (FIT Telecom Eireli)	4.494	
+2% (1) -	10-jul-2024 00:03 (1 days ago)
+81.134.57.82:3128	HTTP (Squid)	NOA	GB Southwark	host81-134-57-82.in-addr.btopenworld.com (British Telecommunications PLC)	15.355	
+10% (766) -	10-jul-2024 00:02 (1 days ago)
+103.113.152.46:8080	HTTPS (Mikrotik)	NOA	BD	103.113.152.46 (Triangle Services Limited.)	4.782	
+20% (2) -	09-jul-2024 23:59 (1 days ago)
+85.117.60.131:8080	HTTP (Mikrotik)	NOA	GE Tbilisi	85.117.60.131 (Caucasus Online Ltd.)	3.473	
+13% (51) -	09-jul-2024 23:57 (1 days ago)
+103.58.95.5:8080	HTTPS (Mikrotik)	NOA	BD	103.58.95.5 (Metaphor Digital Media)	13.193	
+3% (39) -	09-jul-2024 23:57 (1 days ago)
+87.98.187.57:80	HTTP	NOA	FR	ip57.ip-87-98-187.eu (OVH SAS)	0.127	
+65% (17) +	09-jul-2024 23:51 (1 days ago)
+80.13.43.193:80	HTTP	ANM	FR	laubervilliers-656-1-37-193.w80-13.abo.wanadoo.fr (Orange)	9.615	
+35% (736) -	09-jul-2024 23:50 (1 days ago)
+191.101.214.46:3128	HTTPS (Squid)	NOA	TH Bangkok	191.101.214.46 (CSNE Co., Ltd.)	3.017	
+5% (4) +	09-jul-2024 23:50 (1 days ago)
+36.91.135.141:40	HTTP (Mikrotik)	NOA	ID Jakarta	36.91.135.141 (PT Telekomunikasi Indonesia)	23.972	
+16% (15) -	09-jul-2024 23:49 (1 days ago)
+102.165.58.218:8080	HTTP	ANM	KH Phnom Penh	102.165.58.218 (Today Communication Co.,Ltd)	1.331	
+50% (8) -	09-jul-2024 23:40 (1 days ago)
+115.245.86.37:3129	HTTPS (Squid)	NOA	IN New Delhi (National Capital Territory of Delhi)	115.245.86.37 (Reliance Jio Infocomm Limited)	13.547	
+9% (15) -	09-jul-2024 23:36 (1 days ago)
+58.65.197.91:8080	HTTPS (Mikrotik)	NOA	PK Karachi (Sindh)	58.65.197.91 (Cyber Internet Services Pvt Ltd.)	2.602	
+12% (19) -	09-jul-2024 23:36 (1 days ago)
+122.185.198.242:7999	HTTP	HIA	IN Bengaluru (Karnataka)	nsg-corporate-242.198.185.122.airtel.in (BHARTI Airtel Ltd.)	3.526	
+10% (37) -	09-jul-2024 23:32 (1 days ago)
+103.148.39.26:82	HTTP (Mikrotik)	NOA	IN Bengaluru (Karnataka)	103.148.39.26 (Broadway Communication Pvt Ltd)	5.015	
+19% (18) -	09-jul-2024 23:32 (1 days ago)
+46.101.223.220:3124	HTTP (Squid)	NOA	DE Frankfurt am Main (Hesse)	prime.wreningham.com (DIGITALOCEAN-ASN)	11.214	
+21% (132) -	09-jul-2024 23:24 (1 days ago)
+216.176.187.99:39865	HTTPS	ANM	US Seattle (Washington) !!!	harris.proinitiate.com (WOW)	8.161	
+6% (1) -	09-jul-2024 23:19 (1 days ago)
+12.133.53.17:83	HTTP (Mikrotik)	NOA	US Beachwood (Ohio) !!!	12.133.53.17 (ATT-INTERNET4)	5.984	
+10% (12) -	09-jul-2024 23:15 (1 days ago)
+124.6.155.170:3131	HTTP (Squid)	ANM	PH Las Pinas (Metro Manila)	124.6.155.170 (Globe Telecoms)	14.09	
+63% (5) -	09-jul-2024 23:10 (1 days ago)
+94.23.162.63:14701	SOCKS5	HIA	DE Saarbrücken (Saarland) !!!	ip63.ip-94-23-162.eu (OVH SAS)	1.974	
+25% (2) +	09-jul-2024 23:07 (1 days ago)
+103.191.196.79:1080	SOCKS5	HIA	ID Indramayu (West Java)	host-196-79.palindo.id (PT Pangkalan Lintas Data)	2.264	
+26% (5) -	09-jul-2024 22:55 (1 days ago)
+200.10.28.217:8083	HTTPS (Mikrotik)	NOA	CO Manizales (Caldas Department) !!!	static-sa-200-10-28-217.superredes.net (SUPER REDES S.A.S)	16.764	
+50% (2) -	09-jul-2024 22:51 (1 days ago)
+47.251.76.220:8888	SOCKS5	HIA	US	47.251.76.220 (Alibaba US Technology Co., Ltd.)	1.183	
+33% (2) +	09-jul-2024 22:50 (1 days ago)
+36.92.111.49:52471	SOCKS5	HIA	ID Bekasi (West Java)	36.92.111.49 (PT Telekomunikasi Indonesia)	1.496	
+17% (45) -	09-jul-2024 22:49 (1 days ago)
+164.132.120.31:1111	SOCKS5	HIA	FR	mx30.promaildnd2.com (OVH SAS)	3.364	
+new +	09-jul-2024 22:48 (1 days ago)
+103.247.14.103:1111	HTTP (Mikrotik)	NOA	ID Klaten (Central Java)	ip-103-14-247.terabit.net.id (PT SELARAS CITRA TERABIT)	14.464	
+15% (21) -	09-jul-2024 22:43 (1 days ago)
+109.201.13.186:8080	HTTP (Mikrotik)	NOA	IR Tehran	int0.client.access.fanaptelecom.net (Tose`h Fanavari Ertebabat Pasargad Arian Co. PJS)	4.441	
+6% (2) -	09-jul-2024 22:41 (1 days ago)
+94.23.222.122:56759	SOCKS5	HIA	FR	ks306513.kimsufi.com (OVH SAS)	11.853	
+58% (7) +	09-jul-2024 22:36 (1 days ago)
+103.110.10.69:3127	HTTP (Mikrotik)	NOA	ID Bandung (West Java)	103.110.10.69 (PT Citra Jelajah Informatika)	21.054	
+30% (13) -	09-jul-2024 22:34 (1 days ago)
+212.227.184.59:8080	HTTPS (Squid)	NOA	DE	ip212-227-184-59.pbiaas.com (IONOS SE)	23.636	
+5% (15) -	09-jul-2024 22:27 (1 days ago)
+185.255.46.121:8080	HTTP (Mikrotik)	NOA	IQ	185.255.46.121 (Valin Company for General Trading and Communication LTD)	10.561	
+13% (164) -	09-jul-2024 22:27 (1 days ago)
+104.225.220.233:80	HTTP	HIA	US Dallas (Texas)	104.225.220.233 (HVC-AS)	19.564	
+18% (964) -	09-jul-2024 22:26 (1 days ago)
+181.78.95.49:999	HTTP (Mikrotik)	NOA	PY Asunción !!!	49.95.78.181.ufinet.com.py (UFINET PANAMA S.A.)	22.419	
+40% (2) -	09-jul-2024 22:21 (1 days ago)
+181.209.110.190:999	HTTP (Mikrotik)	NOA	AR Posadas (Misiones) !!!	190.110.209.181.in-addr.arpa (Empresa Argentina de Soluciones Satelitales S.A.)	6.253	
+13% (68) -	09-jul-2024 22:18 (1 days ago)
+103.156.70.70:8090	HTTP (Mikrotik)	NOA	ID Banyuwangi (East Java) !!!	103.156.70.70 (PT Indo Access Semesta)	21.383	
+7% (8) -	09-jul-2024 22:16 (1 days ago)
+162.240.75.37:80	HTTP	HIA	US Tooele (Utah)	vps-8764502.vadetaxi-homolog.com (UNIFIEDLAYER-AS-1)	15.666	
+27% (911) -	09-jul-2024 22:16 (1 days ago)
+117.102.81.5:53281	HTTP	HIA	ID Jakarta !!!	117.102.81.5 (BIZNET NETWORKS)	9.769	
+4% (6) -	09-jul-2024 22:07 (1 days ago)
+103.178.42.3:8181	HTTPS (Mikrotik)	NOA	ID !!!	103.178.42.3 (PT Jaring Solusi Persada)	18.851	
+10% (4) -	09-jul-2024 22:03 (1 days ago)
+46.250.229.114:8888	HTTP	ANM	SG Singapore	vmi1762285.contaboserver.net (Contabo Asia Private Limited)	1.493	
+89% (17) -	09-jul-2024 22:02 (1 days ago)
+167.102.133.106:80	HTTP	ANM	US Baltimore (Maryland) !!!	167.102.133.106 (NETWORKMARYLAND)	2.046	
+63% (31) -	09-jul-2024 22:02 (1 days ago)
+118.70.49.64:8080	HTTP (Mikrotik)	NOA	VN Hanoi	118.70.49.64 (FPT Telecom Company)	9.335	
+8% (23) -	09-jul-2024 21:56 (1 days ago)
+27.54.150.122:8080	HTTP (Mikrotik)	NOA	BD Sunāmganj (Sunamganj)	27.54.150.122.xpress.ltd (X-press Technologies Limited.)	21.325	
+10% (3) -	09-jul-2024 21:55 (1 days ago)
+177.39.139.14:9999	HTTPS (Mikrotik)	NOA	BR Araucária (Paraná)	177.39.139.14.bonustelecom.com.br (DIGITAL DESIGN SERVICOS DE TELECOMUNICACOES EIRELI)	7.351	
+16% (4) -	09-jul-2024 21:53 (1 days ago)
+193.38.224.169:8081	HTTP (Mikrotik)	NOA	ES Madrid	169.red-193-38-224.static.citelia.es (Citelia s.a.)	1.886	
+13% (23) -	09-jul-2024 21:25 (1 days ago)
+102.130.125.86:80	HTTP	HIA	ZA	102.130.125.86 (Host-Africa-AS)	7.44	
+43% (106) -	09-jul-2024 21:03 (1 days ago)
+91.136.142.155:8080	HTTP (Mikrotik)	NOA	DE Schwerte (North Rhine-Westphalia)	91.136.142.155 (ELEMENTMEDIA GmbH)	15.198	
+18% (15) -	09-jul-2024 21:00 (1 days ago)
+95.31.138.233:8080	HTTP (Mikrotik)	NOA	RU Moscow	95-31-138-233.broadband.corbina.ru (PVimpelCom)	11.226	
+11% (5) -	09-jul-2024 20:59 (1 days ago)
+119.159.224.89:8080	HTTP (Mikrotik)	NOA	PK Gujrat (Punjab) !!!	119.159.224.89 (Pakistan Telecommunication Company Limited)	4.058	
+10% (12) -	09-jul-2024 20:39 (1 days ago)
+103.254.85.66:8080	HTTP (Mikrotik)	NOA	BD !!!	client-103-254-85-66.hrctech.net (26 Shyamoli, Bir Uttam A. W. Chowdhury Road)	2.718	
+27% (3) -	09-jul-2024 20:36 (1 days ago)
+1.162.14.236:80	HTTP	ANM	TW Taipei (Taipei City)	1-162-14-236.dynamic-ip.hinet.net (Data Communication Business Group)	2.985	
+64% (7) -	09-jul-2024 20:26 (1 days ago)
+103.93.34.195:8999	HTTP (Mikrotik)	NOA	BD Benāpol (Jessore) !!!	103.93.34.195 (Apple Communication Ltd.)	2.077	
+25% (1) -	09-jul-2024 20:13 (1 days ago)
+94.253.81.152:8080	HTTP (Mikrotik)	NOA	RU	152.vps.itkm.ru (Ivanteevskie telecommunicacii Ltd)	2.196	
+22% (8) -	09-jul-2024 20:11 (1 days ago)
+112.198.130.51:8082	HTTPS (Mikrotik)	NOA	PH Nasugbu (Province of Batangas)	112.198.130.51 (Globe Telecom Inc.)	4.347	
+12% (23) -	09-jul-2024 20:09 (1 days ago)
+152.32.67.243:10101	HTTP (Mikrotik)	NOA	PH Marikina City (Metro Manila)	243.67.32.152.-rev.convergeict.com (Converge ICT Solutions Inc.)	12.01	
+8% (112) -	09-jul-2024 20:08 (1 days ago)
+15.204.151.149:31158	HTTP (Squid)	NOA	US Reston (Virginia)	ip149.ip-15-204-151.us (OVH SAS)	10.884	
+40% (4) -	09-jul-2024 20:06 (1 days ago)
+8.243.161.210:999	HTTP (Mikrotik)	NOA	CO Barranquilla (Atlántico)	8.243.161.210 (LEVEL3)	18.355	
+12% (9) -	09-jul-2024 20:04 (1 days ago)
+88.79.243.103:3128	HTTPS (Squid)	NOA	DE Berlin (Land Berlin)	88.79.243.103 (Vodafone GmbH)	0.221	
+38% (357) -	09-jul-2024 20:03 (1 days ago)
+78.31.66.107:27487	SOCKS5	HIA	DE	haumann-group.com (WIIT AG)	2.523	
+33% (1) -	09-jul-2024 19:58 (1 days ago)
+101.109.143.181:8080	HTTP (Mikrotik)	NOA	TH Bangkok !!!	node-sdx.pool-101-109.dynamic.totinternet.net (TOT Public Company Limited)	9.034	
+15% (15) -	09-jul-2024 19:57 (1 days ago)
+83.169.17.201:80	HTTP	HIA	FR Strasbourg (Bas-Rhin)	lvps83-169-17-201.dedicated.hosteurope.de (Host Europe GmbH)	5.065	
+32% (75) -	09-jul-2024 19:56 (1 days ago)
+203.190.113.164:8071	HTTP (Mikrotik)	NOA	ID	jogja.routelink.net.id (PT. Union Routelink Communication)	8.191	
+8% (2) -	09-jul-2024 19:43 (1 days ago)
